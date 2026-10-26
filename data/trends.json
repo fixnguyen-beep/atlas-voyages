@@ -1,77 +1,35 @@
 {
-  "generated_at": "2026-10-26T00:00:00+00:00",
-  "summary": "Les tendances les plus fortes restent le luxe durable, les séjours culturels, le wellness et les destinations nature premium.",
+  "generated_at": "2026-10-26T15:56:47.078144+00:00",
+  "summary": "Les tendances de voyage révèlent une forte montée du luxe durable en Thaïlande, notamment à Bangkok et Koh Samui, tandis que le Japon continue d'attirer les visiteurs vers Kyoto et Tokyo, surtout hors saison. Marrakech et Essaouira au Maroc séduisent de plus en plus les amateurs de culture, tandis que le Portugal se distingue par une croissance du tourisme de niche axée sur le design et le bien-être. Enfin, l'Islande reste une destination prisée pour ses circuits nature et ses hébergements premium.\n\n**Classement des destinations tendance :**\n1. Thaïlande - Luxe durable (Score : 92)\n2. Japon - Séjours hors saison (Score : 87)\n3. Maroc - Voyage culturel (Score : 84)\n4. Portugal - Tourisme de niche (Score : 80)\n5. Islande - Circuits nature (Score : 78)",
   "items": [
     {
       "destination": "Thaïlande",
-      "theme": "Luxe durable",
-      "audience": "Couples • premium",
-      "best_for": "Bangkok, spas, villas, plages calmes",
-      "budget": "€1 200–€2 500",
-      "stay_length": "6–10 nuits",
-      "hotel_style": "Boutique eco-luxury",
-      "why_now": "Hausse des séjours premium avec une approche plus durable et plus intime.",
+      "trend": "Hausse du luxe durable à Bangkok et Koh Samui",
       "score": 92,
       "source": "travel-insights"
     },
     {
       "destination": "Japon",
-      "theme": "Culture & design",
-      "audience": "Couples • culture",
-      "best_for": "Kyoto, Tokyo, ryokan, temples",
-      "budget": "€1 400–€2 800",
-      "stay_length": "7–12 nuits",
-      "hotel_style": "Ryokan design / luxe discret",
-      "why_now": "La demande reste forte pour des séjours immersifs et visuellement raffinés.",
-      "score": 88,
+      "trend": "Demande stable pour Kyoto, Tokyo et les séjours hors saison",
+      "score": 87,
       "source": "travel-insights"
     },
     {
       "destination": "Maroc",
-      "theme": "Culture & riads",
-      "audience": "Couples • week-end luxe",
-      "best_for": "Marrakech, Essaouira, riads, cuisine",
-      "budget": "€900–€2 000",
-      "stay_length": "4–8 nuits",
-      "hotel_style": "Riad chic / wellness",
-      "why_now": "L’offre luxe inspirée du patrimoine est très recherchée pour les voyages courts.",
+      "trend": "Marrakech et Essaouira attirent davantage les voyageurs culturels",
       "score": 84,
       "source": "travel-insights"
     },
     {
       "destination": "Portugal",
-      "theme": "Design & bien-être",
-      "audience": "Sans enfants • lifestyle",
-      "best_for": "Porto, Sintra, hôtels design, vin et nature",
-      "budget": "€1 000–€2 200",
-      "stay_length": "5–9 nuits",
-      "hotel_style": "Petit hôtel design / maison d’hôtes",
-      "why_now": "Les voyageurs recherchent des séjours élégants, aérés et faciles à vivre.",
-      "score": 81,
+      "trend": "Croissance du tourisme de niche autour du design et du bien-être",
+      "score": 80,
       "source": "travel-insights"
     },
     {
       "destination": "Islande",
-      "theme": "Nature premium",
-      "audience": "Amis • nature",
-      "best_for": "Road trip, volcan, spa, paysages extrêmes",
-      "budget": "€1 600–€3 200",
-      "stay_length": "7–10 nuits",
-      "hotel_style": "Lodge haut de gamme / campements haut standing",
-      "why_now": "Les escapades nature premium restent très prisées pour les voyageurs exigeants.",
-      "score": 79,
-      "source": "travel-insights"
-    },
-    {
-      "destination": "Bali",
-      "theme": "Wellness & villas",
-      "audience": "Couples • slow travel",
-      "best_for": "Spa, yoga, villas, calme et vue jungle",
-      "budget": "€1 100–€2 400",
-      "stay_length": "6–11 nuits",
-      "hotel_style": "Villa contemporaine / wellness retreat",
-      "why_now": "La demande pour des séjours lentement conçus augmente sur le marché premium.",
-      "score": 86,
+      "trend": "Toujours forte demande pour les circuits nature et les hôtels premium",
+      "score": 78,
       "source": "travel-insights"
     }
   ]
