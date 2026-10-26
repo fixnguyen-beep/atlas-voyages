@@ -38,7 +38,22 @@
       "destination": "Thaïlande",
       "continent": "Asie",
       "summary": "Bangkok, villes royales et paysages tropicaux.",
-      "score": 92,
+      "highlights": [
+        "Grand Palais et Wat Phra Kaew|Le grand ensemble royal de Bangkok.",
+        "Ayutthaya|Vestiges de l’ancienne capitale du Siam.",
+        "Sukhothai historique|Temples et sculptures de l’âge d’or siamois."
+      ],
+      "stays": [
+        "The Sukhothai Bangkok|Bangkok|Jardins, piscine et sérénité urbaine.",
+        "Amanpuri|Phuket|Pavillons thaïs, intimité et plage superbe.",
+        "Four Seasons Resort Chiang Mai|Mae Rim|Rizières, jardins et architecture lanna."
+      ],
+      "practical": {
+        "when": "Novembre à février",
+        "duration": "10–14 jours",
+        "fromParis": "Vol direct Paris–Bangkok selon programme."
+      },
+      "verdict": "Excellent équilibre entre culture et repos.",
       "theme": "Luxe durable",
       "audience": "Couples • premium",
       "best_for": "Bangkok, spas, villas, plages calmes",
@@ -46,13 +61,29 @@
       "stay_length": "6–10 nuits",
       "hotel_style": "Boutique eco-luxury",
       "why_now": "Hausse des séjours premium avec une approche plus durable et plus intime.",
+      "score": 92,
       "source": "travel-insights"
     },
     {
       "destination": "Japon",
       "continent": "Asie",
       "summary": "Esthétique, jardins et traditions vivantes.",
-      "score": 88,
+      "highlights": [
+        "Temples et jardins de Kyoto|Patrimoine et paysages composés.",
+        "Nara|Grand Bouddha et sanctuaires anciens.",
+        "Himeji|Château féodal remarquablement conservé."
+      ],
+      "stays": [
+        "Aman Kyoto|Kyoto|Jardin secret et pavillons minimalistes.",
+        "Hoshinoya Kyoto|Kyoto|Retraite au bord de la rivière.",
+        "Gora Kadan|Hakone|Ryokan raffiné et bains thermaux."
+      ],
+      "practical": {
+        "when": "Mars–mai ou octobre–novembre",
+        "duration": "10–14 jours",
+        "fromParis": "Paris–Tokyo ou Osaka ; train pour les grandes étapes."
+      },
+      "verdict": "Exceptionnel en couple ; en famille, simplifier les déplacements.",
       "theme": "Culture & design",
       "audience": "Couples • culture",
       "best_for": "Kyoto, Tokyo, ryokan, temples",
@@ -60,13 +91,29 @@
       "stay_length": "7–12 nuits",
       "hotel_style": "Ryokan design / luxe discret",
       "why_now": "La demande reste forte pour des séjours immersifs et visuellement raffinés.",
+      "score": 88,
       "source": "travel-insights"
     },
     {
       "destination": "Bali",
       "continent": "Asie",
       "summary": "Wellness, villas et nature luxuriante.",
-      "score": 86,
+      "highlights": [
+        "Ubud|Culture balinaise et rizières.",
+        "Bali Barat National Park|Forêts, récifs et paysages sauvages.",
+        "Canggu|Surf et ambiance plus relaxed."
+      ],
+      "stays": [
+        "Amandari|Ubud|Villas au-dessus des rizières.",
+        "Capella Ubud|Bali|Campement raffiné en forêt.",
+        "The Ungasan|Uluwatu|Villa premium et vues sur l’océan."
+      ],
+      "practical": {
+        "when": "Mai–octobre",
+        "duration": "6–11 jours",
+        "fromParis": "Paris–Bali avec escale selon l’offre."
+      },
+      "verdict": "Très bon choix pour slow travel et séjours premium.",
       "theme": "Wellness & villas",
       "audience": "Couples • slow travel",
       "best_for": "Spa, yoga, villas, calme et vue jungle",
@@ -74,13 +121,29 @@
       "stay_length": "6–11 nuits",
       "hotel_style": "Villa contemporaine / wellness retreat",
       "why_now": "La demande pour des séjours lentement conçus augmente sur le marché premium.",
+      "score": 86,
       "source": "travel-insights"
     },
     {
       "destination": "Maroc",
       "continent": "Afrique",
       "summary": "Médinas, jardins et artisanat.",
-      "score": 84,
+      "highlights": [
+        "Médina de Fès|Architecture et artisanat séculaires.",
+        "Médina de Marrakech|Palais, souks et monuments.",
+        "Aït-Ben-Haddou|Ksar traditionnel en terre."
+      ],
+      "stays": [
+        "Royal Mansour Marrakech|Marrakech|Riads privés et jardins remarquables.",
+        "Amanjena|Marrakech|Pavillons autour des bassins.",
+        "Kasbah Tamadot|Atlas|Maison de montagne avec personnalité."
+      ],
+      "practical": {
+        "when": "Mars–mai ou octobre–novembre",
+        "duration": "4–8 jours",
+        "fromParis": "Vol direct Paris–Marrakech ou Fès."
+      },
+      "verdict": "Marrakech fonctionne très bien si l’hôtel est un refuge paisible.",
       "theme": "Culture & riads",
       "audience": "Couples • week-end luxe",
       "best_for": "Marrakech, Essaouira, riads, cuisine",
@@ -88,13 +151,29 @@
       "stay_length": "4–8 nuits",
       "hotel_style": "Riad chic / wellness",
       "why_now": "L’offre luxe inspirée du patrimoine est très recherchée pour les voyages courts.",
+      "score": 84,
       "source": "travel-insights"
     },
     {
       "destination": "Portugal",
       "continent": "Europe",
       "summary": "Villes historiques, palais et vignobles.",
-      "score": 81,
+      "highlights": [
+        "Sintra|Palais romantiques et jardins.",
+        "Monastère des Hiéronymites|Chef-d’œuvre manuelin à Lisbonne.",
+        "Porto historique|Ruelles et patrimoine du Douro."
+      ],
+      "stays": [
+        "Six Senses Douro Valley|Douro|Domaine, piscine et sérénité.",
+        "Sublime Comporta|Comporta|Cabanes, pinède et élégance naturelle.",
+        "Verride Palácio Santa Catarina|Lisbonne|Petit palais et atmosphère résidentielle."
+      ],
+      "practical": {
+        "when": "Mai–juin ou septembre",
+        "duration": "5–10 jours",
+        "fromParis": "Vol direct Paris–Lisbonne ou Porto."
+      },
+      "verdict": "Destination parfaitement alignée avec vos préférences.",
       "theme": "Design & bien-être",
       "audience": "Sans enfants • lifestyle",
       "best_for": "Porto, Sintra, hôtels design, vin et nature",
@@ -102,6 +181,7 @@
       "stay_length": "5–9 nuits",
       "hotel_style": "Petit hôtel design / maison d’hôtes",
       "why_now": "Les voyageurs recherchent des séjours élégants, aérés et faciles à vivre.",
+      "score": 81,
       "source": "travel-insights"
     }
   ]
