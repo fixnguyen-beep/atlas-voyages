@@ -39,19 +39,19 @@
       "continent": "Asie",
       "summary": "Bangkok, villes royales, plages et culture inspirante.",
       "highlights": [
-        "Grand Palais et Wat Phra Kaew|Le grand ensemble royal de Bangkok.",
+        "Grand Palais|Le grand ensemble royal de Bangkok.",
         "Ayutthaya|Vestiges de l’ancienne capitale du Siam.",
-        "Sukhothai historique|Temples et sculptures de l’âge d’or siamois."
+        "Sukhothai|Temples et sculptures de l’âge d’or siamois."
       ],
       "stays": [
-        "The Sukhothai Bangkok|Bangkok|Jardins, piscine et sérénité urbaine.",
-        "Amanpuri|Phuket|Pavillons thaïs, intimité et plage superbe.",
-        "Four Seasons Resort Chiang Mai|Mae Rim|Rizières, jardins et architecture lanna."
+        "The Sukhothai Bangkok|Bangkok|Jardins et sérénité urbaine.",
+        "Amanpuri|Phuket|Pavillons thaïs et plage superbe.",
+        "Four Seasons Chiang Mai|Mae Rim|Rizières et architecture lanna."
       ],
       "practical": {
         "when": "Novembre à février",
         "duration": "10–14 jours",
-        "fromParis": "Vol direct Paris–Bangkok selon programme."
+        "fromParis": "Vol direct Paris–Bangkok."
       },
       "verdict": "Excellent équilibre entre culture, luxe discret et repos.",
       "theme": "Luxe durable",
@@ -69,9 +69,9 @@
       "continent": "Asie",
       "summary": "Esthétique, temples, gastronomie et voyages immersifs.",
       "highlights": [
-        "Kyoto|Temples, jardins et culture raffinée.",
+        "Kyoto|Temples et jardins culturels.",
         "Nara|Grand Bouddha et sanctuaires anciens.",
-        "Himeji|Château féodal remarquablement conservé."
+        "Himeji|Château féodal remarquable."
       ],
       "stays": [
         "Aman Kyoto|Kyoto|Jardin secret et pavillons minimalistes.",
@@ -81,7 +81,7 @@
       "practical": {
         "when": "Mars–mai ou octobre–novembre",
         "duration": "10–14 jours",
-        "fromParis": "Paris–Tokyo ou Osaka ; train pour les grandes étapes."
+        "fromParis": "Paris–Tokyo ou Osaka."
       },
       "verdict": "Indispensable pour une escapade culturelle haut de gamme.",
       "theme": "Culture & design",
@@ -100,7 +100,7 @@
       "summary": "Yoga, villas, rizières, spas et bien-être profond.",
       "highlights": [
         "Ubud|Culture balinaise et rizières.",
-        "Bali Barat National Park|Forêts, récifs et paysages sauvages.",
+        "Bali Barat|Forêts, récifs et paysages sauvages.",
         "Canggu|Surf et ambiance plus relaxed."
       ],
       "stays": [
@@ -111,7 +111,7 @@
       "practical": {
         "when": "Mai–octobre",
         "duration": "6–11 jours",
-        "fromParis": "Paris–Bali avec escale selon l’offre."
+        "fromParis": "Paris–Bali avec escale."
       },
       "verdict": "Très bon choix pour le slow travel et les séjours premium.",
       "theme": "Wellness & villas",
@@ -135,7 +135,7 @@
       ],
       "stays": [
         "The Leela Palace|New Delhi|Luxe contemporain et service exceptionnel.",
-        "Taj Falaknuma Palace|Hyderabad|Palais historique et extravagance.",
+        "Taj Falaknuma|Hyderabad|Palais historique et extravagance.",
         "Rambagh Palace|Jaipur|Patrimoine royal et grand luxe."
       ],
       "practical": {
@@ -143,7 +143,7 @@
         "duration": "10–15 jours",
         "fromParis": "Vol direct Paris–Delhi ou Mumbai."
       },
-      "verdict": "Excellente destination si l’on recherche un voyage très visuel et émotionnel.",
+      "verdict": "Excellente destination si l’on recherche un voyage visuel et émotionnel.",
       "theme": "Culture & luxe royal",
       "audience": "Couples • patrimoine",
       "best_for": "Palaces, forts, gastronomie, temples",
@@ -159,8 +159,8 @@
       "continent": "Afrique",
       "summary": "Médinas, jardins et artisanat.",
       "highlights": [
-        "Médina de Fès|Architecture et artisanat séculaires.",
-        "Médina de Marrakech|Palais, souks et monuments.",
+        "Fès|Architecture et artisanat séculaires.",
+        "Marrakech|Palais, souks et monuments.",
         "Aït-Ben-Haddou|Ksar traditionnel en terre."
       ],
       "stays": [
@@ -171,7 +171,7 @@
       "practical": {
         "when": "Mars–mai ou octobre–novembre",
         "duration": "4–8 jours",
-        "fromParis": "Vol direct Paris–Marrakech ou Fès."
+        "fromParis": "Vol direct Paris–Marrakech."
       },
       "verdict": "Marrakech fonctionne très bien si l’hôtel est un refuge paisible.",
       "theme": "Culture & riads",
@@ -194,14 +194,14 @@
         "Ha Long Bay|Paysages côtiers et faune marine."
       ],
       "stays": [
-        "The Nam Hai|Hội An|Villas au bord de la plage et jardins luxuriants.",
-        "Amanoi|Nha Trang|Vue sur la baie et bien-être limpide.",
+        "The Nam Hai|Hoi An|Villas au bord de la plage.",
+        "Amanoi|Nha Trang|Vue sur la baie et bien-être.",
         "The Pavilions|Ha Long|Architecture contemporaine et luxe discret."
       ],
       "practical": {
         "when": "Octobre–avril",
         "duration": "8–12 jours",
-        "fromParis": "Paris–Hanoï ou Ho Chi Minh City avec escale."
+        "fromParis": "Paris–Hanoï ou Ho Chi Minh City."
       },
       "verdict": "Très bien pour un voyage alliant culture, cuisine et nature.",
       "theme": "Culture & nature",
@@ -210,5 +210,180 @@
       "budget": "€1 000–€2 200",
       "stay_length": "5–9 nuits",
       "hotel_style": "Boutique luxury / resort chic",
-      "why_now": "La demande pour le Vietnam premium reste très forte à cause de son excellent rapport qualité / prix.",
-      "score": 82,](#)
+      "why_now": "La demande pour le Vietnam premium reste très forte à cause de son excellent rapport qualité/prix.",
+      "score": 82,
+      "source": "travel-insights"
+    },
+    {
+      "destination": "Portugal",
+      "continent": "Europe",
+      "summary": "Villes historiques, palais et vignobles.",
+      "highlights": [
+        "Sintra|Palais romantiques et jardins.",
+        "Lisbonne|Monastère manuelin et panorama.",
+        "Porto|Ruelles et patrimoine du Douro."
+      ],
+      "stays": [
+        "Six Senses Douro|Douro|Domaine, piscine et sérénité.",
+        "Sublime Comporta|Comporta|Cabanes et élégance naturelle.",
+        "Verride Lisbon|Lisbonne|Petit palais et atmosphère résidentielle."
+      ],
+      "practical": {
+        "when": "Mai–juin ou septembre",
+        "duration": "5–10 jours",
+        "fromParis": "Vol direct Paris–Lisbonne ou Porto."
+      },
+      "verdict": "Destination parfaitement alignée avec vos préférences.",
+      "theme": "Design & bien-être",
+      "audience": "Sans enfants • lifestyle",
+      "best_for": "Porto, Sintra, hôtels design, vin et nature",
+      "budget": "€1 000–€2 200",
+      "stay_length": "5–9 nuits",
+      "hotel_style": "Petit hôtel design / maison d’hôtes",
+      "why_now": "Les voyageurs recherchent des séjours élégants, aérés et faciles à vivre.",
+      "score": 81,
+      "source": "travel-insights"
+    },
+    {
+      "destination": "Afrique du Sud",
+      "continent": "Afrique",
+      "summary": "Safari, coastlines et espaces grandioses.",
+      "highlights": [
+        "Kruger|Safari et animaux emblématiques.",
+        "Cape Town|Villes, montagnes et mer.",
+        "Garden Route|Routes côtières et nature généreuse."
+      ],
+      "stays": [
+        "Singita Boulders|Kruger|Safari luxe et vue sur les falaises.",
+        "The Silo Hotel|Le Cap|Design et vue sur le port.",
+        "Bushmans Kloof|Cederberg|Retraite luxe dans le désert."
+      ],
+      "practical": {
+        "when": "Mai–octobre",
+        "duration": "8–12 jours",
+        "fromParis": "Vol direct Paris–Johannesburg ou Le Cap."
+      },
+      "verdict": "Excellente destination pour un voyage très visuel et très riche.",
+      "theme": "Safari & coast",
+      "audience": "Couples • nature",
+      "best_for": "Safari, villes, montagnes, plage",
+      "budget": "€1 500–€3 200",
+      "stay_length": "7–11 nuits",
+      "hotel_style": "Lodge safari / design hôtel",
+      "why_now": "L’Afrique du Sud reste crème de la crème du safari premium.",
+      "score": 80,
+      "source": "travel-insights"
+    },
+    {
+      "destination": "Espagne",
+      "continent": "Europe",
+      "summary": "Villes d’art, architecture singulière et soleil généreux.",
+      "highlights": [
+        "Alhambra|Palais nasrides et jardins.",
+        "Cordoue|Mosquée-cathédrale et ruelles historiques.",
+        "Tolède|Cité historique multiculturelle."
+      ],
+      "stays": [
+        "Finca Cortesin|Andalousie|Jardins soignés et service posé.",
+        "La Residencia|Majorque|Village, oliviers et charme artistique.",
+        "Cap Rocat|Majorque|Forteresse restaurée, atmosphère intime."
+      ],
+      "practical": {
+        "when": "Avril–juin ou septembre–octobre",
+        "duration": "5–10 jours",
+        "fromParis": "Vol direct Paris–Séville, Malaga ou Palma."
+      },
+      "verdict": "Andalousie culturelle puis repos en bord de mer : combinaison idéale.",
+      "theme": "Culture & soleil",
+      "audience": "Couples • luxe accessible",
+      "best_for": "Andalousie, Majorque, architecture, cuisine",
+      "budget": "€1 000–€2 400",
+      "stay_length": "5–9 nuits",
+      "hotel_style": "Villa / domaine chic",
+      "why_now": "Le marché espagnol reste très fort pour le luxe discret.",
+      "score": 80,
+      "source": "travel-insights"
+    },
+    {
+      "destination": "Italie",
+      "continent": "Europe",
+      "summary": "Art, histoire, gastronomie et villages enchanteurs.",
+      "highlights": [
+        "Rome|Forum, Palatin et Colisée.",
+        "Florence|Renaissance, Duomo et Offices.",
+        "Ravenne|Mosaïques byzantines exceptionnelles."
+      ],
+      "stays": [
+        "Rosewood Castiglion|Toscane|Domaine et paysages sublimes.",
+        "Borgo Santo Pietro|Toscane|Jardins et atmosphère romantique.",
+        "Passalacqua|Lac de Côme|Villa historique et jardins."
+      ],
+      "practical": {
+        "when": "Avril–juin ou septembre–octobre",
+        "duration": "5–12 jours",
+        "fromParis": "Nombreux vols directs ; train très pratique."
+      },
+      "verdict": "Probablement l’un des meilleurs pays pour vos goûts.",
+      "theme": "Culture & patrimoine",
+      "audience": "Couples • art & design",
+      "best_for": "Rome, Florence, Toscane, villas historiques",
+      "budget": "€1 300–€2 800",
+      "stay_length": "6–10 nuits",
+      "hotel_style": "Hôtel de charme / villa historique",
+      "why_now": "L’Italie reste une destination ultra-solide pour le luxe culturel.",
+      "score": 87,
+      "source": "travel-insights"
+    },
+    {
+      "destination": "France",
+      "continent": "Europe",
+      "summary": "Patrimoine, gastronomie et villes d’art.",
+      "highlights": [
+        "Mont-Saint-Michel|Abbaye et paysage de marées.",
+        "Loire|Architecture et jardins de la Renaissance.",
+        "Arles|Antiquité et patrimoine provençal."
+      ],
+      "stays": [
+        "La Réserve Ramatuelle|Provence|Intimité et vues marines.",
+        "Les Sources de Cheverny|Loire|Nature et art de vivre.",
+        "Domaine des Étangs|Charente|Domaine artistique et tranquillité."
+      ],
+      "practical": {
+        "when": "Mai–septembre",
+        "duration": "4–10 jours",
+        "fromParis": "Train ou voiture selon région."
+      },
+      "verdict": "Très bon terrain de jeu pour des séjours courts et raffinés.",
+      "theme": "Patrimoine & gastronomie",
+      "audience": "Couples • art de vivre",
+      "best_for": "Provence, Loire, châteaux et gastronomie",
+      "budget": "€1 100–€2 700",
+      "stay_length": "4–9 nuits",
+      "hotel_style": "Maison de caractère / château",
+      "why_now": "Le luxe discret français reste très fort dans les séjours courts.",
+      "score": 83,
+      "source": "travel-insights"
+    },
+    {
+      "destination": "Grèce",
+      "continent": "Europe",
+      "summary": "Iles, bleu profond, architecture et doux vivre.",
+      "highlights": [
+        "Santorin|Caldera, blancs et vue mer.",
+        "Athènes|Acropole et fondations classiques.",
+        "Mykonos|Ile chic et ambiance festive."
+      ],
+      "stays": [
+        "Amanzoe|Péloponnèse|Villa haut de gamme et vue sur la mer.",
+        "Nimmo|Santorin|Luxe discret et maison d’architecte.",
+        "The Cliffs|Santorin|Design, architecture et vue panoramique."
+      ],
+      "practical": {
+        "when": "Mai–septembre",
+        "duration": "5–9 jours",
+        "fromParis": "Vol direct Paris–Athènes ou Mykonos."
+      },
+      "verdict": "Très fort pour une idée de vacances en bord de mer avec style.",
+      "theme": "Mer & luxe méditerranéen",
+      "audience": "Cou](#)
+
