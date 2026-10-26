@@ -19,14 +19,14 @@ DATA = [
             "Sukhothai historique|Temples et sculptures de l’âge d’or siamois."
         ],
         "stays": [
-            "The Sukhothai Bangkok|Bangkok|Jardins, piscine et sérénité urbaine. Référence absolue pour l’atmosphère.",
-            "Amanpuri|Phuket|Pavillons thaïs, intimité et plage superbe ; prix très élevé.",
-            "Four Seasons Resort Chiang Mai|Mae Rim|Rizières, jardins et architecture lanna ; cadre magnifique."
+            "The Sukhothai Bangkok|Bangkok|Jardins, piscine et sérénité urbaine.",
+            "Amanpuri|Phuket|Pavillons thaïs, intimité et plage superbe.",
+            "Four Seasons Resort Chiang Mai|Mae Rim|Rizières, jardins et architecture lanna."
         ],
         "practical": {
             "when": "Novembre à février",
             "duration": "10–14 jours",
-            "fromParis": "Vol direct Paris–Bangkok selon programme ; correspondances pour les régions."
+            "fromParis": "Vol direct Paris–Bangkok selon programme."
         },
         "verdict": "Excellent équilibre entre culture et repos.",
         "theme": "Luxe durable",
@@ -50,7 +50,7 @@ DATA = [
         ],
         "stays": [
             "Aman Kyoto|Kyoto|Jardin secret et pavillons minimalistes.",
-            "Hoshinoya Kyoto|Kyoto|Retraite au bord de la rivière, accessible en bateau.",
+            "Hoshinoya Kyoto|Kyoto|Retraite au bord de la rivière.",
             "Gora Kadan|Hakone|Ryokan raffiné et bains thermaux."
         ],
         "practical": {
@@ -70,6 +70,36 @@ DATA = [
         "source": "travel-insights"
     },
     {
+        "destination": "Bali",
+        "continent": "Asie",
+        "summary": "Wellness, villas et nature luxuriante.",
+        "highlights": [
+            "Ubud|Culture balinaise et rizières.",
+            "Bali Barat National Park|Forêts, récifs et paysages sauvages.",
+            "Canggu|Surf et ambiance plus relaxed."
+        ],
+        "stays": [
+            "Amandari|Ubud|Villas au-dessus des rizières.",
+            "Capella Ubud|Bali|Campement raffiné en forêt.",
+            "The Ungasan|Uluwatu|Villa premium et vues sur l’océan."
+        ],
+        "practical": {
+            "when": "Mai–octobre",
+            "duration": "6–11 jours",
+            "fromParis": "Paris–Bali avec escale selon l’offre."
+        },
+        "verdict": "Très bon choix pour slow travel et séjours premium.",
+        "theme": "Wellness & villas",
+        "audience": "Couples • slow travel",
+        "best_for": "Spa, yoga, villas, calme et vue jungle",
+        "budget": "€1 100–€2 400",
+        "stay_length": "6–11 nuits",
+        "hotel_style": "Villa contemporaine / wellness retreat",
+        "why_now": "La demande pour des séjours lentement conçus augmente sur le marché premium.",
+        "score": 86,
+        "source": "travel-insights"
+    },
+    {
         "destination": "Maroc",
         "continent": "Afrique",
         "summary": "Médinas, jardins et artisanat.",
@@ -80,13 +110,13 @@ DATA = [
         ],
         "stays": [
             "Royal Mansour Marrakech|Marrakech|Riads privés et jardins remarquables.",
-            "Amanjena|Marrakech|Pavillons autour des bassins, tranquillité exceptionnelle.",
+            "Amanjena|Marrakech|Pavillons autour des bassins.",
             "Kasbah Tamadot|Atlas|Maison de montagne avec personnalité."
         ],
         "practical": {
             "when": "Mars–mai ou octobre–novembre",
             "duration": "4–8 jours",
-            "fromParis": "Vol direct Paris–Marrakech ou Fès selon disponibilité."
+            "fromParis": "Vol direct Paris–Marrakech ou Fès."
         },
         "verdict": "Marrakech fonctionne très bien si l’hôtel est un refuge paisible.",
         "theme": "Culture & riads",
@@ -109,7 +139,7 @@ DATA = [
             "Porto historique|Ruelles et patrimoine du Douro."
         ],
         "stays": [
-            "Six Senses Douro Valley|Douro|Votre référence : domaine, piscine et sérénité.",
+            "Six Senses Douro Valley|Douro|Domaine, piscine et sérénité.",
             "Sublime Comporta|Comporta|Cabanes, pinède et élégance naturelle.",
             "Verride Palácio Santa Catarina|Lisbonne|Petit palais et atmosphère résidentielle."
         ],
@@ -140,13 +170,13 @@ DATA = [
         ],
         "stays": [
             "Hótel Borg|Reykjavik|Luxe discret, design scandinave.",
-            "The Retreat at Blue Lagoon|Blue Lagoon|Spa haut de gamme et calme absolu.",
-            "Hotel Rangá|South Coast|Accueil chaleureux et excellente base pour road trip."
+            "The Retreat at Blue Lagoon|Blue Lagoon|Spa haut de gamme.",
+            "Hotel Rangá|South Coast|Accueil chaleureux et excellent point de départ."
         ],
         "practical": {
             "when": "Juin–septembre",
             "duration": "7–10 jours",
-            "fromParis": "Vol direct Paris–Reykjavik selon période."
+            "fromParis": "Vol direct Paris–Reykjavik selon la période."
         },
         "verdict": "Très forte demande pour les paysages et les séjours premium nature.",
         "theme": "Nature premium",
@@ -160,52 +190,111 @@ DATA = [
         "source": "travel-insights"
     },
     {
-        "destination": "Bali",
-        "continent": "Asie",
-        "summary": "Wellness, villas et nature luxuriante.",
+        "destination": "Italie",
+        "continent": "Europe",
+        "summary": "Art, histoire et art de vivre.",
         "highlights": [
-            "Ubud|Culture balinaise et rizières.",
-            "Bali Barat National Park|Forêts, récifs et paysages sauvages.",
-            "Canggu|Surf et ambiance plus relaxed."
+            "Rome antique|Forum, Palatin et Colisée.",
+            "Florence|Renaissance, Duomo et Offices.",
+            "Ravenne|Mosaïques byzantines exceptionnelles."
         ],
         "stays": [
-            "Amandari|Ubud|Villas au-dessus des rizières, élégance balinaise.",
-            "Capella Ubud|Bali|Campement raffiné en forêt ; style plus théâtral.",
-            "The Ungasan|Uluwatu|Villa premium et vues sur l’océan."
+            "Rosewood Castiglion del Bosco|Toscane|Domaine et paysages sublimes.",
+            "Borgo Santo Pietro|Toscane|Jardins extraordinaires et atmosphère romantique.",
+            "Passalacqua|Lac de Côme|Villa historique et jardins."
         ],
         "practical": {
-            "when": "Mai–octobre",
-            "duration": "6–11 jours",
-            "fromParis": "Paris–Bali avec escale selon l’offre."
+            "when": "Avril–juin ou septembre–octobre",
+            "duration": "5–12 jours",
+            "fromParis": "Nombreux vols directs ; train très pratique."
         },
-        "verdict": "Très bon choix pour slow travel et séjours premium.",
-        "theme": "Wellness & villas",
-        "audience": "Couples • slow travel",
-        "best_for": "Spa, yoga, villas, calme et vue jungle",
-        "budget": "€1 100–€2 400",
-        "stay_length": "6–11 nuits",
-        "hotel_style": "Villa contemporaine / wellness retreat",
-        "why_now": "La demande pour des séjours lentement conçus augmente sur le marché premium.",
-        "score": 86,
+        "verdict": "Probablement l’un des meilleurs pays pour vos goûts.",
+        "theme": "Culture & patrimoine",
+        "audience": "Couples • art & design",
+        "best_for": "Rome, Florence, Toscane, villas historiques",
+        "budget": "€1 300–€2 800",
+        "stay_length": "6–10 nuits",
+        "hotel_style": "Hôtel de charme / villa historique",
+        "why_now": "L’Italie reste une destination ultra-solide pour le luxe culturel.",
+        "score": 87,
+        "source": "travel-insights"
+    },
+    {
+        "destination": "France",
+        "continent": "Europe",
+        "summary": "Patrimoine, jardins et art de vivre.",
+        "highlights": [
+            "Mont-Saint-Michel|Abbaye et paysage de marées.",
+            "Châteaux de la Loire|Architecture et jardins de la Renaissance.",
+            "Arles et sites romains|Antiquité et patrimoine provençal."
+        ],
+        "stays": [
+            "La Réserve Ramatuelle|Provence|Intimité et vues marines.",
+            "Les Sources de Cheverny|Loire|Nature, jardins et art de vivre.",
+            "Domaine des Étangs|Charente|Domaine artistique, étangs et tranquillité."
+        ],
+        "practical": {
+            "when": "Mai–septembre selon région",
+            "duration": "4–10 jours",
+            "fromParis": "Train ou voiture selon région."
+        },
+        "verdict": "Très bon terrain de jeu pour des séjours courts et raffinés.",
+        "theme": "Patrimoine & gastronomie",
+        "audience": "Couples • art de vivre",
+        "best_for": "Provence, Loire, châteaux et gastronomie",
+        "budget": "€1 100–€2 700",
+        "stay_length": "4–9 nuits",
+        "hotel_style": "Maison de caractère / château",
+        "why_now": "Le luxe discret français reste très fort dans les séjours courts.",
+        "score": 83,
+        "source": "travel-insights"
+    },
+    {
+        "destination": "Espagne",
+        "continent": "Europe",
+        "summary": "Villes d’art et architecture singulière.",
+        "highlights": [
+            "Alhambra de Grenade|Palais nasrides et jardins.",
+            "Cordoue|Mosquée-cathédrale et ruelles historiques.",
+            "Tolède|Cité historique multiculturelle."
+        ],
+        "stays": [
+            "Finca Cortesin|Andalousie|Jardins soignés, piscines et service posé.",
+            "La Residencia|Majorque|Village, oliviers et charme artistique.",
+            "Cap Rocat|Majorque|Forteresse restaurée, atmosphère intime."
+        ],
+        "practical": {
+            "when": "Avril–juin ou septembre–octobre",
+            "duration": "5–10 jours",
+            "fromParis": "Vol direct Paris–Séville, Malaga ou Palma."
+        },
+        "verdict": "Andalousie culturelle puis repos en bord de mer : combinaison idéale.",
+        "theme": "Culture & soleil",
+        "audience": "Couples • luxe accessibly",
+        "best_for": "Andalousie, Majorque, architecture, cuisine",
+        "budget": "€1 000–€2 400",
+        "stay_length": "5–9 nuits",
+        "hotel_style": "Villa / domaine chic",
+        "why_now": "Le marché espagnol reste très fort pour le luxe discret.",
+        "score": 80,
         "source": "travel-insights"
     }
 ]
 
-def build_default_payload():
+def build_payload():
     ranked = sorted(DATA, key=lambda x: x["score"], reverse=True)
-    featured = [
-        {
-            "destination": item["destination"],
-            "theme": item["theme"],
-            "score": item["score"],
-            "reason": item["why_now"]
-        }
-        for item in ranked[:5]
-    ]
     return {
         "generated_at": datetime.now(timezone.utc).isoformat(),
         "summary": "Les tendances les plus fortes restent le luxe durable, le wellness, la culture et la nature premium.",
-        "featured": featured,
+        "featured": [
+            {
+                "destination": item["destination"],
+                "theme": item["theme"],
+                "score": item["score"],
+                "reason": item["why_now"]
+            }
+            for item in ranked[:5]
+        ],
         "items": ranked
     }
 
@@ -226,7 +315,7 @@ def try_llm_summary(payload):
                 "messages": [
                     {
                         "role": "system",
-                        "content": "Tu es un analyste de tendances de voyage en français. Donne un résumé clair et orienté business pour un site de recommandations."
+                        "content": "Tu es un analyste de tendances de voyage en français. Donne un résumé ultra-clair pour un site de recommandations."
                     },
                     {
                         "role": "user",
@@ -245,7 +334,7 @@ def try_llm_summary(payload):
         return payload
 
 def main():
-    payload = build_default_payload()
+    payload = build_payload()
     payload = try_llm_summary(payload)
     OUTPUT_PATH.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
 
