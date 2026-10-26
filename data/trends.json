@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-26T00:00:00+00:00",
-  "summary": "Les tendances les plus fortes restent le luxe durable, le wellness, la culture et la nature premium.",
+  "generated_at": "2026-10-26T16:28:13.184097+00:00",
+  "summary": "Les tendances de voyage en 2026 privilégient le luxe durable, le bien-être, la culture et la nature premium, avec des destinations phares telles que la Thaïlande, le Japon et l'Italie. Les voyageurs recherchent des séjours immersifs et raffinés, alliant confort et respect des valeurs environnementales.",
   "featured": [
     {
       "destination": "Thaïlande",
@@ -15,6 +15,12 @@
       "reason": "La demande reste forte pour des séjours immersifs et visuellement raffinés."
     },
     {
+      "destination": "Italie",
+      "theme": "Culture & patrimoine",
+      "score": 87,
+      "reason": "L’Italie reste une destination ultra-solide pour le luxe culturel."
+    },
+    {
       "destination": "Bali",
       "theme": "Wellness & villas",
       "score": 86,
@@ -25,12 +31,6 @@
       "theme": "Culture & riads",
       "score": 84,
       "reason": "L’offre luxe inspirée du patrimoine est très recherchée pour les voyages courts."
-    },
-    {
-      "destination": "Portugal",
-      "theme": "Design & bien-être",
-      "score": 81,
-      "reason": "Les voyageurs recherchent des séjours élégants, aérés et faciles à vivre."
     }
   ],
   "items": [
@@ -95,6 +95,36 @@
       "source": "travel-insights"
     },
     {
+      "destination": "Italie",
+      "continent": "Europe",
+      "summary": "Art, histoire et art de vivre.",
+      "highlights": [
+        "Rome antique|Forum, Palatin et Colisée.",
+        "Florence|Renaissance, Duomo et Offices.",
+        "Ravenne|Mosaïques byzantines exceptionnelles."
+      ],
+      "stays": [
+        "Rosewood Castiglion del Bosco|Toscane|Domaine et paysages sublimes.",
+        "Borgo Santo Pietro|Toscane|Jardins extraordinaires et atmosphère romantique.",
+        "Passalacqua|Lac de Côme|Villa historique et jardins."
+      ],
+      "practical": {
+        "when": "Avril–juin ou septembre–octobre",
+        "duration": "5–12 jours",
+        "fromParis": "Nombreux vols directs ; train très pratique."
+      },
+      "verdict": "Probablement l’un des meilleurs pays pour vos goûts.",
+      "theme": "Culture & patrimoine",
+      "audience": "Couples • art & design",
+      "best_for": "Rome, Florence, Toscane, villas historiques",
+      "budget": "€1 300–€2 800",
+      "stay_length": "6–10 nuits",
+      "hotel_style": "Hôtel de charme / villa historique",
+      "why_now": "L’Italie reste une destination ultra-solide pour le luxe culturel.",
+      "score": 87,
+      "source": "travel-insights"
+    },
+    {
       "destination": "Bali",
       "continent": "Asie",
       "summary": "Wellness, villas et nature luxuriante.",
@@ -155,96 +185,6 @@
       "source": "travel-insights"
     },
     {
-      "destination": "Portugal",
-      "continent": "Europe",
-      "summary": "Villes historiques, palais et vignobles.",
-      "highlights": [
-        "Sintra|Palais romantiques et jardins.",
-        "Monastère des Hiéronymites|Chef-d’œuvre manuelin à Lisbonne.",
-        "Porto historique|Ruelles et patrimoine du Douro."
-      ],
-      "stays": [
-        "Six Senses Douro Valley|Douro|Domaine, piscine et sérénité.",
-        "Sublime Comporta|Comporta|Cabanes, pinède et élégance naturelle.",
-        "Verride Palácio Santa Catarina|Lisbonne|Petit palais et atmosphère résidentielle."
-      ],
-      "practical": {
-        "when": "Mai–juin ou septembre",
-        "duration": "5–10 jours",
-        "fromParis": "Vol direct Paris–Lisbonne ou Porto."
-      },
-      "verdict": "Destination parfaitement alignée avec vos préférences.",
-      "theme": "Design & bien-être",
-      "audience": "Sans enfants • lifestyle",
-      "best_for": "Porto, Sintra, hôtels design, vin et nature",
-      "budget": "€1 000–€2 200",
-      "stay_length": "5–9 nuits",
-      "hotel_style": "Petit hôtel design / maison d’hôtes",
-      "why_now": "Les voyageurs recherchent des séjours élégants, aérés et faciles à vivre.",
-      "score": 81,
-      "source": "travel-insights"
-    },
-    {
-      "destination": "Islande",
-      "continent": "Europe",
-      "summary": "Nature, spas, paysages extrêmes et luxe discret.",
-      "highlights": [
-        "Reykjavik|Capital moderne et culture nordique.",
-        "Golden Circle|Geysers, cascade et paysages volcaniques.",
-        "South Coast|Fjords, glaciers et plages noires."
-      ],
-      "stays": [
-        "Hótel Borg|Reykjavik|Luxe discret, design scandinave.",
-        "The Retreat at Blue Lagoon|Blue Lagoon|Spa haut de gamme.",
-        "Hotel Rangá|South Coast|Accueil chaleureux et excellent point de départ."
-      ],
-      "practical": {
-        "when": "Juin–septembre",
-        "duration": "7–10 jours",
-        "fromParis": "Vol direct Paris–Reykjavik selon la période."
-      },
-      "verdict": "Très forte demande pour les paysages et les séjours premium nature.",
-      "theme": "Nature premium",
-      "audience": "Amis • nature",
-      "best_for": "Road trip, volcan, spa, paysages extrêmes",
-      "budget": "€1 600–€3 200",
-      "stay_length": "7–10 nuits",
-      "hotel_style": "Lodge haut de gamme / campements haut standing",
-      "why_now": "Les escapades nature premium restent très prisées pour les voyageurs exigeants.",
-      "score": 79,
-      "source": "travel-insights"
-    },
-    {
-      "destination": "Italie",
-      "continent": "Europe",
-      "summary": "Art, histoire et art de vivre.",
-      "highlights": [
-        "Rome antique|Forum, Palatin et Colisée.",
-        "Florence|Renaissance, Duomo et Offices.",
-        "Ravenne|Mosaïques byzantines exceptionnelles."
-      ],
-      "stays": [
-        "Rosewood Castiglion del Bosco|Toscane|Domaine et paysages sublimes.",
-        "Borgo Santo Pietro|Toscane|Jardins extraordinaires et atmosphère romantique.",
-        "Passalacqua|Lac de Côme|Villa historique et jardins."
-      ],
-      "practical": {
-        "when": "Avril–juin ou septembre–octobre",
-        "duration": "5–12 jours",
-        "fromParis": "Nombreux vols directs ; train très pratique."
-      },
-      "verdict": "Probablement l’un des meilleurs pays pour vos goûts.",
-      "theme": "Culture & patrimoine",
-      "audience": "Couples • art & design",
-      "best_for": "Rome, Florence, Toscane, villas historiques",
-      "budget": "€1 300–€2 800",
-      "stay_length": "6–10 nuits",
-      "hotel_style": "Hôtel de charme / villa historique",
-      "why_now": "L’Italie reste une destination ultra-solide pour le luxe culturel.",
-      "score": 87,
-      "source": "travel-insights"
-    },
-    {
       "destination": "France",
       "continent": "Europe",
       "summary": "Patrimoine, jardins et art de vivre.",
@@ -272,6 +212,36 @@
       "hotel_style": "Maison de caractère / château",
       "why_now": "Le luxe discret français reste très fort dans les séjours courts.",
       "score": 83,
+      "source": "travel-insights"
+    },
+    {
+      "destination": "Portugal",
+      "continent": "Europe",
+      "summary": "Villes historiques, palais et vignobles.",
+      "highlights": [
+        "Sintra|Palais romantiques et jardins.",
+        "Monastère des Hiéronymites|Chef-d’œuvre manuelin à Lisbonne.",
+        "Porto historique|Ruelles et patrimoine du Douro."
+      ],
+      "stays": [
+        "Six Senses Douro Valley|Douro|Domaine, piscine et sérénité.",
+        "Sublime Comporta|Comporta|Cabanes, pinède et élégance naturelle.",
+        "Verride Palácio Santa Catarina|Lisbonne|Petit palais et atmosphère résidentielle."
+      ],
+      "practical": {
+        "when": "Mai–juin ou septembre",
+        "duration": "5–10 jours",
+        "fromParis": "Vol direct Paris–Lisbonne ou Porto."
+      },
+      "verdict": "Destination parfaitement alignée avec vos préférences.",
+      "theme": "Design & bien-être",
+      "audience": "Sans enfants • lifestyle",
+      "best_for": "Porto, Sintra, hôtels design, vin et nature",
+      "budget": "€1 000–€2 200",
+      "stay_length": "5–9 nuits",
+      "hotel_style": "Petit hôtel design / maison d’hôtes",
+      "why_now": "Les voyageurs recherchent des séjours élégants, aérés et faciles à vivre.",
+      "score": 81,
       "source": "travel-insights"
     },
     {
@@ -305,6 +275,36 @@
       "source": "travel-insights"
     },
     {
+      "destination": "Islande",
+      "continent": "Europe",
+      "summary": "Nature, spas, paysages extrêmes et luxe discret.",
+      "highlights": [
+        "Reykjavik|Capital moderne et culture nordique.",
+        "Golden Circle|Geysers, cascade et paysages volcaniques.",
+        "South Coast|Fjords, glaciers et plages noires."
+      ],
+      "stays": [
+        "Hótel Borg|Reykjavik|Luxe discret, design scandinave.",
+        "The Retreat at Blue Lagoon|Blue Lagoon|Spa haut de gamme.",
+        "Hotel Rangá|South Coast|Accueil chaleureux et excellent point de départ."
+      ],
+      "practical": {
+        "when": "Juin–septembre",
+        "duration": "7–10 jours",
+        "fromParis": "Vol direct Paris–Reykjavik selon la période."
+      },
+      "verdict": "Très forte demande pour les paysages et les séjours premium nature.",
+      "theme": "Nature premium",
+      "audience": "Amis • nature",
+      "best_for": "Road trip, volcan, spa, paysages extrêmes",
+      "budget": "€1 600–€3 200",
+      "stay_length": "7–10 nuits",
+      "hotel_style": "Lodge haut de gamme / campements haut standing",
+      "why_now": "Les escapades nature premium restent très prisées pour les voyageurs exigeants.",
+      "score": 79,
+      "source": "travel-insights"
+    },
+    {
       "destination": "Mexique",
       "continent": "Amérique du Nord",
       "summary": "Civilisations précolombiennes et villes coloniales.",
@@ -332,36 +332,6 @@
       "hotel_style": "Villa / resort chic",
       "why_now": "Le marché mexicain est particulièrement fort pour les escapades culturelles premium.",
       "score": 78,
-      "source": "travel-insights"
-    },
-    {
-      "destination": "États-Unis",
-      "continent": "Amérique du Nord",
-      "summary": "Musées, architecture et grands paysages.",
-      "highlights": [
-        "National Mall|Musées et monuments de Washington.",
-        "Taliesin West|Architecture de Frank Lloyd Wright.",
-        "Mesa Verde|Habitations ancestrales dans les falaises."
-      ],
-      "stays": [
-        "Amangiri|Utah|Architecture minérale et silence absolu.",
-        "Post Ranch Inn|Big Sur|Falaises et intimité.",
-        "Blackberry Farm|Tennessee|Campagne raffinée et gastronomique."
-      ],
-      "practical": {
-        "when": "Printemps ou automne",
-        "duration": "7–14 jours",
-        "fromParis": "Vol direct Paris–New York ou Los Angeles selon le voyage."
-      },
-      "verdict": "Priorité aux grands paysages et à l’architecture plutôt qu’aux villes.",
-      "theme": "Nature & architecture",
-      "audience": "Couples • luxury road trip",
-      "best_for": "Utah, Big Sur, architecture contemporaine",
-      "budget": "€1 500–€3 500",
-      "stay_length": "7–12 nuits",
-      "hotel_style": "Retreat / lodge haut standing",
-      "why_now": "Le luxe américain est très fort dans le road trip premium et les grandes étendues.",
-      "score": 74,
       "source": "travel-insights"
     },
     {
@@ -422,6 +392,36 @@
       "hotel_style": "Lodge / villa premium",
       "why_now": "Le luxe australien reste très fort pour les voyages longs et raffinés.",
       "score": 75,
+      "source": "travel-insights"
+    },
+    {
+      "destination": "États-Unis",
+      "continent": "Amérique du Nord",
+      "summary": "Musées, architecture et grands paysages.",
+      "highlights": [
+        "National Mall|Musées et monuments de Washington.",
+        "Taliesin West|Architecture de Frank Lloyd Wright.",
+        "Mesa Verde|Habitations ancestrales dans les falaises."
+      ],
+      "stays": [
+        "Amangiri|Utah|Architecture minérale et silence absolu.",
+        "Post Ranch Inn|Big Sur|Falaises et intimité.",
+        "Blackberry Farm|Tennessee|Campagne raffinée et gastronomique."
+      ],
+      "practical": {
+        "when": "Printemps ou automne",
+        "duration": "7–14 jours",
+        "fromParis": "Vol direct Paris–New York ou Los Angeles selon le voyage."
+      },
+      "verdict": "Priorité aux grands paysages et à l’architecture plutôt qu’aux villes.",
+      "theme": "Nature & architecture",
+      "audience": "Couples • luxury road trip",
+      "best_for": "Utah, Big Sur, architecture contemporaine",
+      "budget": "€1 500–€3 500",
+      "stay_length": "7–12 nuits",
+      "hotel_style": "Retreat / lodge haut standing",
+      "why_now": "Le luxe américain est très fort dans le road trip premium et les grandes étendues.",
+      "score": 74,
       "source": "travel-insights"
     }
   ]
