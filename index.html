@@ -9,154 +9,175 @@
         --bg: #f7f4ed;
         --panel: #fffdf9;
         --ink: #242424;
-        --muted: #5b5b5b;
-        --line: #e2dbcd;
+        --muted: #5d5d5d;
+        --line: #e0d9cd;
         --green: #344936;
-        --green-soft: #e8f0ea;
+        --green-soft: #ebf2ec;
+        --gold: #b98b4d;
       }
-
       * { box-sizing: border-box; }
       body {
         margin: 0;
-        font-family: Georgia, serif;
         background: var(--bg);
         color: var(--ink);
+        font-family: Georgia, serif;
       }
       header {
-        background: linear-gradient(135deg, #f6efe4, #dfe8dd);
+        background: linear-gradient(135deg, #f5efe5, #dde7dd);
         border-bottom: 1px solid var(--line);
-        padding: 32px 5vw 24px;
+        padding: 32px 5vw 28px;
       }
       .brand-row {
-        display: flex;
-        align-items: center;
-        justify-content: space-between;
-        gap: 16px;
         max-width: 1200px;
-        margin: 0 auto 24px;
+        margin: 0 auto 28px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        gap: 16px;
       }
       .brand {
         font-size: clamp(2rem, 3vw, 3rem);
-        font-weight: 700;
-        letter-spacing: 0.08em;
+        letter-spacing: 0.12em;
         text-transform: uppercase;
+        font-weight: 700;
       }
       .sub {
         color: var(--muted);
-        letter-spacing: 0.12em;
-        text-transform: uppercase;
+        letter-spacing: 0.14em;
         font-size: 0.78rem;
+        text-transform: uppercase;
       }
       .hero {
         max-width: 1200px;
         margin: 0 auto;
         display: grid;
-        grid-template-columns: 1.3fr 0.7fr;
-        gap: 32px;
+        grid-template-columns: 1.4fr 0.8fr;
+        gap: 28px;
         align-items: center;
       }
       .hero h1 {
-        margin: 0 0 12px;
-        font-size: clamp(2.4rem, 5vw, 4.5rem);
-        line-height: 1;
+        margin: 0 0 14px;
+        font-size: clamp(2.4rem, 5vw, 4.2rem);
+        line-height: 1.04;
       }
       .hero p {
-        font-size: 1.12rem;
-        line-height: 1.7;
+        margin: 0;
         color: var(--muted);
-        max-width: 48rem;
+        font-size: 1.08rem;
+        line-height: 1.7;
       }
       .hero-panel {
-        background: var(--panel);
         border: 1px solid var(--line);
+        background: rgba(255,255,255,0.45);
         border-radius: 18px;
-        padding: 24px;
-        box-shadow: 0 6px 18px rgba(0,0,0,0.04);
+        padding: 22px;
+        box-shadow: 0 10px 28px rgba(0,0,0,0.04);
       }
       .status {
-        font-size: 0.74rem;
-        color: var(--green);
-        background: var(--green-soft);
-        border-radius: 999px;
         display: inline-block;
+        background: var(--green-soft);
+        color: var(--green);
+        border: 1px solid #dcebdc;
+        border-radius: 999px;
         padding: 6px 12px;
-        border: 1px solid #d9e7da;
+        font-size: 0.74rem;
+        letter-spacing: 0.08em;
+        text-transform: uppercase;
         margin-bottom: 12px;
+      }
+      .cta {
+        display: inline-block;
+        margin-top: 18px;
+        background: var(--green);
+        color: #fff;
+        text-decoration: none;
+        padding: 12px 18px;
+        border-radius: 999px;
+        font-family: Arial, sans-serif;
+        font-size: 12px;
+        letter-spacing: 0.08em;
+        text-transform: uppercase;
       }
       main {
         max-width: 1200px;
-        margin: 32px auto 48px;
+        margin: 28px auto 48px;
         padding: 0 5vw;
       }
       .summary {
         background: var(--panel);
         border: 1px solid var(--line);
-        border-radius: 16px;
+        border-radius: 18px;
         padding: 24px;
         margin-bottom: 24px;
       }
       .summary h2 {
-        margin-top: 0;
+        margin: 0 0 10px;
         font-size: 1.5rem;
       }
       .summary p {
         margin: 0;
-        font-size: 1.06rem;
-        line-height: 1.8;
         color: var(--muted);
+        line-height: 1.7;
       }
       .grid {
         display: grid;
-        grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+        grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
         gap: 18px;
       }
       .card {
         background: var(--panel);
         border: 1px solid var(--line);
-        border-radius: 16px;
-        padding: 20px;
-        box-shadow: 0 2px 12px rgba(0,0,0,0.03);
+        border-radius: 18px;
+        padding: 22px;
+        box-shadow: 0 6px 16px rgba(0,0,0,0.02);
       }
       .meta {
         display: flex;
         justify-content: space-between;
         align-items: center;
         gap: 12px;
-        margin-bottom: 12px;
+        margin-bottom: 14px;
       }
       .destination {
-        font-size: 1.5rem;
         margin: 0;
+        font-size: 1.6rem;
       }
       .score {
-        background: #f1e3c7;
+        display: inline-block;
+        background: #f3e3c6;
+        color: #77531b;
         border-radius: 999px;
-        padding: 6px 10px;
+        padding: 7px 10px;
         font-size: 0.8rem;
         font-weight: 700;
-        color: #6d4d15;
       }
-      .trend {
-        margin: 0 0 10px;
-        line-height: 1.5;
-        font-size: 1.02rem;
-      }
-      .source {
-        margin: 0;
-        color: var(--muted);
-        font-size: 0.78rem;
+      .pill {
+        display: inline-block;
+        background: #edf5ef;
+        color: var(--green);
+        border-radius: 999px;
+        padding: 5px 10px;
+        font-size: 0.72rem;
         letter-spacing: 0.08em;
         text-transform: uppercase;
+        margin-bottom: 12px;
+      }
+      .field {
+        margin: 8px 0;
+        color: var(--muted);
+        line-height: 1.5;
+      }
+      .field strong {
+        color: var(--ink);
       }
       .empty {
-        color: var(--muted);
         background: var(--panel);
         border: 1px solid var(--line);
+        border-radius: 18px;
         padding: 20px;
-        border-radius: 16px;
+        color: var(--muted);
       }
       footer {
-        border-top: 1px solid var(--line);
         padding: 24px 5vw 40px;
         text-align: center;
         color: var(--muted);
@@ -174,21 +195,18 @@
         <div class="brand">Atlas</div>
         <div class="sub">Tendances du voyage</div>
       </div>
-<a href="./atlas.html" style="display:inline-block;margin-top:16px;padding:12px 16px;border-radius:999px;background:#344936;color:#fff;text-decoration:none;font-family:Arial;font-size:12px;letter-spacing:0.08em;text-transform:uppercase;">
-  Voir la version atlas
-</a>
+
       <div class="hero">
         <div>
-          <h1>Des destinations qui évoluent avec les tendances.</h1>
+          <h1>Des recommandations qui évoluent avec les tendances.</h1>
           <p>
-            Ce site affiche les destinations qui gagnent en popularité selon les signaux de marché,
-            les séjours premium et les préférences de voyageurs actuelles. Les recommandations sont
-            mises à jour automatiquement via un workflow GitHub Actions.
+            Ce site met automatiquement à jour les destinations les plus prometteuses en fonction
+            des signaux de marché, de la demande premium et des séjours qui gagnent en popularité.
           </p>
+          <a class="cta" href="./atlas.html">Voir la version Atlas</a>
         </div>
-
         <div class="hero-panel">
-          <div class="status" id="status">Mise à jour automatique</div>
+          <div class="status">Mise à jour automatique</div>
           <div id="last-update">Chargement…</div>
         </div>
       </div>
@@ -208,59 +226,68 @@
     </footer>
 
     <script>
-    const fallback = {
-  generated_at: new Date().toISOString(),
-  summary: "Les tendances les plus fortes restent le luxe durable, le wellness, la culture et la nature premium.",
-  featured: [
-    { destination: "Thaïlande", theme: "Luxe durable", score: 92, reason: "Hausse du luxe durable à Bangkok et Koh Samui" },
-    { destination: "Japon", theme: "Culture & design", score: 88, reason: "Demande stable pour Kyoto et Tokyo" },
-    { destination: "Bali", theme: "Wellness & villas", score: 86, reason: "Demande forte pour slow travel premium" }
-  ]
-};
-
-function render(data) {
-  const items = Array.isArray(data.featured) ? data.featured : fallback.featured;
-  // afficher les 3 à 5 items
-}
+      const fallback = {
+        generated_at: new Date().toISOString(),
+        summary: "Les tendances les plus fortes restent le luxe durable, le wellness, la culture et la nature premium.",
+        featured: [
+          {
+            destination: "Thaïlande",
+            theme: "Luxe durable",
+            score: 92,
+            reason: "Hausse des séjours premium avec une approche plus durable et plus intime."
+          },
+          {
+            destination: "Japon",
+            theme: "Culture & design",
+            score: 88,
+            reason: "La demande reste forte pour des séjours immersifs et visuellement raffinés."
+          },
+          {
+            destination: "Bali",
+            theme: "Wellness & villas",
+            score: 86,
+            reason: "La demande pour des séjours lentement conçus augmente sur le marché premium."
+          }
+        ]
+      };
 
       function render(data) {
         const container = document.getElementById('cards');
         const summary = document.getElementById('summary-text');
         const lastUpdate = document.getElementById('last-update');
 
+        const items = Array.isArray(data.featured) ? data.featured : fallback.featured;
         summary.textContent = data.summary || fallback.summary;
+
         lastUpdate.textContent = data.generated_at
           ? 'Dernière mise à jour : ' + new Date(data.generated_at).toLocaleString('fr-FR')
           : 'Dernière mise à jour : aujourd’hui';
-
-        const items = Array.isArray(data.items) ? data.items : fallback.items;
 
         if (!items.length) {
           container.innerHTML = '<div class="empty">Aucune donnée disponible pour l’instant.</div>';
           return;
         }
 
-        container.innerHTML = items
-          .map((item, index) => `
-            <article class="card">
-              <div class="meta">
-                <h3 class="destination">${index + 1}. ${item.destination}</h3>
-                <span class="score">${item.score || 0}/100</span>
-              </div>
-              <p class="trend">${item.trend}</p>
-              <p class="source">${item.source || 'source externe'}</p>
-            </article>
-          `)
-          .join('');
+        container.innerHTML = items.map((item, index) => `
+          <article class="card">
+            <div class="meta">
+              <h3 class="destination">${index + 1}. ${item.destination}</h3>
+              <span class="score">${item.score || 0}/100</span>
+            </div>
+            <div class="pill">${item.theme || 'Tendance'}</div>
+            <p class="field"><strong>Pourquoi maintenant :</strong> ${item.reason || 'Tendance en hausse'}</p>
+          </article>
+        `).join('');
       }
 
       async function loadData() {
         try {
           const response = await fetch('./data/trends.json?ts=' + Date.now(), { cache: 'no-store' });
-const data = await response.json();
-render(data);
+          if (!response.ok) throw new Error('HTTP ' + response.status);
+          const data = await response.json();
+          render(data);
         } catch (error) {
-          console.warn('Fallback data used because the JSON file could not be loaded.', error);
+          console.warn('Fallback used because the JSON file could not be loaded.', error);
           render(fallback);
         }
       }
