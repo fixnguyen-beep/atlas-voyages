@@ -14,9 +14,9 @@ DATA = [
         "continent": "Asie",
         "summary": "Bangkok, villes royales, plages et culture inspirante.",
         "highlights": [
-            "Grand Palais et Wat Phra Kaew|Le grand ensemble royal de Bangkok.",
+            "Grand Palais|Le grand ensemble royal de Bangkok.",
             "Ayutthaya|Vestiges de l’ancienne capitale du Siam.",
-            "Sukhothai historique|Temples et sculptures de l’âge d’or siamois."
+            "Sukhothai|Temples et sculptures de l’âge d’or siamois."
         ],
         "stays": [
             "The Sukhothai Bangkok|Bangkok|Jardins, piscine et sérénité urbaine.",
@@ -75,7 +75,7 @@ DATA = [
         "summary": "Yoga, villas, rizières, spas et bien-être profond.",
         "highlights": [
             "Ubud|Culture balinaise et rizières.",
-            "Bali Barat National Park|Forêts, récifs et paysages sauvages.",
+            "Bali Barat|Forêts, récifs et paysages sauvages.",
             "Canggu|Surf et ambiance plus relaxed."
         ],
         "stays": [
@@ -97,66 +97,6 @@ DATA = [
         "hotel_style": "Villa contemporaine / wellness retreat",
         "why_now": "La demande pour des séjours lentement conçus augmente sur le marché premium.",
         "score": 86,
-        "source": "travel-insights"
-    },
-    {
-        "destination": "Vietnam",
-        "continent": "Asie",
-        "summary": "Villes dynamiques, cuisine, nature et architecture singulière.",
-        "highlights": [
-            "Hanoï|Villes coloniales et vie quotidienne.",
-            "Hoi An|Ancienne cité marchande et lanternes.",
-            "Ha Long Bay|Paysages côtiers et faune marine."
-        ],
-        "stays": [
-            "The Nam Hai|Hội An|Villas au bord de la plage et jardins luxuriants.",
-            "Amanoi|Nha Trang|Vue sur la baie et bien-être limpide.",
-            "The Pavilions|Ha Long|Architecture contemporaine et luxe discret."
-        ],
-        "practical": {
-            "when": "Octobre–avril",
-            "duration": "8–12 jours",
-            "fromParis": "Paris–Hanoï ou Ho Chi Minh City avec escale."
-        },
-        "verdict": "Très bien pour un voyage alliant culture, cuisine et nature.",
-        "theme": "Culture & nature",
-        "audience": "Couples • découvrir",
-        "best_for": "Cuisine, plages, voyage doux, nature",
-        "budget": "€1 000–€2 200",
-        "stay_length": "5–9 nuits",
-        "hotel_style": "Boutique luxury / resort chic",
-        "why_now": "La demande pour le Vietnam premium reste très forte à cause de son excellent rapport qualité / prix.",
-        "score": 82,
-        "source": "travel-insights"
-    },
-    {
-        "destination": "Sri Lanka",
-        "continent": "Asie",
-        "summary": "Culture, nature tropicale et maisons de charme.",
-        "highlights": [
-            "Kandy|Temple de la dent et culture singhalaise.",
-            "Sigiriya|Citadelle au cœur de la jungle.",
-            "Ella|Vallées et train pittoresque."
-        ],
-        "stays": [
-            "Cape Weligama|Weligama|Villa de luxe au bord de l’océan.",
-            "Anantara Peace Haven|Tangalle|Hôtel paradisiaque et naturel.",
-            "The Wallawwa|Colombo|Maison de maître entourée de jardins."
-        ],
-        "practical": {
-            "when": "Novembre–avril",
-            "duration": "8–12 jours",
-            "fromParis": "Vol direct Paris–Colombo selon la période."
-        },
-        "verdict": "Très bon choix pour un voyage favorisant le bien-être et la nature.",
-        "theme": "Nature & bien-être",
-        "audience": "Couples • nature",
-        "best_for": "Plage, train, nature, beauté brute",
-        "budget": "€1 000–€2 300",
-        "stay_length": "6–10 nuits",
-        "hotel_style": "Villa / resort naturel",
-        "why_now": "Le Sri Lanka reste sous-tendu par un très bon rapport qualité / prix et un charme authentique.",
-        "score": 78,
         "source": "travel-insights"
     },
     {
@@ -194,8 +134,8 @@ DATA = [
         "continent": "Afrique",
         "summary": "Médinas, jardins et artisanat.",
         "highlights": [
-            "Médina de Fès|Architecture et artisanat séculaires.",
-            "Médina de Marrakech|Palais, souks et monuments.",
+            "Fès|Architecture et artisanat séculaires.",
+            "Marrakech|Palais, souks et monuments.",
             "Aït-Ben-Haddou|Ksar traditionnel en terre."
         ],
         "stays": [
@@ -220,33 +160,63 @@ DATA = [
         "source": "travel-insights"
     },
     {
-        "destination": "Égypte",
-        "continent": "Afrique",
-        "summary": "Histoire millénaire, déserts et croisières sur le Nil.",
+        "destination": "Vietnam",
+        "continent": "Asie",
+        "summary": "Villes dynamiques, cuisine, nature et architecture singulière.",
         "highlights": [
-            "Le Caire|Musées et architecture historique.",
-            "Louxor|Temples et vallée des rois.",
-            "Abou Simbel|Monuments majestueux face au désert."
+            "Hanoï|Villes coloniales et vie quotidienne.",
+            "Hoi An|Ancienne cité marchande et lanternes.",
+            "Ha Long Bay|Paysages côtiers et faune marine."
         ],
         "stays": [
-            "Sofitel Legend Old Cataract|Assouan|Grand hôtel historique sur le Nil.",
-            "The First Residence|Le Caire|Luxe discret et service raffiné.",
-            "Mena House|Le Caire|Vue sur les Pyramides."
+            "The Nam Hai|Hoi An|Villas au bord de la plage et jardins luxuriants.",
+            "Amanoi|Nha Trang|Vue sur la baie et bien-être limpide.",
+            "The Pavilions|Ha Long|Architecture contemporaine et luxe discret."
         ],
         "practical": {
             "when": "Octobre–avril",
-            "duration": "6–10 jours",
-            "fromParis": "Vol direct Paris–Le Caire selon la saison."
+            "duration": "8–12 jours",
+            "fromParis": "Paris–Hanoï ou Ho Chi Minh City avec escale."
         },
-        "verdict": "Très bon choix pour les voyageurs amoureux de l’histoire.",
-        "theme": "Patrimoine & desert luxe",
-        "audience": "Couples • histoire",
-        "best_for": "Nil, temples, pyramides, désert",
-        "budget": "€1 100–€2 400",
+        "verdict": "Très bien pour un voyage alliant culture, cuisine et nature.",
+        "theme": "Culture & nature",
+        "audience": "Couples • découvrir",
+        "best_for": "Cuisine, plages, voyage doux, nature",
+        "budget": "€1 000–€2 200",
         "stay_length": "5–9 nuits",
-        "hotel_style": "Grand hôtel historique / palais",
-        "why_now": "L’Égypte montre un fort regain de demande pour les grands voyages culturels premium.",
-        "score": 76,
+        "hotel_style": "Boutique luxury / resort chic",
+        "why_now": "La demande pour le Vietnam premium reste très forte à cause de son excellent rapport qualité / prix.",
+        "score": 82,
+        "source": "travel-insights"
+    },
+    {
+        "destination": "Portugal",
+        "continent": "Europe",
+        "summary": "Villes historiques, palais et vignobles.",
+        "highlights": [
+            "Sintra|Palais romantiques et jardins.",
+            "Lisbonne|Monastère manuelin et panorama.",
+            "Porto|Ruelles et patrimoine du Douro."
+        ],
+        "stays": [
+            "Six Senses Douro|Douro|Domaine, piscine et sérénité.",
+            "Sublime Comporta|Comporta|Cabanes, pinède et élégance naturelle.",
+            "Verride Lisbon|Lisbonne|Petit palais et atmosphère résidentielle."
+        ],
+        "practical": {
+            "when": "Mai–juin ou septembre",
+            "duration": "5–10 jours",
+            "fromParis": "Vol direct Paris–Lisbonne ou Porto."
+        },
+        "verdict": "Destination parfaitement alignée avec vos préférences.",
+        "theme": "Design & bien-être",
+        "audience": "Sans enfants • lifestyle",
+        "best_for": "Porto, Sintra, hôtels design, vin et nature",
+        "budget": "€1 000–€2 200",
+        "stay_length": "5–9 nuits",
+        "hotel_style": "Petit hôtel design / maison d’hôtes",
+        "why_now": "Les voyageurs recherchent des séjours élégants, aérés et faciles à vivre.",
+        "score": 81,
         "source": "travel-insights"
     },
     {
@@ -259,7 +229,7 @@ DATA = [
             "Garden Route|Routes côtières et nature généreuse."
         ],
         "stays": [
-            "Singita Boulders Lodge|Kruger|Safari luxe et vue sur les falaises.",
+            "Singita Boulders|Kruger|Safari luxe et vue sur les falaises.",
             "The Silo Hotel|Le Cap|Design et vue sur le port.",
             "Bushmans Kloof|Cederberg|Retraite luxe dans le désert."
         ],
@@ -280,63 +250,33 @@ DATA = [
         "source": "travel-insights"
     },
     {
-        "destination": "Portugal",
+        "destination": "Espagne",
         "continent": "Europe",
-        "summary": "Villes historiques, palais et vignobles.",
+        "summary": "Villes d’art, architecture singulière et soleil généreux.",
         "highlights": [
-            "Sintra|Palais romantiques et jardins.",
-            "Monastère des Hiéronymites|Chef-d’œuvre manuelin à Lisbonne.",
-            "Porto historique|Ruelles et patrimoine du Douro."
+            "Alhambra|Palais nasrides et jardins.",
+            "Cordoue|Mosquée-cathédrale et ruelles historiques.",
+            "Tolède|Cité historique multiculturelle."
         ],
         "stays": [
-            "Six Senses Douro Valley|Douro|Domaine, piscine et sérénité.",
-            "Sublime Comporta|Comporta|Cabanes, pinède et élégance naturelle.",
-            "Verride Palácio Santa Catarina|Lisbonne|Petit palais et atmosphère résidentielle."
+            "Finca Cortesin|Andalousie|Jardins soignés et service posé.",
+            "La Residencia|Majorque|Village, oliviers et charme artistique.",
+            "Cap Rocat|Majorque|Forteresse restaurée, atmosphère intime."
         ],
         "practical": {
-            "when": "Mai–juin ou septembre",
+            "when": "Avril–juin ou septembre–octobre",
             "duration": "5–10 jours",
-            "fromParis": "Vol direct Paris–Lisbonne ou Porto."
+            "fromParis": "Vol direct Paris–Séville, Malaga ou Palma."
         },
-        "verdict": "Destination parfaitement alignée avec vos préférences.",
-        "theme": "Design & bien-être",
-        "audience": "Sans enfants • lifestyle",
-        "best_for": "Porto, Sintra, hôtels design, vin et nature",
-        "budget": "€1 000–€2 200",
+        "verdict": "Andalousie culturelle puis repos en bord de mer : combinaison idéale.",
+        "theme": "Culture & soleil",
+        "audience": "Couples • luxe accessible",
+        "best_for": "Andalousie, Majorque, architecture, cuisine",
+        "budget": "€1 000–€2 400",
         "stay_length": "5–9 nuits",
-        "hotel_style": "Petit hôtel design / maison d’hôtes",
-        "why_now": "Les voyageurs recherchent des séjours élégants, aérés et faciles à vivre.",
-        "score": 81,
-        "source": "travel-insights"
-    },
-    {
-        "destination": "Islande",
-        "continent": "Europe",
-        "summary": "Nature, spas, paysages extrêmes et luxe discret.",
-        "highlights": [
-            "Reykjavik|Capital moderne et culture nordique.",
-            "Golden Circle|Geysers, cascade et paysages volcaniques.",
-            "South Coast|Fjords, glaciers et plages noires."
-        ],
-        "stays": [
-            "Hótel Borg|Reykjavik|Luxe discret, design scandinave.",
-            "The Retreat at Blue Lagoon|Blue Lagoon|Spa haut de gamme.",
-            "Hotel Rangá|South Coast|Accueil chaleureux et excellent point de départ."
-        ],
-        "practical": {
-            "when": "Juin–septembre",
-            "duration": "7–10 jours",
-            "fromParis": "Vol direct Paris–Reykjavik selon la période."
-        },
-        "verdict": "Très forte demande pour les paysages et les séjours premium nature.",
-        "theme": "Nature premium",
-        "audience": "Amis • nature",
-        "best_for": "Road trip, volcan, spa, paysages extrêmes",
-        "budget": "€1 600–€3 200",
-        "stay_length": "7–10 nuits",
-        "hotel_style": "Lodge haut de gamme / campements haut standing",
-        "why_now": "Les escapades nature premium restent très prisées pour les voyageurs exigeants.",
-        "score": 79,
+        "hotel_style": "Villa / domaine chic",
+        "why_now": "Le marché espagnol reste très fort pour le luxe discret.",
+        "score": 80,
         "source": "travel-insights"
     },
     {
@@ -344,13 +284,13 @@ DATA = [
         "continent": "Europe",
         "summary": "Art, histoire, gastronomie et villages enchanteurs.",
         "highlights": [
-            "Rome antique|Forum, Palatin et Colisée.",
+            "Rome|Forum, Palatin et Colisée.",
             "Florence|Renaissance, Duomo et Offices.",
             "Ravenne|Mosaïques byzantines exceptionnelles."
         ],
         "stays": [
-            "Rosewood Castiglion del Bosco|Toscane|Domaine et paysages sublimes.",
-            "Borgo Santo Pietro|Toscane|Jardins extraordinaires et atmosphère romantique.",
+            "Rosewood Castiglion|Toscane|Domaine et paysages sublimes.",
+            "Borgo Santo Pietro|Toscane|Jardins et atmosphère romantique.",
             "Passalacqua|Lac de Côme|Villa historique et jardins."
         ],
         "practical": {
@@ -375,16 +315,16 @@ DATA = [
         "summary": "Patrimoine, gastronomie et villes d’art.",
         "highlights": [
             "Mont-Saint-Michel|Abbaye et paysage de marées.",
-            "Châteaux de la Loire|Architecture et jardins de la Renaissance.",
-            "Arles et sites romains|Antiquité et patrimoine provençal."
+            "Loire|Architecture et jardins de la Renaissance.",
+            "Arles|Antiquité et patrimoine provençal."
         ],
         "stays": [
             "La Réserve Ramatuelle|Provence|Intimité et vues marines.",
-            "Les Sources de Cheverny|Loire|Nature, jardins et art de vivre.",
-            "Domaine des Étangs|Charente|Domaine artistique, étangs et tranquillité."
+            "Les Sources de Cheverny|Loire|Nature et art de vivre.",
+            "Domaine des Étangs|Charente|Domaine artistique et tranquillité."
         ],
         "practical": {
-            "when": "Mai–septembre selon région",
+            "when": "Mai–septembre",
             "duration": "4–10 jours",
             "fromParis": "Train ou voiture selon région."
         },
@@ -393,4 +333,373 @@ DATA = [
         "audience": "Couples • art de vivre",
         "best_for": "Provence, Loire, châteaux et gastronomie",
         "budget": "€1 100–€2 700",
-        "stay](#)
+        "stay_length": "4–9 nuits",
+        "hotel_style": "Maison de caractère / château",
+        "why_now": "Le luxe discret français reste très fort dans les séjours courts.",
+        "score": 83,
+        "source": "travel-insights"
+    },
+    {
+        "destination": "Grèce",
+        "continent": "Europe",
+        "summary": "Iles, bleu profond, architecture et doux vivre.",
+        "highlights": [
+            "Santorin|Caldera, blancs et vue mer.",
+            "Athènes|Acropole et fondations classiques.",
+            "Mykonos|Ile chic et ambiance festive."
+        ],
+        "stays": [
+            "Amanzoe|Péloponnèse|Villa haut de gamme et vue sur la mer.",
+            "Nimmo|Santorin|Luxe discret et maison d’architecte.",
+            "The Cliffs|Santorin|Design, architecture et vue panoramique."
+        ],
+        "practical": {
+            "when": "Mai–septembre",
+            "duration": "5–9 jours",
+            "fromParis": "Vol direct Paris–Athènes ou Mykonos."
+        },
+        "verdict": "Très fort pour une idée de vacances en bord de mer avec style.",
+        "theme": "Mer & luxe méditerranéen",
+        "audience": "Couples • mer",
+        "best_for": "Santorin, Mykonos, vue mer, luxe discret",
+        "budget": "€1 200–€2 800",
+        "stay_length": "5–8 nuits",
+        "hotel_style": "Boutique luxury / resort design",
+        "why_now": "La Grèce reste très forte pour les séjours premium maritimes.",
+        "score": 77,
+        "source": "travel-insights"
+    },
+    {
+        "destination": "Islande",
+        "continent": "Europe",
+        "summary": "Nature, spas, paysages extrêmes et luxe discret.",
+        "highlights": [
+            "Reykjavik|Culture nordique et capitale moderne.",
+            "Golden Circle|Geysers et cascades brutales.",
+            "South Coast|Fjords et plages noires."
+        ],
+        "stays": [
+            "Hotel Borg|Reykjavik|Luxe discret et design scandinave.",
+            "Blue Lagoon|Blue Lagoon|Spa haut de gamme.",
+            "Hotel Rangá|South Coast|Accueil chaleureux et point de départ."
+        ],
+        "practical": {
+            "when": "Juin–septembre",
+            "duration": "7–10 jours",
+            "fromParis": "Vol direct Paris–Reykjavik."
+        },
+        "verdict": "Très forte demande pour les paysages et les séjours premium nature.",
+        "theme": "Nature premium",
+        "audience": "Amis • nature",
+        "best_for": "Road trip, volcan, spa, paysages extrêmes",
+        "budget": "€1 600–€3 200",
+        "stay_length": "7–10 nuits",
+        "hotel_style": "Lodge haut de gamme / campements haut standing",
+        "why_now": "Les escapades nature premium restent très prisées pour les voyageurs exigeants.",
+        "score": 79,
+        "source": "travel-insights"
+    },
+    {
+        "destination": "Mexique",
+        "continent": "Amérique du Nord",
+        "summary": "Civilisations précolombiennes, plages et villes coloniales.",
+        "highlights": [
+            "Chichén Itzá|Grande cité maya.",
+            "Teotihuacán|Pyramides monumentales.",
+            "Palenque|Cité maya au cœur de la jungle."
+        ],
+        "stays": [
+            "Chablé Yucatán|Yucatán|Casitas et jardins tropicaux.",
+            "Rosewood Mayakoba|Riviera Maya|Suites sur lagunes.",
+            "San Miguel|San Miguel de Allende|Maisons historiques et cours intérieures."
+        ],
+        "practical": {
+            "when": "Novembre à avril",
+            "duration": "10–14 jours",
+            "fromParis": "Paris–Cancún ou Mexico."
+        },
+        "verdict": "Le Yucatán combine culture, architecture et piscine avec grande finesse.",
+        "theme": "Culture & luxe tropical",
+        "audience": "Couples • culture + plage",
+        "best_for": "Yucatán, pyramides, lagunes, spas",
+        "budget": "€1 100–€2 600",
+        "stay_length": "6–10 nuits",
+        "hotel_style": "Villa / resort chic",
+        "why_now": "Le marché mexicain est particulièrement fort pour les escapades culturelles premium.",
+        "score": 78,
+        "source": "travel-insights"
+    },
+    {
+        "destination": "États-Unis",
+        "continent": "Amérique du Nord",
+        "summary": "Musées, architecture et grands paysages.",
+        "highlights": [
+            "Washington|Musées et monuments historiques.",
+            "Taliesin West|Architecture de Frank Lloyd Wright.",
+            "Mesa Verde|Habitations ancestrales dans les falaises."
+        ],
+        "stays": [
+            "Amangiri|Utah|Architecture minérale et silence absolu.",
+            "Post Ranch Inn|Big Sur|Falaises et intimité.",
+            "Blackberry Farm|Tennessee|Campagne raffinée et gastronomique."
+        ],
+        "practical": {
+            "when": "Printemps ou automne",
+            "duration": "7–14 jours",
+            "fromParis": "Vol direct Paris–New York ou Los Angeles."
+        },
+        "verdict": "Priorité aux grands paysages et à l’architecture plutôt qu’aux villes.",
+        "theme": "Nature & architecture",
+        "audience": "Couples • luxury road trip",
+        "best_for": "Utah, Big Sur, architecture contemporaine",
+        "budget": "€1 500–€3 500",
+        "stay_length": "7–12 nuits",
+        "hotel_style": "Retreat / lodge haut standing",
+        "why_now": "Le luxe américain est très fort dans le road trip premium et les grandes étendues.",
+        "score": 74,
+        "source": "travel-insights"
+    },
+    {
+        "destination": "Canada",
+        "continent": "Amérique du Nord",
+        "summary": "Lacs, forêts et grands espaces très élégants.",
+        "highlights": [
+            "Banff|Aigles, montagnes et lacs glacés.",
+            "Québec|Architecture européenne et charme historique.",
+            "Vancouver|Forêts, falaises et luxe discret."
+        ],
+        "stays": [
+            "Lake Louise|Banff|Luxe glacier et paysage monumental.",
+            "Four Seasons Toronto|Toronto|Urban luxury et service impeccable.",
+            "Aava Whistler|Whistler|Lodge chalet et nature environnante."
+        ],
+        "practical": {
+            "when": "Juin–septembre",
+            "duration": "7–12 jours",
+            "fromParis": "Vol direct Paris–Montréal ou Vancouver."
+        },
+        "verdict": "Très bon pour les voyageurs recherchant luxe sauvage et nature épurée.",
+        "theme": "Nature & wilderness",
+        "audience": "Couples • road trip",
+        "best_for": "Lacs, montagnes, chalet haut de gamme",
+        "budget": "€1 400–€3 000",
+        "stay_length": "6–10 nuits",
+        "hotel_style": "Lodge / chalet haut standing",
+        "why_now": "Le Canada garde une forte demande pour les grandes étendues premium.",
+        "score": 73,
+        "source": "travel-insights"
+    },
+    {
+        "destination": "Pérou",
+        "continent": "Amérique du Sud",
+        "summary": "Héritage inca et villes coloniales.",
+        "highlights": [
+            "Machu Picchu|Citadelle inca spectaculaire.",
+            "Cusco|Capitale inca et architecture coloniale.",
+            "Vallée sacrée|Sites archéologiques dans les Andes."
+        ],
+        "stays": [
+            "Belmond Cusco|Cusco|Ancien couvent, patios et piscine.",
+            "Explora Valle Sagrado|Vallée sacrée|Architecture épurée et excursions guidées.",
+            "Tambo del Inka|Urubamba|Jardins et confort en vallée."
+        ],
+        "practical": {
+            "when": "Mai à septembre",
+            "duration": "10–14 jours",
+            "fromParis": "Paris–Lima puis vol vers Cusco."
+        },
+        "verdict": "Culture spectaculaire ; altitude et transferts sont les vrais compromis.",
+        "theme": "Culture & Andes",
+        "audience": "Couples • aventure culturelle",
+        "best_for": "Cusco, vallée sacrée, Machu Picchu",
+        "budget": "€1 200–€2 500",
+        "stay_length": "7–10 nuits",
+        "hotel_style": "Hôtel boutique / lodge chic",
+        "why_now": "Le Pérou reste une excellente destination pour les voyageurs culturels premium.",
+        "score": 77,
+        "source": "travel-insights"
+    },
+    {
+        "destination": "Chili",
+        "continent": "Amérique du Sud",
+        "summary": "Vallées, glaciers, villes culturelles et paysages spectaculaires.",
+        "highlights": [
+            "Santiago|Architecture contemporaine et vie urbaine.",
+            "Patagonie|Lacs, montagnes et glaciers.",
+            "Valparaíso|Cité colorée et portuaire."
+        ],
+        "stays": [
+            "The Singular Patagonia|Patagonie|Luxe dans la nature.",
+            "Hotel Plaza del Bosque|Santiago|Confort et design urbain.",
+            "Farallon|Valparaiso|Boutique hôtel dans les rues escarpées."
+        ],
+        "practical": {
+            "when": "Novembre–février",
+            "duration": "8–12 jours",
+            "fromParis": "Paris–Santiago."
+        },
+        "verdict": "Très fort pour les amoureux de la nature extrême et des paysages gigantesques.",
+        "theme": "Nature & modern design",
+        "audience": "Couples • aventure",
+        "best_for": "Patagonie, glaciers, paysage spectral",
+        "budget": "€1 300–€2 800",
+        "stay_length": "6–10 nuits",
+        "hotel_style": "Lodge / boutique grand luxe",
+        "why_now": "Le Chili est très demandé dans les voyages nature premium.",
+        "score": 75,
+        "source": "travel-insights"
+    },
+    {
+        "destination": "Argentine",
+        "continent": "Amérique du Sud",
+        "summary": "Patagonie, grands espaces et gastronomie élégante.",
+        "highlights": [
+            "Buenos Aires|Architecture, tango et cafés historiques.",
+            "Patagonie|Lacs, montagnes et glaciers.",
+            "El Calafate|Parc national et paysages extrêmes."
+        ],
+        "stays": [
+            "Faena Hotel|Buenos Aires|Luxe urbain et style renaissance.",
+            "Awasi Patagonia|Patagonie|Exclusivité et design discret.",
+            "Llao Llao|Bariloche|Lodge chic au cœur des montagnes."
+        ],
+        "practical": {
+            "when": "Novembre–mars",
+            "duration": "10–14 jours",
+            "fromParis": "Paris–Buenos Aires ou Santiago."
+        },
+        "verdict": "Superbe pour les grands voyages, surtout en amoureux.",
+        "theme": "Nature & gastronomie",
+        "audience": "Couples • road trip",
+        "best_for": "Patagonie, Buenos Aires, vin et nature",
+        "budget": "€1 300–€2 900",
+        "stay_length": "7–11 nuits",
+        "hotel_style": "Luxe urbain / lodge chic",
+        "why_now": "L’Argentine conserve une vraie demande pour les grands voyages.",
+        "score": 72,
+        "source": "travel-insights"
+    },
+    {
+        "destination": "Australie",
+        "continent": "Océanie",
+        "summary": "Cultures anciennes et architecture contemporaine.",
+        "highlights": [
+            "Sydney|Opéra, architecture et vie maritime.",
+            "Uluru|Paysage sacré des Anangu.",
+            "Kakadu|Art rupestre aborigène et nature."
+        ],
+        "stays": [
+            "Capella Sydney|Sydney|Architecture patrimoniale et luxe discret.",
+            "Southern Ocean Lodge|Kangaroo Island|Design et panorama sauvage.",
+            "Longitude 131|Uluru|Pavillons intimistes face au rocher."
+        ],
+        "practical": {
+            "when": "Septembre à novembre ou mars–mai",
+            "duration": "12–18 jours",
+            "fromParis": "Paris–Sydney avec escale."
+        },
+        "verdict": "Splendide en couple, mais distances considérables.",
+        "theme": "Nature & luxe sauvage",
+        "audience": "Couples • road trip",
+        "best_for": "Sydney, Uluru, Kangaroo Island",
+        "budget": "€2 000–€4 000",
+        "stay_length": "10–14 nuits",
+        "hotel_style": "Lodge / villa premium",
+        "why_now": "Le luxe australien reste très fort pour les voyages longs et raffinés.",
+        "score": 75,
+        "source": "travel-insights"
+    },
+    {
+        "destination": "Nouvelle-Zélande",
+        "continent": "Océanie",
+        "summary": "Nature extrême, lacs, montagnes et intégration douce.",
+        "highlights": [
+            "Queenstown|Alpes, lacs et adrénaline.",
+            "Milford Sound|Fjord spectaculaire et silence absolu.",
+            "Auckland|Mer et villes premium."
+        ],
+        "stays": [
+            "Kauri Cliffs|Northland|Vue mer, piscine et élégance.",
+            "Ski Lodge|Queenstown|Luxe discret et ouverture sur la nature.",
+            "Matakauri|Wanaka|Vue lac et architecture contemporaine."
+        ],
+        "practical": {
+            "when": "Décembre–février ou mars–mai",
+            "duration": "10–14 jours",
+            "fromParis": "Paris–Auckland ou Christchurch."
+        },
+        "verdict": "Un must pour ceux qui veulent se reconnecter à la nature avec luxe minimaliste.",
+        "theme": "Nature & luxe minimal",
+        "audience": "Couples • road trip",
+        "best_for": "Lacs, fjords, montagnes, trekking",
+        "budget": "€1 700–€3 500",
+        "stay_length": "8–12 nuits",
+        "hotel_style": "Lodge / lodge premium",
+        "why_now": "La Nouvelle-Zélande reste une référence pour le voyage nature premium.",
+        "score": 76,
+        "source": "travel-insights"
+    }
+]
+
+def build_payload():
+    ranked = sorted(DATA, key=lambda x: x["score"], reverse=True)
+    return {
+        "generated_at": datetime.now(timezone.utc).isoformat(),
+        "summary": "Les tendances les plus fortes restent le luxe durable, le wellness, la culture, le patrimoine et la nature premium.",
+        "featured": [
+            {
+                "destination": item["destination"],
+                "theme": item["theme"],
+                "score": item["score"],
+                "reason": item["why_now"]
+            }
+            for item in ranked[:5]
+        ],
+        "items": ranked
+    }
+
+
+def try_llm_summary(payload):
+    api_key = os.environ.get("OPENAI_API_KEY")
+    if not api_key:
+        return payload
+
+    try:
+        response = requests.post(
+            "https://api.openai.com/v1/chat/completions",
+            headers={
+                "Authorization": f"Bearer {api_key}",
+                "Content-Type": "application/json",
+            },
+            json={
+                "model": "gpt-4o-mini",
+                "messages": [
+                    {
+                        "role": "system",
+                        "content": "Tu es un analyste de tendances de voyage en français. Donne un résumé clair et orienté marketing pour un site de recommandations."
+                    },
+                    {
+                        "role": "user",
+                        "content": f"Voici les données: {json.dumps(payload, ensure_ascii=False)}. Donne-moi un résumé en français de 2 phrases maximum."
+                    }
+                ],
+                "temperature": 0.7,
+            },
+            timeout=60,
+        )
+        response.raise_for_status()
+        summary = response.json()["choices"][0]["message"]["content"].strip()
+        payload["summary"] = summary
+        return payload
+    except Exception:
+        return payload
+
+
+def main():
+    payload = build_payload()
+    payload = try_llm_summary(payload)
+    OUTPUT_PATH.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
+
+
+if __name__ == "__main__":
+    main()
