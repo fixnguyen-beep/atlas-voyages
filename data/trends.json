@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-26T00:00:00+00:00",
-  "summary": "Les tendances les plus fortes restent le luxe durable, le wellness, la culture et la nature premium.",
+  "generated_at": "2026-10-26T16:17:31.833829+00:00",
+  "summary": "Les tendances de voyage pour 2026 mettent en avant le luxe durable, le wellness, et des séjours culturels de qualité, avec des destinations phares comme la Thaïlande, le Japon, et l'Italie. Les voyageurs recherchent des expériences immersives et raffinées, tout en privilégiant la nature et le patrimoine.",
   "featured": [
     {
       "destination": "Thaïlande",
@@ -15,6 +15,12 @@
       "reason": "La demande reste forte pour des séjours immersifs et visuellement raffinés."
     },
     {
+      "destination": "Italie",
+      "theme": "Culture & patrimoine",
+      "score": 87,
+      "reason": "L’Italie reste une destination ultra-solide pour le luxe culturel."
+    },
+    {
       "destination": "Bali",
       "theme": "Wellness & villas",
       "score": 86,
@@ -25,12 +31,6 @@
       "theme": "Culture & riads",
       "score": 84,
       "reason": "L’offre luxe inspirée du patrimoine est très recherchée pour les voyages courts."
-    },
-    {
-      "destination": "Portugal",
-      "theme": "Design & bien-être",
-      "score": 81,
-      "reason": "Les voyageurs recherchent des séjours élégants, aérés et faciles à vivre."
     }
   ],
   "items": [
@@ -95,6 +95,36 @@
       "source": "travel-insights"
     },
     {
+      "destination": "Italie",
+      "continent": "Europe",
+      "summary": "Art, histoire et art de vivre.",
+      "highlights": [
+        "Rome antique|Forum, Palatin et Colisée.",
+        "Florence|Renaissance, Duomo et Offices.",
+        "Ravenne|Mosaïques byzantines exceptionnelles."
+      ],
+      "stays": [
+        "Rosewood Castiglion del Bosco|Toscane|Domaine et paysages sublimes.",
+        "Borgo Santo Pietro|Toscane|Jardins extraordinaires et atmosphère romantique.",
+        "Passalacqua|Lac de Côme|Villa historique et jardins."
+      ],
+      "practical": {
+        "when": "Avril–juin ou septembre–octobre",
+        "duration": "5–12 jours",
+        "fromParis": "Nombreux vols directs ; train très pratique."
+      },
+      "verdict": "Probablement l’un des meilleurs pays pour vos goûts.",
+      "theme": "Culture & patrimoine",
+      "audience": "Couples • art & design",
+      "best_for": "Rome, Florence, Toscane, villas historiques",
+      "budget": "€1 300–€2 800",
+      "stay_length": "6–10 nuits",
+      "hotel_style": "Hôtel de charme / villa historique",
+      "why_now": "L’Italie reste une destination ultra-solide pour le luxe culturel.",
+      "score": 87,
+      "source": "travel-insights"
+    },
+    {
       "destination": "Bali",
       "continent": "Asie",
       "summary": "Wellness, villas et nature luxuriante.",
@@ -155,6 +185,36 @@
       "source": "travel-insights"
     },
     {
+      "destination": "France",
+      "continent": "Europe",
+      "summary": "Patrimoine, jardins et art de vivre.",
+      "highlights": [
+        "Mont-Saint-Michel|Abbaye et paysage de marées.",
+        "Châteaux de la Loire|Architecture et jardins de la Renaissance.",
+        "Arles et sites romains|Antiquité et patrimoine provençal."
+      ],
+      "stays": [
+        "La Réserve Ramatuelle|Provence|Intimité et vues marines.",
+        "Les Sources de Cheverny|Loire|Nature, jardins et art de vivre.",
+        "Domaine des Étangs|Charente|Domaine artistique, étangs et tranquillité."
+      ],
+      "practical": {
+        "when": "Mai–septembre selon région",
+        "duration": "4–10 jours",
+        "fromParis": "Train ou voiture selon région."
+      },
+      "verdict": "Très bon terrain de jeu pour des séjours courts et raffinés.",
+      "theme": "Patrimoine & gastronomie",
+      "audience": "Couples • art de vivre",
+      "best_for": "Provence, Loire, châteaux et gastronomie",
+      "budget": "€1 100–€2 700",
+      "stay_length": "4–9 nuits",
+      "hotel_style": "Maison de caractère / château",
+      "why_now": "Le luxe discret français reste très fort dans les séjours courts.",
+      "score": 83,
+      "source": "travel-insights"
+    },
+    {
       "destination": "Portugal",
       "continent": "Europe",
       "summary": "Villes historiques, palais et vignobles.",
@@ -182,6 +242,66 @@
       "hotel_style": "Petit hôtel design / maison d’hôtes",
       "why_now": "Les voyageurs recherchent des séjours élégants, aérés et faciles à vivre.",
       "score": 81,
+      "source": "travel-insights"
+    },
+    {
+      "destination": "Espagne",
+      "continent": "Europe",
+      "summary": "Villes d’art et architecture singulière.",
+      "highlights": [
+        "Alhambra de Grenade|Palais nasrides et jardins.",
+        "Cordoue|Mosquée-cathédrale et ruelles historiques.",
+        "Tolède|Cité historique multiculturelle."
+      ],
+      "stays": [
+        "Finca Cortesin|Andalousie|Jardins soignés, piscines et service posé.",
+        "La Residencia|Majorque|Village, oliviers et charme artistique.",
+        "Cap Rocat|Majorque|Forteresse restaurée, atmosphère intime."
+      ],
+      "practical": {
+        "when": "Avril–juin ou septembre–octobre",
+        "duration": "5–10 jours",
+        "fromParis": "Vol direct Paris–Séville, Malaga ou Palma."
+      },
+      "verdict": "Andalousie culturelle puis repos en bord de mer : combinaison idéale.",
+      "theme": "Culture & soleil",
+      "audience": "Couples • luxe accessible",
+      "best_for": "Andalousie, Majorque, architecture, cuisine",
+      "budget": "€1 000–€2 400",
+      "stay_length": "5–9 nuits",
+      "hotel_style": "Villa / domaine chic",
+      "why_now": "Le marché espagnol reste très fort pour le luxe discret.",
+      "score": 80,
+      "source": "travel-insights"
+    },
+    {
+      "destination": "Islande",
+      "continent": "Europe",
+      "summary": "Nature, spas, paysages extrêmes et luxe discret.",
+      "highlights": [
+        "Reykjavik|Capital moderne et culture nordique.",
+        "Golden Circle|Geysers, cascade et paysages volcaniques.",
+        "South Coast|Fjords, glaciers et plages noires."
+      ],
+      "stays": [
+        "Hótel Borg|Reykjavik|Luxe discret, design scandinave.",
+        "The Retreat at Blue Lagoon|Blue Lagoon|Spa haut de gamme.",
+        "Hotel Rangá|South Coast|Accueil chaleureux et excellent point de départ."
+      ],
+      "practical": {
+        "when": "Juin–septembre",
+        "duration": "7–10 jours",
+        "fromParis": "Vol direct Paris–Reykjavik selon la période."
+      },
+      "verdict": "Très forte demande pour les paysages et les séjours premium nature.",
+      "theme": "Nature premium",
+      "audience": "Amis • nature",
+      "best_for": "Road trip, volcan, spa, paysages extrêmes",
+      "budget": "€1 600–€3 200",
+      "stay_length": "7–10 nuits",
+      "hotel_style": "Lodge haut de gamme / campements haut standing",
+      "why_now": "Les escapades nature premium restent très prisées pour les voyageurs exigeants.",
+      "score": 79,
       "source": "travel-insights"
     }
   ]
