@@ -208,16 +208,20 @@
     </footer>
 
     <script>
-      const fallback = {
-        generated_at: new Date().toISOString(),
-        summary: "Les tendances les plus fortes restent le luxe durable, les voyages culturels et les destinations nature.",
-        items: [
-          { destination: "Thaïlande", trend: "Hausse du luxe durable à Bangkok et Koh Samui", score: 92, source: "travel-insights" },
-          { destination: "Japon", trend: "Demande stable pour Kyoto, Tokyo et les séjours hors saison", score: 87, source: "travel-insights" },
-          { destination: "Maroc", trend: "Marrakech et Essaouira attirent davantage les voyageurs culturels", score: 84, source: "travel-insights" },
-          { destination: "Portugal", trend: "Croissance du tourisme de niche autour du design et du bien-être", score: 80, source: "travel-insights" }
-        ]
-      };
+    const fallback = {
+  generated_at: new Date().toISOString(),
+  summary: "Les tendances les plus fortes restent le luxe durable, le wellness, la culture et la nature premium.",
+  featured: [
+    { destination: "Thaïlande", theme: "Luxe durable", score: 92, reason: "Hausse du luxe durable à Bangkok et Koh Samui" },
+    { destination: "Japon", theme: "Culture & design", score: 88, reason: "Demande stable pour Kyoto et Tokyo" },
+    { destination: "Bali", theme: "Wellness & villas", score: 86, reason: "Demande forte pour slow travel premium" }
+  ]
+};
+
+function render(data) {
+  const items = Array.isArray(data.featured) ? data.featured : fallback.featured;
+  // afficher les 3 à 5 items
+}
 
       function render(data) {
         const container = document.getElementById('cards');
@@ -253,9 +257,8 @@
       async function loadData() {
         try {
           const response = await fetch('./data/trends.json?ts=' + Date.now(), { cache: 'no-store' });
-          if (!response.ok) throw new Error('HTTP ' + response.status);
-          const data = await response.json();
-          render(data);
+const data = await response.json();
+render(data);
         } catch (error) {
           console.warn('Fallback data used because the JSON file could not be loaded.', error);
           render(fallback);
