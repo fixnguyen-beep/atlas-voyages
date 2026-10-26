@@ -278,6 +278,126 @@ DATA = [
         "why_now": "Le marché espagnol reste très fort pour le luxe discret.",
         "score": 80,
         "source": "travel-insights"
+    },
+    {
+        "destination": "Mexique",
+        "continent": "Amérique du Nord",
+        "summary": "Civilisations précolombiennes et villes coloniales.",
+        "highlights": [
+            "Chichén Itzá|Grande cité maya.",
+            "Teotihuacán|Pyramides monumentales.",
+            "Palenque|Cité maya au cœur de la jungle."
+        ],
+        "stays": [
+            "Chablé Yucatán|Yucatán|Casitas et jardins tropicaux.",
+            "Rosewood Mayakoba|Riviera Maya|Suites sur lagunes.",
+            "Casa de Sierra Nevada|San Miguel de Allende|Maisons historiques et cours intérieures."
+        ],
+        "practical": {
+            "when": "Novembre à avril",
+            "duration": "10–14 jours",
+            "fromParis": "Paris–Cancún ou Mexico selon le séjour."
+        },
+        "verdict": "Le Yucatán combine remarquablement culture et piscine.",
+        "theme": "Culture & luxe tropical",
+        "audience": "Couples • culture + plage",
+        "best_for": "Yucatán, pyramides, lagunes, spas",
+        "budget": "€1 100–€2 600",
+        "stay_length": "6–10 nuits",
+        "hotel_style": "Villa / resort chic",
+        "why_now": "Le marché mexicain est particulièrement fort pour les escapades culturelles premium.",
+        "score": 78,
+        "source": "travel-insights"
+    },
+    {
+        "destination": "États-Unis",
+        "continent": "Amérique du Nord",
+        "summary": "Musées, architecture et grands paysages.",
+        "highlights": [
+            "National Mall|Musées et monuments de Washington.",
+            "Taliesin West|Architecture de Frank Lloyd Wright.",
+            "Mesa Verde|Habitations ancestrales dans les falaises."
+        ],
+        "stays": [
+            "Amangiri|Utah|Architecture minérale et silence absolu.",
+            "Post Ranch Inn|Big Sur|Falaises et intimité.",
+            "Blackberry Farm|Tennessee|Campagne raffinée et gastronomique."
+        ],
+        "practical": {
+            "when": "Printemps ou automne",
+            "duration": "7–14 jours",
+            "fromParis": "Vol direct Paris–New York ou Los Angeles selon le voyage."
+        },
+        "verdict": "Priorité aux grands paysages et à l’architecture plutôt qu’aux villes.",
+        "theme": "Nature & architecture",
+        "audience": "Couples • luxury road trip",
+        "best_for": "Utah, Big Sur, architecture contemporaine",
+        "budget": "€1 500–€3 500",
+        "stay_length": "7–12 nuits",
+        "hotel_style": "Retreat / lodge haut standing",
+        "why_now": "Le luxe américain est très fort dans le road trip premium et les grandes étendues.",
+        "score": 74,
+        "source": "travel-insights"
+    },
+    {
+        "destination": "Pérou",
+        "continent": "Amérique du Sud",
+        "summary": "Héritage inca et villes coloniales.",
+        "highlights": [
+            "Machu Picchu|Citadelle inca spectaculaire.",
+            "Cusco|Capitale inca et architecture coloniale.",
+            "Vallée sacrée|Sites archéologiques dans les Andes."
+        ],
+        "stays": [
+            "Belmond Palacio Nazarenas|Cusco|Ancien couvent, patios et piscine.",
+            "Explora Valle Sagrado|Vallée sacrée|Architecture épurée et excursions guidées.",
+            "Tambo del Inka|Urubamba|Jardins et confort en vallée."
+        ],
+        "practical": {
+            "when": "Mai à septembre",
+            "duration": "10–14 jours",
+            "fromParis": "Paris–Lima puis vol vers Cusco."
+        },
+        "verdict": "Culture spectaculaire ; altitude et transferts sont les vrais compromis.",
+        "theme": "Culture & Andes",
+        "audience": "Couples • aventure culturelle",
+        "best_for": "Cusco, vallée sacrée, Machu Picchu",
+        "budget": "€1 200–€2 500",
+        "stay_length": "7–10 nuits",
+        "hotel_style": "Hôtel boutique / lodge chic",
+        "why_now": "Le Pérou reste une excellente destination pour les voyageurs culturels premium.",
+        "score": 77,
+        "source": "travel-insights"
+    },
+    {
+        "destination": "Australie",
+        "continent": "Océanie",
+        "summary": "Cultures anciennes et architecture contemporaine.",
+        "highlights": [
+            "Opéra de Sydney|Icône architecturale du XXe siècle.",
+            "Uluru|Paysage sacré des Anangu.",
+            "Kakadu|Art rupestre aborigène et nature."
+        ],
+        "stays": [
+            "Capella Sydney|Sydney|Architecture patrimoniale et luxe discret.",
+            "Southern Ocean Lodge|Kangaroo Island|Design et panorama sauvage.",
+            "Longitude 131°|Uluru|Pavillons intimistes face au rocher."
+        ],
+        "practical": {
+            "when": "Septembre à novembre ou mars–mai",
+            "duration": "12–18 jours",
+            "fromParis": "Paris–Sydney avec escale ou vols directs selon l’offre."
+        },
+        "verdict": "Splendide en couple, mais distances considérables.",
+        "theme": "Nature & luxe sauvage",
+        "audience": "Couples • road trip",
+        "best_for": "Sydney, Uluru, Kangaroo Island",
+        "budget": "€2 000–€4 000",
+        "stay_length": "10–14 nuits",
+        "hotel_style": "Lodge / villa premium",
+        "why_now": "Le luxe australien reste très fort pour les voyages longs et raffinés.",
+        "score": 75,
+        "source": "travel-insights"
     }
 ]
 
