@@ -270,7 +270,7 @@ DATA = [
         },
         "verdict": "Andalousie culturelle puis repos en bord de mer : combinaison idéale.",
         "theme": "Culture & soleil",
-        "audience": "Couples • luxe accessibly",
+        "audience": "Couples • luxe accessible",
         "best_for": "Andalousie, Majorque, architecture, cuisine",
         "budget": "€1 000–€2 400",
         "stay_length": "5–9 nuits",
