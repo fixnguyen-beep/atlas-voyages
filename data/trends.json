@@ -1,35 +1,97 @@
 {
-  "generated_at": "2026-10-26T15:56:47.078144+00:00",
-  "summary": "Les tendances de voyage révèlent une forte montée du luxe durable en Thaïlande, notamment à Bangkok et Koh Samui, tandis que le Japon continue d'attirer les visiteurs vers Kyoto et Tokyo, surtout hors saison. Marrakech et Essaouira au Maroc séduisent de plus en plus les amateurs de culture, tandis que le Portugal se distingue par une croissance du tourisme de niche axée sur le design et le bien-être. Enfin, l'Islande reste une destination prisée pour ses circuits nature et ses hébergements premium.\n\n**Classement des destinations tendance :**\n1. Thaïlande - Luxe durable (Score : 92)\n2. Japon - Séjours hors saison (Score : 87)\n3. Maroc - Voyage culturel (Score : 84)\n4. Portugal - Tourisme de niche (Score : 80)\n5. Islande - Circuits nature (Score : 78)",
+  "generated_at": "2026-10-26T00:00:00+00:00",
+  "summary": "Les tendances les plus fortes restent le luxe durable, le wellness, la culture et la nature premium.",
+  "featured": [
+    {
+      "destination": "Thaïlande",
+      "theme": "Luxe durable",
+      "score": 92,
+      "reason": "Hausse des séjours premium avec une approche plus durable et plus intime."
+    },
+    {
+      "destination": "Japon",
+      "theme": "Culture & design",
+      "score": 88,
+      "reason": "La demande reste forte pour des séjours immersifs et visuellement raffinés."
+    },
+    {
+      "destination": "Maroc",
+      "theme": "Culture & riads",
+      "score": 84,
+      "reason": "L’offre luxe inspirée du patrimoine est très recherchée pour les voyages courts."
+    },
+    {
+      "destination": "Bali",
+      "theme": "Wellness & villas",
+      "score": 86,
+      "reason": "La demande pour des séjours lentement conçus augmente sur le marché premium."
+    },
+    {
+      "destination": "Portugal",
+      "theme": "Design & bien-être",
+      "score": 81,
+      "reason": "Les voyageurs recherchent des séjours élégants, aérés et faciles à vivre."
+    }
+  ],
   "items": [
     {
       "destination": "Thaïlande",
-      "trend": "Hausse du luxe durable à Bangkok et Koh Samui",
+      "continent": "Asie",
+      "summary": "Bangkok, villes royales et paysages tropicaux.",
+      "highlights": [
+        "Grand Palais et Wat Phra Kaew|Le grand ensemble royal de Bangkok.",
+        "Ayutthaya|Vestiges de l’ancienne capitale du Siam.",
+        "Sukhothai historique|Temples et sculptures de l’âge d’or siamois."
+      ],
+      "stays": [
+        "The Sukhothai Bangkok|Bangkok|Jardins, piscine et sérénité urbaine. Référence absolue pour l’atmosphère.",
+        "Amanpuri|Phuket|Pavillons thaïs, intimité et plage superbe ; prix très élevé.",
+        "Four Seasons Resort Chiang Mai|Mae Rim|Rizières, jardins et architecture lanna ; cadre magnifique."
+      ],
+      "practical": {
+        "when": "Novembre à février",
+        "duration": "10–14 jours",
+        "fromParis": "Vol direct Paris–Bangkok selon programme ; correspondances pour les régions."
+      },
+      "verdict": "Excellent équilibre entre culture et repos.",
+      "theme": "Luxe durable",
+      "audience": "Couples • premium",
+      "best_for": "Bangkok, spas, villas, plages calmes",
+      "budget": "€1 200–€2 500",
+      "stay_length": "6–10 nuits",
+      "hotel_style": "Boutique eco-luxury",
+      "why_now": "Hausse des séjours premium avec une approche plus durable et plus intime.",
       "score": 92,
       "source": "travel-insights"
     },
     {
       "destination": "Japon",
-      "trend": "Demande stable pour Kyoto, Tokyo et les séjours hors saison",
-      "score": 87,
-      "source": "travel-insights"
-    },
-    {
-      "destination": "Maroc",
-      "trend": "Marrakech et Essaouira attirent davantage les voyageurs culturels",
-      "score": 84,
-      "source": "travel-insights"
-    },
-    {
-      "destination": "Portugal",
-      "trend": "Croissance du tourisme de niche autour du design et du bien-être",
-      "score": 80,
-      "source": "travel-insights"
-    },
-    {
-      "destination": "Islande",
-      "trend": "Toujours forte demande pour les circuits nature et les hôtels premium",
-      "score": 78,
+      "continent": "Asie",
+      "summary": "Esthétique, jardins et traditions vivantes.",
+      "highlights": [
+        "Temples et jardins de Kyoto|Patrimoine et paysages composés.",
+        "Nara|Grand Bouddha et sanctuaires anciens.",
+        "Himeji|Château féodal remarquablement conservé."
+      ],
+      "stays": [
+        "Aman Kyoto|Kyoto|Jardin secret et pavillons minimalistes.",
+        "Hoshinoya Kyoto|Kyoto|Retraite au bord de la rivière, accessible en bateau.",
+        "Gora Kadan|Hakone|Ryokan raffiné et bains thermaux."
+      ],
+      "practical": {
+        "when": "Mars–mai ou octobre–novembre",
+        "duration": "10–14 jours",
+        "fromParis": "Paris–Tokyo ou Osaka ; train pour les grandes étapes."
+      },
+      "verdict": "Exceptionnel en couple ; en famille, simplifier les déplacements.",
+      "theme": "Culture & design",
+      "audience": "Couples • culture",
+      "best_for": "Kyoto, Tokyo, ryokan, temples",
+      "budget": "€1 400–€2 800",
+      "stay_length": "7–12 nuits",
+      "hotel_style": "Ryokan design / luxe discret",
+      "why_now": "La demande reste forte pour des séjours immersifs et visuellement raffinés.",
+      "score": 88,
       "source": "travel-insights"
     }
   ]
