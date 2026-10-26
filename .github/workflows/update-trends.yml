@@ -2,7 +2,7 @@ name: Update travel trends
 
 on:
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "0 3 * * 1"   # tous les lundis à 03:00
   workflow_dispatch:
 
 permissions:
@@ -15,8 +15,6 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v5
-        with:
-          persist-credentials: true
 
       - name: Set up Python
         uses: actions/setup-python@v6
@@ -39,8 +37,8 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/trends.json
           if git diff --cached --quiet; then
-            echo "No changes to commit."
+            echo "No changes to commit"
           else
-            git commit -m "Update hotel travel recommendations"
+            git commit -m "Update travel recommendations"
             git push
           fi
