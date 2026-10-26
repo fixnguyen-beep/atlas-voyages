@@ -345,5 +345,52 @@ DATA = [
         "summary": "Art, histoire, gastronomie et villages enchanteurs.",
         "highlights": [
             "Rome antique|Forum, Palatin et Colisée.",
-            "Florence|Renaissance, Duomo et Offices.",](#)
-
+            "Florence|Renaissance, Duomo et Offices.",
+            "Ravenne|Mosaïques byzantines exceptionnelles."
+        ],
+        "stays": [
+            "Rosewood Castiglion del Bosco|Toscane|Domaine et paysages sublimes.",
+            "Borgo Santo Pietro|Toscane|Jardins extraordinaires et atmosphère romantique.",
+            "Passalacqua|Lac de Côme|Villa historique et jardins."
+        ],
+        "practical": {
+            "when": "Avril–juin ou septembre–octobre",
+            "duration": "5–12 jours",
+            "fromParis": "Nombreux vols directs ; train très pratique."
+        },
+        "verdict": "Probablement l’un des meilleurs pays pour vos goûts.",
+        "theme": "Culture & patrimoine",
+        "audience": "Couples • art & design",
+        "best_for": "Rome, Florence, Toscane, villas historiques",
+        "budget": "€1 300–€2 800",
+        "stay_length": "6–10 nuits",
+        "hotel_style": "Hôtel de charme / villa historique",
+        "why_now": "L’Italie reste une destination ultra-solide pour le luxe culturel.",
+        "score": 87,
+        "source": "travel-insights"
+    },
+    {
+        "destination": "France",
+        "continent": "Europe",
+        "summary": "Patrimoine, gastronomie et villes d’art.",
+        "highlights": [
+            "Mont-Saint-Michel|Abbaye et paysage de marées.",
+            "Châteaux de la Loire|Architecture et jardins de la Renaissance.",
+            "Arles et sites romains|Antiquité et patrimoine provençal."
+        ],
+        "stays": [
+            "La Réserve Ramatuelle|Provence|Intimité et vues marines.",
+            "Les Sources de Cheverny|Loire|Nature, jardins et art de vivre.",
+            "Domaine des Étangs|Charente|Domaine artistique, étangs et tranquillité."
+        ],
+        "practical": {
+            "when": "Mai–septembre selon région",
+            "duration": "4–10 jours",
+            "fromParis": "Train ou voiture selon région."
+        },
+        "verdict": "Très bon terrain de jeu pour des séjours courts et raffinés.",
+        "theme": "Patrimoine & gastronomie",
+        "audience": "Couples • art de vivre",
+        "best_for": "Provence, Loire, châteaux et gastronomie",
+        "budget": "€1 100–€2 700",
+        "stay](#)
