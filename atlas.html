@@ -126,7 +126,7 @@
     let favs = JSON.parse(localStorage.getItem('atlas_favorites') || '[]');
     let onlyFav = false;
     let cont = 'Tous';
-    let selected = 'Thaïlande';
+    let selected = '';
 
     const filters = document.getElementById('filters');
     const countries = document.getElementById('countries');
@@ -168,7 +168,7 @@
         `).join('')
         : '<p>Aucun pays trouvé.</p>';
 
-      const item = data.find(x => x.destination === selected) || data[0];
+      const item = data.find(x => x.destination === selected) || rows[0] || data[0];
 
       if (!item) {
         detail.innerHTML = '<div class="empty">Aucune donnée disponible.</div>';
@@ -233,7 +233,7 @@
         <div class="section">
           <h3>Le regard de l’Atlas</h3>
           <div class="verdict">
-            ${escapeText(item.verdict)} 
+            ${escapeText(item.verdict)}
             ${mode === 'famille'
               ? 'Pour un voyage en famille, vérifier les chambres communicantes, les âges admis et la simplicité des transferts.'
               : 'Pour un séjour à deux, privilégier les chambres les plus calmes, la qualité des jardins et les expériences privées.'}
@@ -252,7 +252,7 @@
         selected = data[0].destination;
         render();
       } catch (error) {
-        console.warn('Fallback data not available', error);
+        console.warn('Loading fallback data failed', error);
         data = [];
       }
     }
