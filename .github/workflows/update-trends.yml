@@ -2,7 +2,7 @@ name: Update travel trends
 
 on:
   schedule:
-    - cron: "0 3 * * 1"   # tous les lundis à 03:00
+    - cron: "0 3 * * 1"
   workflow_dispatch:
 
 permissions:
