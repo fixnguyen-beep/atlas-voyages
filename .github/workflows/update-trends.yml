@@ -14,12 +14,13 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v5
+        uses: actions/checkout@v4
         with:
           fetch-depth: 0
+          ref: main
 
       - name: Set up Python
-        uses: actions/setup-python@v6
+        uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
@@ -34,14 +35,17 @@ jobs:
         run: python scripts/update_trends.py
 
       - name: Commit and push if changed
+        shell: bash
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git pull --rebase origin "${GITHUB_REF_NAME:-main}"
+          git fetch origin main
+          git checkout main
+          git reset --hard origin/main
           git add data/trends.json
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else
             git commit -m "Update travel recommendations"
-            git push origin HEAD:"${GITHUB_REF_NAME:-main}"
+            git push origin HEAD:main
           fi
