@@ -8,11 +8,6 @@
       "Ayutthaya|Vestiges de l’ancienne capitale du Siam.",
       "Sukhothai|Temples et sculptures de l’âge d’or siamois."
     ],
-    "stays": [
-      "The Sukhothai Bangkok|Bangkok|Jardins, piscine et sérénité urbaine.",
-      "Amanpuri|Phuket|Pavillons thaïs, intimité et plage superbe.",
-      "Four Seasons Resort Chiang Mai|Mae Rim|Rizières, jardins et architecture lanna."
-    ],
     "practical": {
       "when": "Novembre à février",
       "duration": "10–14 jours",
@@ -27,7 +22,21 @@
     "hotel_style": "Boutique eco-luxury",
     "why_now": "Hausse des séjours premium avec une approche plus durable et plus intime.",
     "score": 92,
-    "source": "travel-insights"
+    "source": "travel-insights",
+    "editorial_stays": [
+      "The Sukhothai Bangkok|Bangkok|Jardins, piscine et sérénité urbaine.",
+      "Amanpuri|Phuket|Pavillons thaïs, intimité et plage superbe.",
+      "Four Seasons Resort Chiang Mai|Mae Rim|Rizières, jardins et architecture lanna."
+    ],
+    "preferences": {
+      "themes": [
+        "Luxe durable"
+      ],
+      "hotel_style": "Boutique eco-luxury",
+      "best_for": "Bangkok, spas, villas, plages calmes",
+      "audience": "Couples • premium",
+      "selection_note": "Privilégier le calme, l’architecture, les jardins, le service et une forte identité locale."
+    }
   },
   {
     "destination": "Japon",
@@ -37,11 +46,6 @@
       "Kyoto|Temples, jardins et culture raffinée.",
       "Nara|Grand Bouddha et sanctuaires anciens.",
       "Himeji|Château féodal remarquablement conservé."
-    ],
-    "stays": [
-      "Aman Kyoto|Kyoto|Jardin secret et pavillons minimalistes.",
-      "Hoshinoya Kyoto|Kyoto|Retraite au bord de la rivière.",
-      "Gora Kadan|Hakone|Ryokan raffiné et bains thermaux."
     ],
     "practical": {
       "when": "Mars–mai ou octobre–novembre",
@@ -57,7 +61,22 @@
     "hotel_style": "Ryokan design / luxe discret",
     "why_now": "La demande reste forte pour des séjours immersifs et visuellement raffinés.",
     "score": 88,
-    "source": "travel-insights"
+    "source": "travel-insights",
+    "editorial_stays": [
+      "Aman Kyoto|Kyoto|Jardin secret et pavillons minimalistes.",
+      "Hoshinoya Kyoto|Kyoto|Retraite au bord de la rivière.",
+      "Gora Kadan|Hakone|Ryokan raffiné et bains thermaux."
+    ],
+    "preferences": {
+      "themes": [
+        "Culture",
+        "design"
+      ],
+      "hotel_style": "Ryokan design / luxe discret",
+      "best_for": "Kyoto, Tokyo, ryokan, temples",
+      "audience": "Couples • culture",
+      "selection_note": "Privilégier le calme, l’architecture, les jardins, le service et une forte identité locale."
+    }
   },
   {
     "destination": "Italie",
@@ -67,11 +86,6 @@
       "Rome|Forum, Palatin et Colisée.",
       "Florence|Renaissance, Duomo et Offices.",
       "Ravenne|Mosaïques byzantines exceptionnelles."
-    ],
-    "stays": [
-      "Rosewood Castiglion|Toscane|Domaine et paysages sublimes.",
-      "Borgo Santo Pietro|Toscane|Jardins et atmosphère romantique.",
-      "Passalacqua|Lac de Côme|Villa historique et jardins."
     ],
     "practical": {
       "when": "Avril–juin ou septembre–octobre",
@@ -87,7 +101,22 @@
     "hotel_style": "Hôtel de charme / villa historique",
     "why_now": "L’Italie reste une destination ultra-solide pour le luxe culturel.",
     "score": 87,
-    "source": "travel-insights"
+    "source": "travel-insights",
+    "editorial_stays": [
+      "Rosewood Castiglion|Toscane|Domaine et paysages sublimes.",
+      "Borgo Santo Pietro|Toscane|Jardins et atmosphère romantique.",
+      "Passalacqua|Lac de Côme|Villa historique et jardins."
+    ],
+    "preferences": {
+      "themes": [
+        "Culture",
+        "patrimoine"
+      ],
+      "hotel_style": "Hôtel de charme / villa historique",
+      "best_for": "Rome, Florence, Toscane, villas historiques",
+      "audience": "Couples • art & design",
+      "selection_note": "Privilégier le calme, l’architecture, les jardins, le service et une forte identité locale."
+    }
   },
   {
     "destination": "Bali",
@@ -97,11 +126,6 @@
       "Ubud|Culture balinaise et rizières.",
       "Bali Barat|Forêts, récifs et paysages sauvages.",
       "Canggu|Surf et ambiance plus relaxed."
-    ],
-    "stays": [
-      "Amandari|Ubud|Villas au-dessus des rizières.",
-      "Capella Ubud|Bali|Campement raffiné en forêt.",
-      "The Ungasan|Uluwatu|Villa premium et vues sur l’océan."
     ],
     "practical": {
       "when": "Mai–octobre",
@@ -117,7 +141,22 @@
     "hotel_style": "Villa contemporaine / wellness retreat",
     "why_now": "La demande pour des séjours lentement conçus augmente sur le marché premium.",
     "score": 86,
-    "source": "travel-insights"
+    "source": "travel-insights",
+    "editorial_stays": [
+      "Amandari|Ubud|Villas au-dessus des rizières.",
+      "Capella Ubud|Bali|Campement raffiné en forêt.",
+      "The Ungasan|Uluwatu|Villa premium et vues sur l’océan."
+    ],
+    "preferences": {
+      "themes": [
+        "Wellness",
+        "villas"
+      ],
+      "hotel_style": "Villa contemporaine / wellness retreat",
+      "best_for": "Spa, yoga, villas, calme et vue jungle",
+      "audience": "Couples • slow travel",
+      "selection_note": "Privilégier le calme, l’architecture, les jardins, le service et une forte identité locale."
+    }
   },
   {
     "destination": "Inde",
@@ -127,11 +166,6 @@
       "Jaipur|Palais, forts et marchés.",
       "Agra|Taj Mahal et architecture moghole.",
       "Udaipur|Lacs, palais et atmosphère romantique."
-    ],
-    "stays": [
-      "The Leela Palace|New Delhi|Luxe contemporain et service exceptionnel.",
-      "Taj Falaknuma Palace|Hyderabad|Palais historique et extravagance.",
-      "Rambagh Palace|Jaipur|Patrimoine royal et grand luxe."
     ],
     "practical": {
       "when": "Octobre–mars",
@@ -147,7 +181,22 @@
     "hotel_style": "Palace / heritage hotel",
     "why_now": "Le luxe historique indien attire beaucoup de voyageurs en quête de symboles forts.",
     "score": 85,
-    "source": "travel-insights"
+    "source": "travel-insights",
+    "editorial_stays": [
+      "The Leela Palace|New Delhi|Luxe contemporain et service exceptionnel.",
+      "Taj Falaknuma Palace|Hyderabad|Palais historique et extravagance.",
+      "Rambagh Palace|Jaipur|Patrimoine royal et grand luxe."
+    ],
+    "preferences": {
+      "themes": [
+        "Culture",
+        "luxe royal"
+      ],
+      "hotel_style": "Palace / heritage hotel",
+      "best_for": "Palaces, forts, gastronomie, temples",
+      "audience": "Couples • patrimoine",
+      "selection_note": "Privilégier le calme, l’architecture, les jardins, le service et une forte identité locale."
+    }
   },
   {
     "destination": "Maroc",
@@ -157,11 +206,6 @@
       "Fès|Architecture et artisanat séculaires.",
       "Marrakech|Palais, souks et monuments.",
       "Aït-Ben-Haddou|Ksar traditionnel en terre."
-    ],
-    "stays": [
-      "Royal Mansour Marrakech|Marrakech|Riads privés et jardins remarquables.",
-      "Amanjena|Marrakech|Pavillons autour des bassins.",
-      "Kasbah Tamadot|Atlas|Maison de montagne avec personnalité."
     ],
     "practical": {
       "when": "Mars–mai ou octobre–novembre",
@@ -177,7 +221,22 @@
     "hotel_style": "Riad chic / wellness",
     "why_now": "L’offre luxe inspirée du patrimoine est très recherchée pour les voyages courts.",
     "score": 84,
-    "source": "travel-insights"
+    "source": "travel-insights",
+    "editorial_stays": [
+      "Royal Mansour Marrakech|Marrakech|Riads privés et jardins remarquables.",
+      "Amanjena|Marrakech|Pavillons autour des bassins.",
+      "Kasbah Tamadot|Atlas|Maison de montagne avec personnalité."
+    ],
+    "preferences": {
+      "themes": [
+        "Culture",
+        "riads"
+      ],
+      "hotel_style": "Riad chic / wellness",
+      "best_for": "Marrakech, Essaouira, riads, cuisine",
+      "audience": "Couples • week-end luxe",
+      "selection_note": "Privilégier le calme, l’architecture, les jardins, le service et une forte identité locale."
+    }
   },
   {
     "destination": "France",
@@ -187,11 +246,6 @@
       "Mont-Saint-Michel|Abbaye et paysage de marées.",
       "Loire|Architecture et jardins de la Renaissance.",
       "Arles|Antiquité et patrimoine provençal."
-    ],
-    "stays": [
-      "La Réserve Ramatuelle|Provence|Intimité et vues marines.",
-      "Les Sources de Cheverny|Loire|Nature et art de vivre.",
-      "Domaine des Étangs|Charente|Domaine artistique et tranquillité."
     ],
     "practical": {
       "when": "Mai–septembre",
@@ -207,7 +261,22 @@
     "hotel_style": "Maison de caractère / château",
     "why_now": "Le luxe discret français reste très fort dans les séjours courts.",
     "score": 83,
-    "source": "travel-insights"
+    "source": "travel-insights",
+    "editorial_stays": [
+      "La Réserve Ramatuelle|Provence|Intimité et vues marines.",
+      "Les Sources de Cheverny|Loire|Nature et art de vivre.",
+      "Domaine des Étangs|Charente|Domaine artistique et tranquillité."
+    ],
+    "preferences": {
+      "themes": [
+        "Patrimoine",
+        "gastronomie"
+      ],
+      "hotel_style": "Maison de caractère / château",
+      "best_for": "Provence, Loire, châteaux et gastronomie",
+      "audience": "Couples • art de vivre",
+      "selection_note": "Privilégier le calme, l’architecture, les jardins, le service et une forte identité locale."
+    }
   },
   {
     "destination": "Vietnam",
@@ -217,11 +286,6 @@
       "Hanoï|Villes coloniales et vie quotidienne.",
       "Hoi An|Ancienne cité marchande et lanternes.",
       "Ha Long Bay|Paysages côtiers et faune marine."
-    ],
-    "stays": [
-      "The Nam Hai|Hoi An|Villas au bord de la plage et jardins luxuriants.",
-      "Amanoi|Nha Trang|Vue sur la baie et bien-être limpide.",
-      "The Pavilions|Ha Long|Architecture contemporaine et luxe discret."
     ],
     "practical": {
       "when": "Octobre–avril",
@@ -237,7 +301,22 @@
     "hotel_style": "Boutique luxury / resort chic",
     "why_now": "La demande pour le Vietnam premium reste très forte à cause de son excellent rapport qualité / prix.",
     "score": 82,
-    "source": "travel-insights"
+    "source": "travel-insights",
+    "editorial_stays": [
+      "The Nam Hai|Hoi An|Villas au bord de la plage et jardins luxuriants.",
+      "Amanoi|Nha Trang|Vue sur la baie et bien-être limpide.",
+      "The Pavilions|Ha Long|Architecture contemporaine et luxe discret."
+    ],
+    "preferences": {
+      "themes": [
+        "Culture",
+        "nature"
+      ],
+      "hotel_style": "Boutique luxury / resort chic",
+      "best_for": "Cuisine, plages, voyage doux, nature",
+      "audience": "Couples • découvrir",
+      "selection_note": "Privilégier le calme, l’architecture, les jardins, le service et une forte identité locale."
+    }
   },
   {
     "destination": "Portugal",
@@ -247,11 +326,6 @@
       "Sintra|Palais romantiques et jardins.",
       "Lisbonne|Monastère manuelin et panorama.",
       "Porto|Ruelles et patrimoine du Douro."
-    ],
-    "stays": [
-      "Six Senses Douro|Douro|Domaine, piscine et sérénité.",
-      "Sublime Comporta|Comporta|Cabanes, pinède et élégance naturelle.",
-      "Verride Lisbon|Lisbonne|Petit palais et atmosphère résidentielle."
     ],
     "practical": {
       "when": "Mai–juin ou septembre",
@@ -267,7 +341,22 @@
     "hotel_style": "Petit hôtel design / maison d’hôtes",
     "why_now": "Les voyageurs recherchent des séjours élégants, aérés et faciles à vivre.",
     "score": 81,
-    "source": "travel-insights"
+    "source": "travel-insights",
+    "editorial_stays": [
+      "Six Senses Douro|Douro|Domaine, piscine et sérénité.",
+      "Sublime Comporta|Comporta|Cabanes, pinède et élégance naturelle.",
+      "Verride Lisbon|Lisbonne|Petit palais et atmosphère résidentielle."
+    ],
+    "preferences": {
+      "themes": [
+        "Design",
+        "bien-être"
+      ],
+      "hotel_style": "Petit hôtel design / maison d’hôtes",
+      "best_for": "Porto, Sintra, hôtels design, vin et nature",
+      "audience": "Sans enfants • lifestyle",
+      "selection_note": "Privilégier le calme, l’architecture, les jardins, le service et une forte identité locale."
+    }
   },
   {
     "destination": "Afrique du Sud",
@@ -277,11 +366,6 @@
       "Kruger|Safari et animaux emblématiques.",
       "Cape Town|Villes, montagnes et mer.",
       "Garden Route|Routes côtières et nature généreuse."
-    ],
-    "stays": [
-      "Singita Boulders|Kruger|Safari luxe et vue sur les falaises.",
-      "The Silo Hotel|Le Cap|Design et vue sur le port.",
-      "Bushmans Kloof|Cederberg|Retraite luxe dans le désert."
     ],
     "practical": {
       "when": "Mai–octobre",
@@ -297,7 +381,22 @@
     "hotel_style": "Lodge safari / design hôtel",
     "why_now": "L’Afrique du Sud reste crème de la crème du safari premium.",
     "score": 80,
-    "source": "travel-insights"
+    "source": "travel-insights",
+    "editorial_stays": [
+      "Singita Boulders|Kruger|Safari luxe et vue sur les falaises.",
+      "The Silo Hotel|Le Cap|Design et vue sur le port.",
+      "Bushmans Kloof|Cederberg|Retraite luxe dans le désert."
+    ],
+    "preferences": {
+      "themes": [
+        "Safari",
+        "coast"
+      ],
+      "hotel_style": "Lodge safari / design hôtel",
+      "best_for": "Safari, villes, montagnes, plage",
+      "audience": "Couples • nature",
+      "selection_note": "Privilégier le calme, l’architecture, les jardins, le service et une forte identité locale."
+    }
   },
   {
     "destination": "Espagne",
@@ -307,11 +406,6 @@
       "Alhambra|Palais nasrides et jardins.",
       "Cordoue|Mosquée-cathédrale et ruelles historiques.",
       "Tolède|Cité historique multiculturelle."
-    ],
-    "stays": [
-      "Finca Cortesin|Andalousie|Jardins soignés et service posé.",
-      "La Residencia|Majorque|Village, oliviers et charme artistique.",
-      "Cap Rocat|Majorque|Forteresse restaurée, atmosphère intime."
     ],
     "practical": {
       "when": "Avril–juin ou septembre–octobre",
@@ -327,7 +421,22 @@
     "hotel_style": "Villa / domaine chic",
     "why_now": "Le marché espagnol reste très fort pour le luxe discret.",
     "score": 80,
-    "source": "travel-insights"
+    "source": "travel-insights",
+    "editorial_stays": [
+      "Finca Cortesin|Andalousie|Jardins soignés et service posé.",
+      "La Residencia|Majorque|Village, oliviers et charme artistique.",
+      "Cap Rocat|Majorque|Forteresse restaurée, atmosphère intime."
+    ],
+    "preferences": {
+      "themes": [
+        "Culture",
+        "soleil"
+      ],
+      "hotel_style": "Villa / domaine chic",
+      "best_for": "Andalousie, Majorque, architecture, cuisine",
+      "audience": "Couples • luxe accessible",
+      "selection_note": "Privilégier le calme, l’architecture, les jardins, le service et une forte identité locale."
+    }
   },
   {
     "destination": "Islande",
@@ -337,11 +446,6 @@
       "Reykjavik|Culture nordique et capitale moderne.",
       "Golden Circle|Geysers et cascades brutales.",
       "South Coast|Fjords et plages noires."
-    ],
-    "stays": [
-      "Hotel Borg|Reykjavik|Luxe discret et design scandinave.",
-      "Blue Lagoon|Blue Lagoon|Spa haut de gamme.",
-      "Hotel Rangá|South Coast|Accueil chaleureux et point de départ."
     ],
     "practical": {
       "when": "Juin–septembre",
@@ -357,7 +461,21 @@
     "hotel_style": "Lodge haut de gamme / campements haut standing",
     "why_now": "Les escapades nature premium restent très prisées pour les voyageurs exigeants.",
     "score": 79,
-    "source": "travel-insights"
+    "source": "travel-insights",
+    "editorial_stays": [
+      "Hotel Borg|Reykjavik|Luxe discret et design scandinave.",
+      "Blue Lagoon|Blue Lagoon|Spa haut de gamme.",
+      "Hotel Rangá|South Coast|Accueil chaleureux et point de départ."
+    ],
+    "preferences": {
+      "themes": [
+        "Nature premium"
+      ],
+      "hotel_style": "Lodge haut de gamme / campements haut standing",
+      "best_for": "Road trip, volcan, spa, paysages extrêmes",
+      "audience": "Amis • nature",
+      "selection_note": "Privilégier le calme, l’architecture, les jardins, le service et une forte identité locale."
+    }
   },
   {
     "destination": "Mexique",
@@ -367,11 +485,6 @@
       "Chichén Itzá|Grande cité maya.",
       "Teotihuacán|Pyramides monumentales.",
       "Palenque|Cité maya au cœur de la jungle."
-    ],
-    "stays": [
-      "Chablé Yucatán|Yucatán|Casitas et jardins tropicaux.",
-      "Rosewood Mayakoba|Riviera Maya|Suites sur lagunes.",
-      "San Miguel|San Miguel de Allende|Maisons historiques et cours intérieures."
     ],
     "practical": {
       "when": "Novembre à avril",
@@ -387,7 +500,22 @@
     "hotel_style": "Villa / resort chic",
     "why_now": "Le marché mexicain est particulièrement fort pour les escapades culturelles premium.",
     "score": 78,
-    "source": "travel-insights"
+    "source": "travel-insights",
+    "editorial_stays": [
+      "Chablé Yucatán|Yucatán|Casitas et jardins tropicaux.",
+      "Rosewood Mayakoba|Riviera Maya|Suites sur lagunes.",
+      "San Miguel|San Miguel de Allende|Maisons historiques et cours intérieures."
+    ],
+    "preferences": {
+      "themes": [
+        "Culture",
+        "luxe tropical"
+      ],
+      "hotel_style": "Villa / resort chic",
+      "best_for": "Yucatán, pyramides, lagunes, spas",
+      "audience": "Couples • culture + plage",
+      "selection_note": "Privilégier le calme, l’architecture, les jardins, le service et une forte identité locale."
+    }
   },
   {
     "destination": "Grèce",
@@ -397,11 +525,6 @@
       "Santorin|Caldera, blancs et vue mer.",
       "Athènes|Acropole et fondations classiques.",
       "Mykonos|Ile chic et ambiance festive."
-    ],
-    "stays": [
-      "Amanzoe|Péloponnèse|Villa haut de gamme et vue sur la mer.",
-      "Nimmo|Santorin|Luxe discret et maison d’architecte.",
-      "The Cliffs|Santorin|Design, architecture et vue panoramique."
     ],
     "practical": {
       "when": "Mai–septembre",
@@ -417,7 +540,22 @@
     "hotel_style": "Boutique luxury / resort design",
     "why_now": "La Grèce reste très forte pour les séjours premium maritimes.",
     "score": 77,
-    "source": "travel-insights"
+    "source": "travel-insights",
+    "editorial_stays": [
+      "Amanzoe|Péloponnèse|Villa haut de gamme et vue sur la mer.",
+      "Nimmo|Santorin|Luxe discret et maison d’architecte.",
+      "The Cliffs|Santorin|Design, architecture et vue panoramique."
+    ],
+    "preferences": {
+      "themes": [
+        "Mer",
+        "luxe méditerranéen"
+      ],
+      "hotel_style": "Boutique luxury / resort design",
+      "best_for": "Santorin, Mykonos, vue mer, luxe discret",
+      "audience": "Couples • mer",
+      "selection_note": "Privilégier le calme, l’architecture, les jardins, le service et une forte identité locale."
+    }
   },
   {
     "destination": "Pérou",
@@ -427,11 +565,6 @@
       "Machu Picchu|Citadelle inca spectaculaire.",
       "Cusco|Capitale inca et architecture coloniale.",
       "Vallée sacrée|Sites archéologiques dans les Andes."
-    ],
-    "stays": [
-      "Belmond Cusco|Cusco|Ancien couvent, patios et piscine.",
-      "Explora Valle Sagrado|Vallée sacrée|Architecture épurée et excursions guidées.",
-      "Tambo del Inka|Urubamba|Jardins et confort en vallée."
     ],
     "practical": {
       "when": "Mai à septembre",
@@ -447,7 +580,22 @@
     "hotel_style": "Hôtel boutique / lodge chic",
     "why_now": "Le Pérou reste une excellente destination pour les voyageurs culturels premium.",
     "score": 77,
-    "source": "travel-insights"
+    "source": "travel-insights",
+    "editorial_stays": [
+      "Belmond Cusco|Cusco|Ancien couvent, patios et piscine.",
+      "Explora Valle Sagrado|Vallée sacrée|Architecture épurée et excursions guidées.",
+      "Tambo del Inka|Urubamba|Jardins et confort en vallée."
+    ],
+    "preferences": {
+      "themes": [
+        "Culture",
+        "Andes"
+      ],
+      "hotel_style": "Hôtel boutique / lodge chic",
+      "best_for": "Cusco, vallée sacrée, Machu Picchu",
+      "audience": "Couples • aventure culturelle",
+      "selection_note": "Privilégier le calme, l’architecture, les jardins, le service et une forte identité locale."
+    }
   },
   {
     "destination": "Nouvelle-Zélande",
@@ -457,11 +605,6 @@
       "Queenstown|Alpes, lacs et adrénaline.",
       "Milford Sound|Fjord spectaculaire et silence absolu.",
       "Auckland|Mer et villes premium."
-    ],
-    "stays": [
-      "Kauri Cliffs|Northland|Vue mer, piscine et élégance.",
-      "Ski Lodge|Queenstown|Luxe discret et ouverture sur la nature.",
-      "Matakauri|Wanaka|Vue lac et architecture contemporaine."
     ],
     "practical": {
       "when": "Décembre–février ou mars–mai",
@@ -477,7 +620,22 @@
     "hotel_style": "Lodge / lodge premium",
     "why_now": "La Nouvelle-Zélande reste une référence pour le voyage nature premium.",
     "score": 76,
-    "source": "travel-insights"
+    "source": "travel-insights",
+    "editorial_stays": [
+      "Kauri Cliffs|Northland|Vue mer, piscine et élégance.",
+      "Ski Lodge|Queenstown|Luxe discret et ouverture sur la nature.",
+      "Matakauri|Wanaka|Vue lac et architecture contemporaine."
+    ],
+    "preferences": {
+      "themes": [
+        "Nature",
+        "luxe minimal"
+      ],
+      "hotel_style": "Lodge / lodge premium",
+      "best_for": "Lacs, fjords, montagnes, trekking",
+      "audience": "Couples • road trip",
+      "selection_note": "Privilégier le calme, l’architecture, les jardins, le service et une forte identité locale."
+    }
   },
   {
     "destination": "Chili",
@@ -487,11 +645,6 @@
       "Santiago|Architecture contemporaine et vie urbaine.",
       "Patagonie|Lacs, montagnes et glaciers.",
       "Valparaíso|Cité colorée et portuaire."
-    ],
-    "stays": [
-      "The Singular Patagonia|Patagonie|Luxe dans la nature.",
-      "Hotel Plaza del Bosque|Santiago|Confort et design urbain.",
-      "Farallon|Valparaiso|Boutique hôtel dans les rues escarpées."
     ],
     "practical": {
       "when": "Novembre–février",
@@ -507,7 +660,22 @@
     "hotel_style": "Lodge / boutique grand luxe",
     "why_now": "Le Chili est très demandé dans les voyages nature premium.",
     "score": 75,
-    "source": "travel-insights"
+    "source": "travel-insights",
+    "editorial_stays": [
+      "The Singular Patagonia|Patagonie|Luxe dans la nature.",
+      "Hotel Plaza del Bosque|Santiago|Confort et design urbain.",
+      "Farallon|Valparaiso|Boutique hôtel dans les rues escarpées."
+    ],
+    "preferences": {
+      "themes": [
+        "Nature",
+        "modern design"
+      ],
+      "hotel_style": "Lodge / boutique grand luxe",
+      "best_for": "Patagonie, glaciers, paysage spectral",
+      "audience": "Couples • aventure",
+      "selection_note": "Privilégier le calme, l’architecture, les jardins, le service et une forte identité locale."
+    }
   },
   {
     "destination": "Australie",
@@ -517,11 +685,6 @@
       "Sydney|Opéra, architecture et vie maritime.",
       "Uluru|Paysage sacré des Anangu.",
       "Kakadu|Art rupestre aborigène et nature."
-    ],
-    "stays": [
-      "Capella Sydney|Sydney|Architecture patrimoniale et luxe discret.",
-      "Southern Ocean Lodge|Kangaroo Island|Design et panorama sauvage.",
-      "Longitude 131|Uluru|Pavillons intimistes face au rocher."
     ],
     "practical": {
       "when": "Septembre à novembre ou mars–mai",
@@ -537,7 +700,22 @@
     "hotel_style": "Lodge / villa premium",
     "why_now": "Le luxe australien reste très fort pour les voyages longs et raffinés.",
     "score": 75,
-    "source": "travel-insights"
+    "source": "travel-insights",
+    "editorial_stays": [
+      "Capella Sydney|Sydney|Architecture patrimoniale et luxe discret.",
+      "Southern Ocean Lodge|Kangaroo Island|Design et panorama sauvage.",
+      "Longitude 131|Uluru|Pavillons intimistes face au rocher."
+    ],
+    "preferences": {
+      "themes": [
+        "Nature",
+        "luxe sauvage"
+      ],
+      "hotel_style": "Lodge / villa premium",
+      "best_for": "Sydney, Uluru, Kangaroo Island",
+      "audience": "Couples • road trip",
+      "selection_note": "Privilégier le calme, l’architecture, les jardins, le service et une forte identité locale."
+    }
   },
   {
     "destination": "États-Unis",
@@ -547,11 +725,6 @@
       "Washington|Musées et monuments historiques.",
       "Taliesin West|Architecture de Frank Lloyd Wright.",
       "Mesa Verde|Habitations ancestrales dans les falaises."
-    ],
-    "stays": [
-      "Amangiri|Utah|Architecture minérale et silence absolu.",
-      "Post Ranch Inn|Big Sur|Falaises et intimité.",
-      "Blackberry Farm|Tennessee|Campagne raffinée et gastronomique."
     ],
     "practical": {
       "when": "Printemps ou automne",
@@ -567,7 +740,22 @@
     "hotel_style": "Retreat / lodge haut standing",
     "why_now": "Le luxe américain est très fort dans le road trip premium et les grandes étendues.",
     "score": 74,
-    "source": "travel-insights"
+    "source": "travel-insights",
+    "editorial_stays": [
+      "Amangiri|Utah|Architecture minérale et silence absolu.",
+      "Post Ranch Inn|Big Sur|Falaises et intimité.",
+      "Blackberry Farm|Tennessee|Campagne raffinée et gastronomique."
+    ],
+    "preferences": {
+      "themes": [
+        "Nature",
+        "architecture"
+      ],
+      "hotel_style": "Retreat / lodge haut standing",
+      "best_for": "Utah, Big Sur, architecture contemporaine",
+      "audience": "Couples • luxury road trip",
+      "selection_note": "Privilégier le calme, l’architecture, les jardins, le service et une forte identité locale."
+    }
   },
   {
     "destination": "Canada",
@@ -577,11 +765,6 @@
       "Banff|Aigles, montagnes et lacs glacés.",
       "Québec|Architecture européenne et charme historique.",
       "Vancouver|Forêts, falaises et luxe discret."
-    ],
-    "stays": [
-      "Lake Louise|Banff|Luxe glacier et paysage monumental.",
-      "Four Seasons Toronto|Toronto|Urban luxury et service impeccable.",
-      "Aava Whistler|Whistler|Lodge chalet et nature environnante."
     ],
     "practical": {
       "when": "Juin–septembre",
@@ -597,7 +780,22 @@
     "hotel_style": "Lodge / chalet haut standing",
     "why_now": "Le Canada garde une forte demande pour les grandes étendues premium.",
     "score": 73,
-    "source": "travel-insights"
+    "source": "travel-insights",
+    "editorial_stays": [
+      "Lake Louise|Banff|Luxe glacier et paysage monumental.",
+      "Four Seasons Toronto|Toronto|Urban luxury et service impeccable.",
+      "Aava Whistler|Whistler|Lodge chalet et nature environnante."
+    ],
+    "preferences": {
+      "themes": [
+        "Nature",
+        "wilderness"
+      ],
+      "hotel_style": "Lodge / chalet haut standing",
+      "best_for": "Lacs, montagnes, chalet haut de gamme",
+      "audience": "Couples • road trip",
+      "selection_note": "Privilégier le calme, l’architecture, les jardins, le service et une forte identité locale."
+    }
   },
   {
     "destination": "Argentine",
@@ -607,11 +805,6 @@
       "Buenos Aires|Architecture, tango et cafés historiques.",
       "Patagonie|Lacs, montagnes et glaciers.",
       "El Calafate|Parc national et paysages extrêmes."
-    ],
-    "stays": [
-      "Faena Hotel|Buenos Aires|Luxe urbain et style renaissance.",
-      "Awasi Patagonia|Patagonie|Exclusivité et design discret.",
-      "Llao Llao|Bariloche|Lodge chic au cœur des montagnes."
     ],
     "practical": {
       "when": "Novembre–mars",
@@ -627,6 +820,21 @@
     "hotel_style": "Luxe urbain / lodge chic",
     "why_now": "L’Argentine conserve une vraie demande pour les grands voyages.",
     "score": 72,
-    "source": "travel-insights"
+    "source": "travel-insights",
+    "editorial_stays": [
+      "Faena Hotel|Buenos Aires|Luxe urbain et style renaissance.",
+      "Awasi Patagonia|Patagonie|Exclusivité et design discret.",
+      "Llao Llao|Bariloche|Lodge chic au cœur des montagnes."
+    ],
+    "preferences": {
+      "themes": [
+        "Nature",
+        "gastronomie"
+      ],
+      "hotel_style": "Luxe urbain / lodge chic",
+      "best_for": "Patagonie, Buenos Aires, vin et nature",
+      "audience": "Couples • road trip",
+      "selection_note": "Privilégier le calme, l’architecture, les jardins, le service et une forte identité locale."
+    }
   }
 ]
