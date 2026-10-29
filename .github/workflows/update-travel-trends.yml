@@ -27,8 +27,11 @@ jobs:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           OPENAI_RESEARCH_MODEL: gpt-4.1-mini
           OPENAI_EXTRACT_MODEL: gpt-4o-mini
-          ATLAS_BATCH_SIZE: '2'
+          ATLAS_HOTELS_PER_PROFILE: '10'
+          ATLAS_HOTEL_OPENINGS: '20'
+          ATLAS_MAX_PASSES: '3'
         run: python scripts/update_trends.py
+        timeout-minutes: 120
       - name: Validate JSON
         run: |
           python -m json.tool data/catalog.json > /dev/null
