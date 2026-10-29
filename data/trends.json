@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-27T15:16:23.868657+00:00",
-  "summary": "Sélection éditoriale initiale. La prochaine exécution GitHub Actions ajoutera les recherches web sourcées.",
+  "generated_at": "2026-10-29T10:51:53.910095+00:00",
+  "summary": "Sélection éditoriale enrichie par une recherche web sourcée. Vérifier disponibilité et conditions avant réservation.",
   "items": [
     {
       "destination": "Thaïlande",
@@ -43,22 +43,34 @@
       },
       "recommended_hotels": [
         {
-          "name": "The Sukhothai Bangkok",
+          "name": "The Athenee Hotel, Bangkok",
           "location": "Bangkok",
-          "description": "Jardins, piscine et sérénité urbaine.",
-          "status": "editorial"
+          "description": "Cet hôtel de luxe au centre-ville de Bangkok est reconnu pour ses pratiques durables, notamment l'utilisation de fleurs fraîches pour créer des potpourris faits main, reflétant la créativité et la durabilité.",
+          "official_url": "https://www.marriott.com/en-us/hotels/bkkla-the-athenee-hotel-a-luxury-collection-hotel-bangkok/overview/sustainability/?utm_source=openai",
+          "source_url": "https://www.marriott.com/en-us/hotels/bkkla-the-athenee-hotel-a-luxury-collection-hotel-bangkok/overview/sustainability/?utm_source=openai",
+          "source_publisher": "Marriott",
+          "published_at": null,
+          "status": "web_researched"
         },
         {
-          "name": "Amanpuri",
-          "location": "Phuket",
-          "description": "Pavillons thaïs, intimité et plage superbe.",
-          "status": "editorial"
+          "name": "Kimpton Maa-Lai Bangkok",
+          "location": "Bangkok",
+          "description": "Situé dans le quartier de Langsuan, cet hôtel met l'accent sur la durabilité en utilisant des produits biodégradables et en soutenant la communauté locale.",
+          "official_url": "https://www.kimptonmaalaibangkok.com/hotel-overview/sustainability/?utm_source=openai",
+          "source_url": "https://www.kimptonmaalaibangkok.com/hotel-overview/sustainability/?utm_source=openai",
+          "source_publisher": "Kimpton",
+          "published_at": null,
+          "status": "web_researched"
         },
         {
-          "name": "Four Seasons Resort Chiang Mai",
-          "location": "Mae Rim",
-          "description": "Rizières, jardins et architecture lanna.",
-          "status": "editorial"
+          "name": "Mandarin Oriental, Bangkok",
+          "location": "Bangkok",
+          "description": "Premier hôtel en Thaïlande à obtenir la certification GSTC, illustrant son engagement envers le développement durable tout en préservant son élégance intemporelle.",
+          "official_url": "https://www.mandarinoriental.com/fr/bangkok/chao-phraya-river/sustainability?utm_source=openai",
+          "source_url": "https://www.mandarinoriental.com/fr/bangkok/chao-phraya-river/sustainability?utm_source=openai",
+          "source_publisher": "Mandarin Oriental",
+          "published_at": null,
+          "status": "web_researched"
         }
       ],
       "current_advice": []
@@ -104,22 +116,34 @@
       },
       "recommended_hotels": [
         {
-          "name": "Aman Kyoto",
+          "name": "Six Senses Kyoto",
           "location": "Kyoto",
-          "description": "Jardin secret et pavillons minimalistes.",
-          "status": "editorial"
+          "description": "Situé dans le quartier historique de Higashiyama, cet hôtel de luxe a ouvert ses portes le 23 avril 2024, combinant design contemporain et traditions japonaises.",
+          "official_url": "https://www.japan.travel/fr/luxury/detail/six-senses-kyoto/?utm_source=openai",
+          "source_url": "https://www.japan.travel/fr/luxury/detail/six-senses-kyoto/?utm_source=openai",
+          "source_publisher": "Japan Travel",
+          "published_at": "2024-04-23",
+          "status": "web_researched"
         },
         {
           "name": "Hoshinoya Kyoto",
           "location": "Kyoto",
-          "description": "Retraite au bord de la rivière.",
-          "status": "editorial"
+          "description": "Ancien ryokan centenaire restauré, offrant une expérience traditionnelle avec des chambres inspirées du style japonais, des jardins paysagers et une cuisine raffinée.",
+          "official_url": "https://www.luxethika.com/destinations/asie/japon/kyoto/voir/hoshinoya/?utm_source=openai",
+          "source_url": "https://www.luxethika.com/destinations/asie/japon/kyoto/voir/hoshinoya/?utm_source=openai",
+          "source_publisher": "Luxethika",
+          "published_at": null,
+          "status": "web_researched"
         },
         {
-          "name": "Gora Kadan",
-          "location": "Hakone",
-          "description": "Ryokan raffiné et bains thermaux.",
-          "status": "editorial"
+          "name": "The Mitsui Kyoto, a Luxury Collection Hotel & Spa",
+          "location": "Kyoto",
+          "description": "Situé à côté du château de Nijo, cet hôtel de luxe incarne l'harmonie entre l'environnement naturel et les traditions japonaises.",
+          "official_url": "https://www.marriott.com/en-us/hotels/osalc-hotel-the-mitsui-kyoto-a-luxury-collection-hotel-and-spa/overview/?msockid=330bf45f8c9a60a303a5e2c78daf61de&utm_source=openai",
+          "source_url": "https://www.marriott.com/en-us/hotels/osalc-hotel-the-mitsui-kyoto-a-luxury-collection-hotel-and-spa/overview/?msockid=330bf45f8c9a60a303a5e2c78daf61de&utm_source=openai",
+          "source_publisher": "Marriott",
+          "published_at": null,
+          "status": "web_researched"
         }
       ],
       "current_advice": []
@@ -350,20 +374,32 @@
         {
           "name": "Royal Mansour Marrakech",
           "location": "Marrakech",
-          "description": "Riads privés et jardins remarquables.",
-          "status": "editorial"
+          "description": "Un palais de luxe composé de 53 riads privés, chacun avec sa propre cour et piscine, offrant une expérience intime et raffinée.",
+          "official_url": "https://www.moroccodeyssey.com/best-luxury-riads-in-marrakech/?utm_source=openai",
+          "source_url": "https://www.moroccodeyssey.com/best-luxury-riads-in-marrakech/?utm_source=openai",
+          "source_publisher": "moroccodeyssey.com",
+          "published_at": null,
+          "status": "web_researched"
         },
         {
-          "name": "Amanjena",
+          "name": "La Sultana Marrakech",
           "location": "Marrakech",
-          "description": "Pavillons autour des bassins.",
-          "status": "editorial"
+          "description": "Un hôtel de luxe situé dans le quartier de la Kasbah, combinant cinq riads traditionnels, avec des suites décorées de manière unique et un spa intime.",
+          "official_url": "https://www.moroccodeyssey.com/best-luxury-riads-in-marrakech/?utm_source=openai",
+          "source_url": "https://www.moroccodeyssey.com/best-luxury-riads-in-marrakech/?utm_source=openai",
+          "source_publisher": "moroccodeyssey.com",
+          "published_at": null,
+          "status": "web_researched"
         },
         {
-          "name": "Kasbah Tamadot",
-          "location": "Atlas",
-          "description": "Maison de montagne avec personnalité.",
-          "status": "editorial"
+          "name": "Riad Farnatchi",
+          "location": "Marrakech",
+          "description": "Un riad chic offrant des suites spacieuses, un spa avec hammam en marbre et un restaurant servant une cuisine marocaine raffinée.",
+          "official_url": "https://www.moroccodeyssey.com/best-luxury-riads-in-marrakech/?utm_source=openai",
+          "source_url": "https://www.moroccodeyssey.com/best-luxury-riads-in-marrakech/?utm_source=openai",
+          "source_publisher": "moroccodeyssey.com",
+          "published_at": null,
+          "status": "web_researched"
         }
       ],
       "current_advice": []
@@ -975,7 +1011,29 @@
           "status": "editorial"
         }
       ],
-      "current_advice": []
+      "current_advice": [
+        {
+          "title": "Meilleure période pour visiter",
+          "detail": "De novembre à avril, avec une préférence pour mars et avril pour un climat plus doux et moins de foule.",
+          "source_url": "https://deluxetargets.com/fr/voyages-de-luxe/voyage-luxe-nouvelle-zelande/?utm_source=openai",
+          "source_publisher": "deluxetargets.com",
+          "published_at": null
+        },
+        {
+          "title": "Accès aux lodges",
+          "detail": "Certains lodges, comme The Lindis Lodge, sont accessibles uniquement par hélicoptère ou par des routes privées, nécessitant une planification préalable.",
+          "source_url": "https://www.amplitudes.com/blog/pepites-5-nos-hotels-de-luxe-en-nouvelle-zelande/?utm_source=openai",
+          "source_publisher": "amplitudes.com",
+          "published_at": null
+        },
+        {
+          "title": "Réservations anticipées",
+          "detail": "Les lodges de luxe en Nouvelle-Zélande sont souvent complets plusieurs mois à l'avance, il est donc recommandé de réserver tôt.",
+          "source_url": "https://deluxetargets.com/fr/voyages-de-luxe/voyage-luxe-nouvelle-zelande/?utm_source=openai",
+          "source_publisher": "deluxetargets.com",
+          "published_at": null
+        }
+      ]
     },
     {
       "destination": "Chili",
@@ -1036,7 +1094,29 @@
           "status": "editorial"
         }
       ],
-      "current_advice": []
+      "current_advice": [
+        {
+          "title": "Meilleure période pour visiter",
+          "detail": "De novembre à mars, avec une préférence pour décembre et janvier pour des conditions météorologiques optimales.",
+          "source_url": "https://www.voyagescouture.com/blog/275-les-10-plus-beaux-hotels-et-lodges-de-luxe-du-chili?utm_source=openai",
+          "source_publisher": "voyagescouture.com",
+          "published_at": null
+        },
+        {
+          "title": "Accès aux lodges",
+          "detail": "Certains lodges, comme The Singular Patagonia, sont accessibles par bateau ou par des routes privées, nécessitant une planification préalable.",
+          "source_url": "https://www.voyagescouture.com/blog/275-les-10-plus-beaux-hotels-et-lodges-de-luxe-du-chili?utm_source=openai",
+          "source_publisher": "voyagescouture.com",
+          "published_at": null
+        },
+        {
+          "title": "Réservations anticipées",
+          "detail": "Les lodges de luxe en Patagonie chilienne sont souvent complets plusieurs mois à l'avance, il est donc recommandé de réserver tôt.",
+          "source_url": "https://www.voyagescouture.com/blog/275-les-10-plus-beaux-hotels-et-lodges-de-luxe-du-chili?utm_source=openai",
+          "source_publisher": "voyagescouture.com",
+          "published_at": null
+        }
+      ]
     },
     {
       "destination": "Australie",
@@ -1264,26 +1344,83 @@
         {
           "name": "Faena Hotel",
           "location": "Buenos Aires",
-          "description": "Luxe urbain et style renaissance.",
-          "status": "editorial"
+          "description": "Situé dans le quartier de Puerto Madero, le Faena Hotel est un établissement de luxe alliant design contemporain et éléments architecturaux traditionnels argentins. Il propose des chambres spacieuses, des jardins intérieurs et un service haut de gamme.",
+          "official_url": "https://www.faenahotels.com/buenos-aires",
+          "source_url": "https://www.faenahotels.com/buenos-aires",
+          "source_publisher": "Faena Hotels",
+          "published_at": null,
+          "status": "web_researched"
         },
         {
-          "name": "Awasi Patagonia",
-          "location": "Patagonie",
-          "description": "Exclusivité et design discret.",
-          "status": "editorial"
+          "name": "Awasi Iguazú",
+          "location": "Misiones",
+          "description": "Ce lodge de luxe est situé à proximité des chutes d'Iguazú, offrant des villas privées avec piscine et un service personnalisé. Chaque villa dispose d'un guide privé pour des excursions sur mesure.",
+          "official_url": "https://awasi.com/iguazu/",
+          "source_url": "https://awasi.com/iguazu/",
+          "source_publisher": "Awasi",
+          "published_at": null,
+          "status": "web_researched"
         },
         {
-          "name": "Llao Llao",
-          "location": "Bariloche",
-          "description": "Lodge chic au cœur des montagnes.",
-          "status": "editorial"
+          "name": "Llao Llao Hotel & Resort",
+          "location": "Río Negro",
+          "description": "Situé à Bariloche, cet hôtel emblématique offre des vues imprenables sur le lac Nahuel Huapi et les montagnes environnantes. Il combine confort moderne et architecture alpine traditionnelle, avec des jardins bien entretenus et un service de qualité.",
+          "official_url": "https://www.llaollao.com/",
+          "source_url": "https://www.llaollao.com/",
+          "source_publisher": "Llao Llao",
+          "published_at": null,
+          "status": "web_researched"
         }
       ],
-      "current_advice": []
+      "current_advice": [
+        {
+          "title": "Accès et saison",
+          "detail": "La meilleure période pour visiter l'Argentine varie selon les régions. Pour Buenos Aires et Mendoza, les mois de mars, avril, septembre et novembre sont recommandés, offrant des températures agréables et moins de foule. En Patagonie, la haute saison s'étend de décembre à février, idéale pour explorer les parcs nationaux et les glaciers.",
+          "source_url": "https://www.myargentinastay.com/refined-guide-to-the-best-time-to-travel-to-argentina-for-luxury-stays",
+          "source_publisher": "My Argentina Stay",
+          "published_at": null
+        },
+        {
+          "title": "Restrictions et ouvertures importantes",
+          "detail": "Il est conseillé de vérifier les éventuelles restrictions de voyage ou exigences sanitaires avant votre départ, car elles peuvent évoluer. De plus, certaines régions, comme le Litoral, offrent des expériences de glamping combinant nature et luxe, idéales pour les amateurs d'aventure et de conservation.",
+          "source_url": "https://www.argentina.travel/en/news/glamping-tourism-in-argentina-combines-nature-and-premium-experiences",
+          "source_publisher": "Argentina Travel",
+          "published_at": null
+        },
+        {
+          "title": "Ouvertures d'hôtels de luxe",
+          "detail": "Des établissements tels que le Faena Hotel à Buenos Aires et l'Awasi Iguazú à Misiones sont des options de luxe actuellement ouvertes, offrant des expériences haut de gamme en harmonie avec la nature et la culture locales.",
+          "source_url": "https://www.faenahotels.com/buenos-aires",
+          "source_publisher": "Faena Hotels",
+          "published_at": null
+        }
+      ]
     }
   ],
-  "hotel_openings": [],
+  "hotel_openings": [
+    {
+      "hotel_name": "Faena Hotel",
+      "country": "Argentine",
+      "city": "Buenos Aires",
+      "opened_in": null,
+      "official_url": "https://www.faenahotels.com/buenos-aires",
+      "source_url": "https://www.faenahotels.com/buenos-aires",
+      "source_publisher": "Faena Hotels",
+      "summary": "Établissement de luxe alliant design contemporain et éléments architecturaux traditionnels argentins.",
+      "rank": 1
+    },
+    {
+      "hotel_name": "Awasi Iguazú",
+      "country": "Argentine",
+      "city": "Misiones",
+      "opened_in": null,
+      "official_url": "https://awasi.com/iguazu/",
+      "source_url": "https://awasi.com/iguazu/",
+      "source_publisher": "Awasi",
+      "summary": "Lodge de luxe offrant des villas privées avec piscine et un service personnalisé.",
+      "rank": 2
+    }
+  ],
   "signals": [],
   "methodology": {
     "research_window_days": 45,
