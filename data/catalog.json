@@ -28,14 +28,17 @@
       "Amanpuri|Phuket|Pavillons thaïs, intimité et plage superbe.",
       "Four Seasons Resort Chiang Mai|Mae Rim|Rizières, jardins et architecture lanna."
     ],
-    "preferences": {
-      "themes": [
-        "Luxe durable"
-      ],
-      "hotel_style": "Boutique eco-luxury",
-      "best_for": "Bangkok, spas, villas, plages calmes",
-      "audience": "Couples • premium",
-      "selection_note": "Privilégier le calme, l’architecture, les jardins, le service et une forte identité locale."
+    "profiles": {
+      "couple": {
+        "label": "Voyage en couple",
+        "angle": "Intimité, calme, architecture, gastronomie, bien-être et expériences privées.",
+        "verdict": "Excellent équilibre entre culture, luxe discret et repos. Pour un voyage à deux, privilégier les étapes peu nombreuses et les hôtels à forte identité."
+      },
+      "family": {
+        "label": "Voyage en famille",
+        "angle": "Chambres familiales ou communicantes, activités adaptées, logistique simple, piscine et rythme équilibré.",
+        "verdict": "Pour un voyage en famille, privilégier les transferts courts, les chambres communicantes et des activités adaptées à l’âge des enfants."
+      }
     }
   },
   {
@@ -67,15 +70,17 @@
       "Hoshinoya Kyoto|Kyoto|Retraite au bord de la rivière.",
       "Gora Kadan|Hakone|Ryokan raffiné et bains thermaux."
     ],
-    "preferences": {
-      "themes": [
-        "Culture",
-        "design"
-      ],
-      "hotel_style": "Ryokan design / luxe discret",
-      "best_for": "Kyoto, Tokyo, ryokan, temples",
-      "audience": "Couples • culture",
-      "selection_note": "Privilégier le calme, l’architecture, les jardins, le service et une forte identité locale."
+    "profiles": {
+      "couple": {
+        "label": "Voyage en couple",
+        "angle": "Intimité, calme, architecture, gastronomie, bien-être et expériences privées.",
+        "verdict": "Indispensable pour une escapade culturelle haut de gamme. Pour un voyage à deux, privilégier les étapes peu nombreuses et les hôtels à forte identité."
+      },
+      "family": {
+        "label": "Voyage en famille",
+        "angle": "Chambres familiales ou communicantes, activités adaptées, logistique simple, piscine et rythme équilibré.",
+        "verdict": "Pour un voyage en famille, privilégier les transferts courts, les chambres communicantes et des activités adaptées à l’âge des enfants."
+      }
     }
   },
   {
@@ -107,15 +112,17 @@
       "Borgo Santo Pietro|Toscane|Jardins et atmosphère romantique.",
       "Passalacqua|Lac de Côme|Villa historique et jardins."
     ],
-    "preferences": {
-      "themes": [
-        "Culture",
-        "patrimoine"
-      ],
-      "hotel_style": "Hôtel de charme / villa historique",
-      "best_for": "Rome, Florence, Toscane, villas historiques",
-      "audience": "Couples • art & design",
-      "selection_note": "Privilégier le calme, l’architecture, les jardins, le service et une forte identité locale."
+    "profiles": {
+      "couple": {
+        "label": "Voyage en couple",
+        "angle": "Intimité, calme, architecture, gastronomie, bien-être et expériences privées.",
+        "verdict": "Probablement l’un des meilleurs pays pour vos goûts. Pour un voyage à deux, privilégier les étapes peu nombreuses et les hôtels à forte identité."
+      },
+      "family": {
+        "label": "Voyage en famille",
+        "angle": "Chambres familiales ou communicantes, activités adaptées, logistique simple, piscine et rythme équilibré.",
+        "verdict": "Pour un voyage en famille, privilégier les transferts courts, les chambres communicantes et des activités adaptées à l’âge des enfants."
+      }
     }
   },
   {
@@ -147,15 +154,17 @@
       "Capella Ubud|Bali|Campement raffiné en forêt.",
       "The Ungasan|Uluwatu|Villa premium et vues sur l’océan."
     ],
-    "preferences": {
-      "themes": [
-        "Wellness",
-        "villas"
-      ],
-      "hotel_style": "Villa contemporaine / wellness retreat",
-      "best_for": "Spa, yoga, villas, calme et vue jungle",
-      "audience": "Couples • slow travel",
-      "selection_note": "Privilégier le calme, l’architecture, les jardins, le service et une forte identité locale."
+    "profiles": {
+      "couple": {
+        "label": "Voyage en couple",
+        "angle": "Intimité, calme, architecture, gastronomie, bien-être et expériences privées.",
+        "verdict": "Très bon choix pour le slow travel et les séjours premium. Pour un voyage à deux, privilégier les étapes peu nombreuses et les hôtels à forte identité."
+      },
+      "family": {
+        "label": "Voyage en famille",
+        "angle": "Chambres familiales ou communicantes, activités adaptées, logistique simple, piscine et rythme équilibré.",
+        "verdict": "Pour un voyage en famille, privilégier les transferts courts, les chambres communicantes et des activités adaptées à l’âge des enfants."
+      }
     }
   },
   {
@@ -187,15 +196,17 @@
       "Taj Falaknuma Palace|Hyderabad|Palais historique et extravagance.",
       "Rambagh Palace|Jaipur|Patrimoine royal et grand luxe."
     ],
-    "preferences": {
-      "themes": [
-        "Culture",
-        "luxe royal"
-      ],
-      "hotel_style": "Palace / heritage hotel",
-      "best_for": "Palaces, forts, gastronomie, temples",
-      "audience": "Couples • patrimoine",
-      "selection_note": "Privilégier le calme, l’architecture, les jardins, le service et une forte identité locale."
+    "profiles": {
+      "couple": {
+        "label": "Voyage en couple",
+        "angle": "Intimité, calme, architecture, gastronomie, bien-être et expériences privées.",
+        "verdict": "Excellente destination si l’on recherche un voyage très visuel et émotionnel. Pour un voyage à deux, privilégier les étapes peu nombreuses et les hôtels à forte identité."
+      },
+      "family": {
+        "label": "Voyage en famille",
+        "angle": "Chambres familiales ou communicantes, activités adaptées, logistique simple, piscine et rythme équilibré.",
+        "verdict": "Pour un voyage en famille, privilégier les transferts courts, les chambres communicantes et des activités adaptées à l’âge des enfants."
+      }
     }
   },
   {
@@ -227,15 +238,17 @@
       "Amanjena|Marrakech|Pavillons autour des bassins.",
       "Kasbah Tamadot|Atlas|Maison de montagne avec personnalité."
     ],
-    "preferences": {
-      "themes": [
-        "Culture",
-        "riads"
-      ],
-      "hotel_style": "Riad chic / wellness",
-      "best_for": "Marrakech, Essaouira, riads, cuisine",
-      "audience": "Couples • week-end luxe",
-      "selection_note": "Privilégier le calme, l’architecture, les jardins, le service et une forte identité locale."
+    "profiles": {
+      "couple": {
+        "label": "Voyage en couple",
+        "angle": "Intimité, calme, architecture, gastronomie, bien-être et expériences privées.",
+        "verdict": "Marrakech fonctionne très bien si l’hôtel est un refuge paisible. Pour un voyage à deux, privilégier les étapes peu nombreuses et les hôtels à forte identité."
+      },
+      "family": {
+        "label": "Voyage en famille",
+        "angle": "Chambres familiales ou communicantes, activités adaptées, logistique simple, piscine et rythme équilibré.",
+        "verdict": "Pour un voyage en famille, privilégier les transferts courts, les chambres communicantes et des activités adaptées à l’âge des enfants."
+      }
     }
   },
   {
@@ -267,15 +280,17 @@
       "Les Sources de Cheverny|Loire|Nature et art de vivre.",
       "Domaine des Étangs|Charente|Domaine artistique et tranquillité."
     ],
-    "preferences": {
-      "themes": [
-        "Patrimoine",
-        "gastronomie"
-      ],
-      "hotel_style": "Maison de caractère / château",
-      "best_for": "Provence, Loire, châteaux et gastronomie",
-      "audience": "Couples • art de vivre",
-      "selection_note": "Privilégier le calme, l’architecture, les jardins, le service et une forte identité locale."
+    "profiles": {
+      "couple": {
+        "label": "Voyage en couple",
+        "angle": "Intimité, calme, architecture, gastronomie, bien-être et expériences privées.",
+        "verdict": "Très bon terrain de jeu pour des séjours courts et raffinés. Pour un voyage à deux, privilégier les étapes peu nombreuses et les hôtels à forte identité."
+      },
+      "family": {
+        "label": "Voyage en famille",
+        "angle": "Chambres familiales ou communicantes, activités adaptées, logistique simple, piscine et rythme équilibré.",
+        "verdict": "Pour un voyage en famille, privilégier les transferts courts, les chambres communicantes et des activités adaptées à l’âge des enfants."
+      }
     }
   },
   {
@@ -307,15 +322,17 @@
       "Amanoi|Nha Trang|Vue sur la baie et bien-être limpide.",
       "The Pavilions|Ha Long|Architecture contemporaine et luxe discret."
     ],
-    "preferences": {
-      "themes": [
-        "Culture",
-        "nature"
-      ],
-      "hotel_style": "Boutique luxury / resort chic",
-      "best_for": "Cuisine, plages, voyage doux, nature",
-      "audience": "Couples • découvrir",
-      "selection_note": "Privilégier le calme, l’architecture, les jardins, le service et une forte identité locale."
+    "profiles": {
+      "couple": {
+        "label": "Voyage en couple",
+        "angle": "Intimité, calme, architecture, gastronomie, bien-être et expériences privées.",
+        "verdict": "Très bien pour un voyage alliant culture, cuisine et nature. Pour un voyage à deux, privilégier les étapes peu nombreuses et les hôtels à forte identité."
+      },
+      "family": {
+        "label": "Voyage en famille",
+        "angle": "Chambres familiales ou communicantes, activités adaptées, logistique simple, piscine et rythme équilibré.",
+        "verdict": "Pour un voyage en famille, privilégier les transferts courts, les chambres communicantes et des activités adaptées à l’âge des enfants."
+      }
     }
   },
   {
@@ -347,15 +364,17 @@
       "Sublime Comporta|Comporta|Cabanes, pinède et élégance naturelle.",
       "Verride Lisbon|Lisbonne|Petit palais et atmosphère résidentielle."
     ],
-    "preferences": {
-      "themes": [
-        "Design",
-        "bien-être"
-      ],
-      "hotel_style": "Petit hôtel design / maison d’hôtes",
-      "best_for": "Porto, Sintra, hôtels design, vin et nature",
-      "audience": "Sans enfants • lifestyle",
-      "selection_note": "Privilégier le calme, l’architecture, les jardins, le service et une forte identité locale."
+    "profiles": {
+      "couple": {
+        "label": "Voyage en couple",
+        "angle": "Intimité, calme, architecture, gastronomie, bien-être et expériences privées.",
+        "verdict": "Destination parfaitement alignée avec vos préférences. Pour un voyage à deux, privilégier les étapes peu nombreuses et les hôtels à forte identité."
+      },
+      "family": {
+        "label": "Voyage en famille",
+        "angle": "Chambres familiales ou communicantes, activités adaptées, logistique simple, piscine et rythme équilibré.",
+        "verdict": "Pour un voyage en famille, privilégier les transferts courts, les chambres communicantes et des activités adaptées à l’âge des enfants."
+      }
     }
   },
   {
@@ -387,15 +406,17 @@
       "The Silo Hotel|Le Cap|Design et vue sur le port.",
       "Bushmans Kloof|Cederberg|Retraite luxe dans le désert."
     ],
-    "preferences": {
-      "themes": [
-        "Safari",
-        "coast"
-      ],
-      "hotel_style": "Lodge safari / design hôtel",
-      "best_for": "Safari, villes, montagnes, plage",
-      "audience": "Couples • nature",
-      "selection_note": "Privilégier le calme, l’architecture, les jardins, le service et une forte identité locale."
+    "profiles": {
+      "couple": {
+        "label": "Voyage en couple",
+        "angle": "Intimité, calme, architecture, gastronomie, bien-être et expériences privées.",
+        "verdict": "Excellente destination pour un voyage très visuel et très riche. Pour un voyage à deux, privilégier les étapes peu nombreuses et les hôtels à forte identité."
+      },
+      "family": {
+        "label": "Voyage en famille",
+        "angle": "Chambres familiales ou communicantes, activités adaptées, logistique simple, piscine et rythme équilibré.",
+        "verdict": "Pour un voyage en famille, privilégier les transferts courts, les chambres communicantes et des activités adaptées à l’âge des enfants."
+      }
     }
   },
   {
@@ -427,15 +448,17 @@
       "La Residencia|Majorque|Village, oliviers et charme artistique.",
       "Cap Rocat|Majorque|Forteresse restaurée, atmosphère intime."
     ],
-    "preferences": {
-      "themes": [
-        "Culture",
-        "soleil"
-      ],
-      "hotel_style": "Villa / domaine chic",
-      "best_for": "Andalousie, Majorque, architecture, cuisine",
-      "audience": "Couples • luxe accessible",
-      "selection_note": "Privilégier le calme, l’architecture, les jardins, le service et une forte identité locale."
+    "profiles": {
+      "couple": {
+        "label": "Voyage en couple",
+        "angle": "Intimité, calme, architecture, gastronomie, bien-être et expériences privées.",
+        "verdict": "Andalousie culturelle puis repos en bord de mer : combinaison idéale. Pour un voyage à deux, privilégier les étapes peu nombreuses et les hôtels à forte identité."
+      },
+      "family": {
+        "label": "Voyage en famille",
+        "angle": "Chambres familiales ou communicantes, activités adaptées, logistique simple, piscine et rythme équilibré.",
+        "verdict": "Pour un voyage en famille, privilégier les transferts courts, les chambres communicantes et des activités adaptées à l’âge des enfants."
+      }
     }
   },
   {
@@ -467,14 +490,17 @@
       "Blue Lagoon|Blue Lagoon|Spa haut de gamme.",
       "Hotel Rangá|South Coast|Accueil chaleureux et point de départ."
     ],
-    "preferences": {
-      "themes": [
-        "Nature premium"
-      ],
-      "hotel_style": "Lodge haut de gamme / campements haut standing",
-      "best_for": "Road trip, volcan, spa, paysages extrêmes",
-      "audience": "Amis • nature",
-      "selection_note": "Privilégier le calme, l’architecture, les jardins, le service et une forte identité locale."
+    "profiles": {
+      "couple": {
+        "label": "Voyage en couple",
+        "angle": "Intimité, calme, architecture, gastronomie, bien-être et expériences privées.",
+        "verdict": "Très forte demande pour les paysages et les séjours premium nature. Pour un voyage à deux, privilégier les étapes peu nombreuses et les hôtels à forte identité."
+      },
+      "family": {
+        "label": "Voyage en famille",
+        "angle": "Chambres familiales ou communicantes, activités adaptées, logistique simple, piscine et rythme équilibré.",
+        "verdict": "Pour un voyage en famille, privilégier les transferts courts, les chambres communicantes et des activités adaptées à l’âge des enfants."
+      }
     }
   },
   {
@@ -506,15 +532,17 @@
       "Rosewood Mayakoba|Riviera Maya|Suites sur lagunes.",
       "San Miguel|San Miguel de Allende|Maisons historiques et cours intérieures."
     ],
-    "preferences": {
-      "themes": [
-        "Culture",
-        "luxe tropical"
-      ],
-      "hotel_style": "Villa / resort chic",
-      "best_for": "Yucatán, pyramides, lagunes, spas",
-      "audience": "Couples • culture + plage",
-      "selection_note": "Privilégier le calme, l’architecture, les jardins, le service et une forte identité locale."
+    "profiles": {
+      "couple": {
+        "label": "Voyage en couple",
+        "angle": "Intimité, calme, architecture, gastronomie, bien-être et expériences privées.",
+        "verdict": "Le Yucatán combine culture, architecture et piscine avec grande finesse. Pour un voyage à deux, privilégier les étapes peu nombreuses et les hôtels à forte identité."
+      },
+      "family": {
+        "label": "Voyage en famille",
+        "angle": "Chambres familiales ou communicantes, activités adaptées, logistique simple, piscine et rythme équilibré.",
+        "verdict": "Pour un voyage en famille, privilégier les transferts courts, les chambres communicantes et des activités adaptées à l’âge des enfants."
+      }
     }
   },
   {
@@ -546,15 +574,17 @@
       "Nimmo|Santorin|Luxe discret et maison d’architecte.",
       "The Cliffs|Santorin|Design, architecture et vue panoramique."
     ],
-    "preferences": {
-      "themes": [
-        "Mer",
-        "luxe méditerranéen"
-      ],
-      "hotel_style": "Boutique luxury / resort design",
-      "best_for": "Santorin, Mykonos, vue mer, luxe discret",
-      "audience": "Couples • mer",
-      "selection_note": "Privilégier le calme, l’architecture, les jardins, le service et une forte identité locale."
+    "profiles": {
+      "couple": {
+        "label": "Voyage en couple",
+        "angle": "Intimité, calme, architecture, gastronomie, bien-être et expériences privées.",
+        "verdict": "Très fort pour une idée de vacances en bord de mer avec style. Pour un voyage à deux, privilégier les étapes peu nombreuses et les hôtels à forte identité."
+      },
+      "family": {
+        "label": "Voyage en famille",
+        "angle": "Chambres familiales ou communicantes, activités adaptées, logistique simple, piscine et rythme équilibré.",
+        "verdict": "Pour un voyage en famille, privilégier les transferts courts, les chambres communicantes et des activités adaptées à l’âge des enfants."
+      }
     }
   },
   {
@@ -586,15 +616,17 @@
       "Explora Valle Sagrado|Vallée sacrée|Architecture épurée et excursions guidées.",
       "Tambo del Inka|Urubamba|Jardins et confort en vallée."
     ],
-    "preferences": {
-      "themes": [
-        "Culture",
-        "Andes"
-      ],
-      "hotel_style": "Hôtel boutique / lodge chic",
-      "best_for": "Cusco, vallée sacrée, Machu Picchu",
-      "audience": "Couples • aventure culturelle",
-      "selection_note": "Privilégier le calme, l’architecture, les jardins, le service et une forte identité locale."
+    "profiles": {
+      "couple": {
+        "label": "Voyage en couple",
+        "angle": "Intimité, calme, architecture, gastronomie, bien-être et expériences privées.",
+        "verdict": "Culture spectaculaire ; altitude et transferts sont les vrais compromis. Pour un voyage à deux, privilégier les étapes peu nombreuses et les hôtels à forte identité."
+      },
+      "family": {
+        "label": "Voyage en famille",
+        "angle": "Chambres familiales ou communicantes, activités adaptées, logistique simple, piscine et rythme équilibré.",
+        "verdict": "Pour un voyage en famille, privilégier les transferts courts, les chambres communicantes et des activités adaptées à l’âge des enfants."
+      }
     }
   },
   {
@@ -626,15 +658,17 @@
       "Ski Lodge|Queenstown|Luxe discret et ouverture sur la nature.",
       "Matakauri|Wanaka|Vue lac et architecture contemporaine."
     ],
-    "preferences": {
-      "themes": [
-        "Nature",
-        "luxe minimal"
-      ],
-      "hotel_style": "Lodge / lodge premium",
-      "best_for": "Lacs, fjords, montagnes, trekking",
-      "audience": "Couples • road trip",
-      "selection_note": "Privilégier le calme, l’architecture, les jardins, le service et une forte identité locale."
+    "profiles": {
+      "couple": {
+        "label": "Voyage en couple",
+        "angle": "Intimité, calme, architecture, gastronomie, bien-être et expériences privées.",
+        "verdict": "Un must pour ceux qui veulent se reconnecter à la nature avec luxe minimaliste. Pour un voyage à deux, privilégier les étapes peu nombreuses et les hôtels à forte identité."
+      },
+      "family": {
+        "label": "Voyage en famille",
+        "angle": "Chambres familiales ou communicantes, activités adaptées, logistique simple, piscine et rythme équilibré.",
+        "verdict": "Pour un voyage en famille, privilégier les transferts courts, les chambres communicantes et des activités adaptées à l’âge des enfants."
+      }
     }
   },
   {
@@ -666,15 +700,17 @@
       "Hotel Plaza del Bosque|Santiago|Confort et design urbain.",
       "Farallon|Valparaiso|Boutique hôtel dans les rues escarpées."
     ],
-    "preferences": {
-      "themes": [
-        "Nature",
-        "modern design"
-      ],
-      "hotel_style": "Lodge / boutique grand luxe",
-      "best_for": "Patagonie, glaciers, paysage spectral",
-      "audience": "Couples • aventure",
-      "selection_note": "Privilégier le calme, l’architecture, les jardins, le service et une forte identité locale."
+    "profiles": {
+      "couple": {
+        "label": "Voyage en couple",
+        "angle": "Intimité, calme, architecture, gastronomie, bien-être et expériences privées.",
+        "verdict": "Très fort pour les amoureux de la nature extrême et des paysages gigantesques. Pour un voyage à deux, privilégier les étapes peu nombreuses et les hôtels à forte identité."
+      },
+      "family": {
+        "label": "Voyage en famille",
+        "angle": "Chambres familiales ou communicantes, activités adaptées, logistique simple, piscine et rythme équilibré.",
+        "verdict": "Pour un voyage en famille, privilégier les transferts courts, les chambres communicantes et des activités adaptées à l’âge des enfants."
+      }
     }
   },
   {
@@ -706,15 +742,17 @@
       "Southern Ocean Lodge|Kangaroo Island|Design et panorama sauvage.",
       "Longitude 131|Uluru|Pavillons intimistes face au rocher."
     ],
-    "preferences": {
-      "themes": [
-        "Nature",
-        "luxe sauvage"
-      ],
-      "hotel_style": "Lodge / villa premium",
-      "best_for": "Sydney, Uluru, Kangaroo Island",
-      "audience": "Couples • road trip",
-      "selection_note": "Privilégier le calme, l’architecture, les jardins, le service et une forte identité locale."
+    "profiles": {
+      "couple": {
+        "label": "Voyage en couple",
+        "angle": "Intimité, calme, architecture, gastronomie, bien-être et expériences privées.",
+        "verdict": "Splendide en couple, mais distances considérables. Pour un voyage à deux, privilégier les étapes peu nombreuses et les hôtels à forte identité."
+      },
+      "family": {
+        "label": "Voyage en famille",
+        "angle": "Chambres familiales ou communicantes, activités adaptées, logistique simple, piscine et rythme équilibré.",
+        "verdict": "Pour un voyage en famille, privilégier les transferts courts, les chambres communicantes et des activités adaptées à l’âge des enfants."
+      }
     }
   },
   {
@@ -746,15 +784,17 @@
       "Post Ranch Inn|Big Sur|Falaises et intimité.",
       "Blackberry Farm|Tennessee|Campagne raffinée et gastronomique."
     ],
-    "preferences": {
-      "themes": [
-        "Nature",
-        "architecture"
-      ],
-      "hotel_style": "Retreat / lodge haut standing",
-      "best_for": "Utah, Big Sur, architecture contemporaine",
-      "audience": "Couples • luxury road trip",
-      "selection_note": "Privilégier le calme, l’architecture, les jardins, le service et une forte identité locale."
+    "profiles": {
+      "couple": {
+        "label": "Voyage en couple",
+        "angle": "Intimité, calme, architecture, gastronomie, bien-être et expériences privées.",
+        "verdict": "Priorité aux grands paysages et à l’architecture plutôt qu’aux villes. Pour un voyage à deux, privilégier les étapes peu nombreuses et les hôtels à forte identité."
+      },
+      "family": {
+        "label": "Voyage en famille",
+        "angle": "Chambres familiales ou communicantes, activités adaptées, logistique simple, piscine et rythme équilibré.",
+        "verdict": "Pour un voyage en famille, privilégier les transferts courts, les chambres communicantes et des activités adaptées à l’âge des enfants."
+      }
     }
   },
   {
@@ -786,15 +826,17 @@
       "Four Seasons Toronto|Toronto|Urban luxury et service impeccable.",
       "Aava Whistler|Whistler|Lodge chalet et nature environnante."
     ],
-    "preferences": {
-      "themes": [
-        "Nature",
-        "wilderness"
-      ],
-      "hotel_style": "Lodge / chalet haut standing",
-      "best_for": "Lacs, montagnes, chalet haut de gamme",
-      "audience": "Couples • road trip",
-      "selection_note": "Privilégier le calme, l’architecture, les jardins, le service et une forte identité locale."
+    "profiles": {
+      "couple": {
+        "label": "Voyage en couple",
+        "angle": "Intimité, calme, architecture, gastronomie, bien-être et expériences privées.",
+        "verdict": "Très bon pour les voyageurs recherchant luxe sauvage et nature épurée. Pour un voyage à deux, privilégier les étapes peu nombreuses et les hôtels à forte identité."
+      },
+      "family": {
+        "label": "Voyage en famille",
+        "angle": "Chambres familiales ou communicantes, activités adaptées, logistique simple, piscine et rythme équilibré.",
+        "verdict": "Pour un voyage en famille, privilégier les transferts courts, les chambres communicantes et des activités adaptées à l’âge des enfants."
+      }
     }
   },
   {
@@ -826,15 +868,359 @@
       "Awasi Patagonia|Patagonie|Exclusivité et design discret.",
       "Llao Llao|Bariloche|Lodge chic au cœur des montagnes."
     ],
-    "preferences": {
-      "themes": [
-        "Nature",
-        "gastronomie"
-      ],
-      "hotel_style": "Luxe urbain / lodge chic",
-      "best_for": "Patagonie, Buenos Aires, vin et nature",
-      "audience": "Couples • road trip",
-      "selection_note": "Privilégier le calme, l’architecture, les jardins, le service et une forte identité locale."
+    "profiles": {
+      "couple": {
+        "label": "Voyage en couple",
+        "angle": "Intimité, calme, architecture, gastronomie, bien-être et expériences privées.",
+        "verdict": "Superbe pour les grands voyages, surtout en amoureux. Pour un voyage à deux, privilégier les étapes peu nombreuses et les hôtels à forte identité."
+      },
+      "family": {
+        "label": "Voyage en famille",
+        "angle": "Chambres familiales ou communicantes, activités adaptées, logistique simple, piscine et rythme équilibré.",
+        "verdict": "Pour un voyage en famille, privilégier les transferts courts, les chambres communicantes et des activités adaptées à l’âge des enfants."
+      }
+    }
+  },
+  {
+    "destination": "Cambodge",
+    "continent": "Asie",
+    "summary": "Temples khmers, Mékong et hôtellerie de caractère.",
+    "highlights": [
+      "Angkor Wat|Le grand ensemble religieux d’Angkor.",
+      "Bayon|Les tours aux visages du temple central d’Angkor Thom.",
+      "Phnom Penh|Palais royal, musées et scène culinaire."
+    ],
+    "practical": {
+      "when": "Novembre à février",
+      "duration": "10–12 jours",
+      "fromParis": "Vol avec escale vers Phnom Penh ou Siem Reap."
+    },
+    "verdict": "Une destination à construire selon la saison, le rythme et le profil du voyage.",
+    "theme": "Culture et hospitalité",
+    "audience": "Couples • familles",
+    "best_for": "Culture, paysages et hôtellerie de caractère",
+    "budget": "À préciser selon saison",
+    "stay_length": "10–12 jours",
+    "hotel_style": "Luxe de caractère",
+    "why_now": "Destination ajoutée à la couverture de l’Atlas.",
+    "score": 80,
+    "source": "atlas-editorial",
+    "editorial_stays": [],
+    "profiles": {
+      "couple": {
+        "label": "Voyage en couple",
+        "angle": "Intimité, calme, architecture, gastronomie, bien-être et expériences privées.",
+        "verdict": "Une destination à construire selon la saison, le rythme et le profil du voyage. Pour un voyage à deux, privilégier les étapes peu nombreuses et les hôtels à forte identité."
+      },
+      "family": {
+        "label": "Voyage en famille",
+        "angle": "Chambres familiales ou communicantes, activités adaptées, logistique simple, piscine et rythme équilibré.",
+        "verdict": "Pour un voyage en famille, privilégier les transferts courts, les chambres communicantes et des activités adaptées à l’âge des enfants."
+      }
+    }
+  },
+  {
+    "destination": "Corée du Sud",
+    "continent": "Asie",
+    "summary": "Séoul, palais, design contemporain et paysages côtiers.",
+    "highlights": [
+      "Gyeongbokgung|Le principal palais royal de Séoul.",
+      "Gyeongju|Temples et vestiges de l’ancien royaume de Silla.",
+      "Jeju|Côte volcanique et sentiers naturels."
+    ],
+    "practical": {
+      "when": "Avril à juin ou septembre à octobre",
+      "duration": "9–12 jours",
+      "fromParis": "Vol direct ou avec escale vers Séoul selon programme."
+    },
+    "verdict": "Une destination à construire selon la saison, le rythme et le profil du voyage.",
+    "theme": "Culture et hospitalité",
+    "audience": "Couples • familles",
+    "best_for": "Culture, paysages et hôtellerie de caractère",
+    "budget": "À préciser selon saison",
+    "stay_length": "9–12 jours",
+    "hotel_style": "Luxe de caractère",
+    "why_now": "Destination ajoutée à la couverture de l’Atlas.",
+    "score": 80,
+    "source": "atlas-editorial",
+    "editorial_stays": [],
+    "profiles": {
+      "couple": {
+        "label": "Voyage en couple",
+        "angle": "Intimité, calme, architecture, gastronomie, bien-être et expériences privées.",
+        "verdict": "Une destination à construire selon la saison, le rythme et le profil du voyage. Pour un voyage à deux, privilégier les étapes peu nombreuses et les hôtels à forte identité."
+      },
+      "family": {
+        "label": "Voyage en famille",
+        "angle": "Chambres familiales ou communicantes, activités adaptées, logistique simple, piscine et rythme équilibré.",
+        "verdict": "Pour un voyage en famille, privilégier les transferts courts, les chambres communicantes et des activités adaptées à l’âge des enfants."
+      }
+    }
+  },
+  {
+    "destination": "Sri Lanka",
+    "continent": "Asie",
+    "summary": "Cités anciennes, plantations de thé et côte tropicale.",
+    "highlights": [
+      "Sigiriya|Citadelle rocheuse et jardins historiques.",
+      "Kandy|Temple de la Dent et patrimoine royal.",
+      "Galle|Fort colonial face à l’océan."
+    ],
+    "practical": {
+      "when": "Janvier à mars pour le sud et l’ouest",
+      "duration": "10–14 jours",
+      "fromParis": "Vol avec escale vers Colombo."
+    },
+    "verdict": "Une destination à construire selon la saison, le rythme et le profil du voyage.",
+    "theme": "Culture et hospitalité",
+    "audience": "Couples • familles",
+    "best_for": "Culture, paysages et hôtellerie de caractère",
+    "budget": "À préciser selon saison",
+    "stay_length": "10–14 jours",
+    "hotel_style": "Luxe de caractère",
+    "why_now": "Destination ajoutée à la couverture de l’Atlas.",
+    "score": 80,
+    "source": "atlas-editorial",
+    "editorial_stays": [],
+    "profiles": {
+      "couple": {
+        "label": "Voyage en couple",
+        "angle": "Intimité, calme, architecture, gastronomie, bien-être et expériences privées.",
+        "verdict": "Une destination à construire selon la saison, le rythme et le profil du voyage. Pour un voyage à deux, privilégier les étapes peu nombreuses et les hôtels à forte identité."
+      },
+      "family": {
+        "label": "Voyage en famille",
+        "angle": "Chambres familiales ou communicantes, activités adaptées, logistique simple, piscine et rythme équilibré.",
+        "verdict": "Pour un voyage en famille, privilégier les transferts courts, les chambres communicantes et des activités adaptées à l’âge des enfants."
+      }
+    }
+  },
+  {
+    "destination": "Turquie",
+    "continent": "Europe",
+    "summary": "Istanbul, Cappadoce, mer Égée et héritage ottoman.",
+    "highlights": [
+      "Sainte-Sophie|Monument majeur de l’histoire byzantine et ottomane.",
+      "Éphèse|Grande cité antique de la côte égéenne.",
+      "Cappadoce|Paysages rocheux et cités souterraines."
+    ],
+    "practical": {
+      "when": "Avril à juin ou septembre à octobre",
+      "duration": "8–12 jours",
+      "fromParis": "Vol direct Paris–Istanbul."
+    },
+    "verdict": "Une destination à construire selon la saison, le rythme et le profil du voyage.",
+    "theme": "Culture et hospitalité",
+    "audience": "Couples • familles",
+    "best_for": "Culture, paysages et hôtellerie de caractère",
+    "budget": "À préciser selon saison",
+    "stay_length": "8–12 jours",
+    "hotel_style": "Luxe de caractère",
+    "why_now": "Destination ajoutée à la couverture de l’Atlas.",
+    "score": 80,
+    "source": "atlas-editorial",
+    "editorial_stays": [],
+    "profiles": {
+      "couple": {
+        "label": "Voyage en couple",
+        "angle": "Intimité, calme, architecture, gastronomie, bien-être et expériences privées.",
+        "verdict": "Une destination à construire selon la saison, le rythme et le profil du voyage. Pour un voyage à deux, privilégier les étapes peu nombreuses et les hôtels à forte identité."
+      },
+      "family": {
+        "label": "Voyage en famille",
+        "angle": "Chambres familiales ou communicantes, activités adaptées, logistique simple, piscine et rythme équilibré.",
+        "verdict": "Pour un voyage en famille, privilégier les transferts courts, les chambres communicantes et des activités adaptées à l’âge des enfants."
+      }
+    }
+  },
+  {
+    "destination": "Égypte",
+    "continent": "Afrique",
+    "summary": "Vallée du Nil, antiquités et mer Rouge.",
+    "highlights": [
+      "Gizeh|Pyramides et Sphinx.",
+      "Louxor|Temples et nécropoles de l’ancienne Thèbes.",
+      "Abou Simbel|Temples monumentaux de Ramsès II."
+    ],
+    "practical": {
+      "when": "Octobre à avril",
+      "duration": "8–12 jours",
+      "fromParis": "Vol direct ou avec escale vers Le Caire selon programme."
+    },
+    "verdict": "Une destination à construire selon la saison, le rythme et le profil du voyage.",
+    "theme": "Culture et hospitalité",
+    "audience": "Couples • familles",
+    "best_for": "Culture, paysages et hôtellerie de caractère",
+    "budget": "À préciser selon saison",
+    "stay_length": "8–12 jours",
+    "hotel_style": "Luxe de caractère",
+    "why_now": "Destination ajoutée à la couverture de l’Atlas.",
+    "score": 80,
+    "source": "atlas-editorial",
+    "editorial_stays": [],
+    "profiles": {
+      "couple": {
+        "label": "Voyage en couple",
+        "angle": "Intimité, calme, architecture, gastronomie, bien-être et expériences privées.",
+        "verdict": "Une destination à construire selon la saison, le rythme et le profil du voyage. Pour un voyage à deux, privilégier les étapes peu nombreuses et les hôtels à forte identité."
+      },
+      "family": {
+        "label": "Voyage en famille",
+        "angle": "Chambres familiales ou communicantes, activités adaptées, logistique simple, piscine et rythme équilibré.",
+        "verdict": "Pour un voyage en famille, privilégier les transferts courts, les chambres communicantes et des activités adaptées à l’âge des enfants."
+      }
+    }
+  },
+  {
+    "destination": "Tanzanie",
+    "continent": "Afrique",
+    "summary": "Grands safaris, cratère du Ngorongoro et Zanzibar.",
+    "highlights": [
+      "Serengeti|Grand écosystème de savane.",
+      "Ngorongoro|Cratère et forte concentration de faune.",
+      "Stone Town|Centre historique de Zanzibar."
+    ],
+    "practical": {
+      "when": "Juin à octobre ou janvier à février",
+      "duration": "10–14 jours",
+      "fromParis": "Vol avec escale vers Kilimandjaro ou Zanzibar."
+    },
+    "verdict": "Une destination à construire selon la saison, le rythme et le profil du voyage.",
+    "theme": "Culture et hospitalité",
+    "audience": "Couples • familles",
+    "best_for": "Culture, paysages et hôtellerie de caractère",
+    "budget": "À préciser selon saison",
+    "stay_length": "10–14 jours",
+    "hotel_style": "Luxe de caractère",
+    "why_now": "Destination ajoutée à la couverture de l’Atlas.",
+    "score": 80,
+    "source": "atlas-editorial",
+    "editorial_stays": [],
+    "profiles": {
+      "couple": {
+        "label": "Voyage en couple",
+        "angle": "Intimité, calme, architecture, gastronomie, bien-être et expériences privées.",
+        "verdict": "Une destination à construire selon la saison, le rythme et le profil du voyage. Pour un voyage à deux, privilégier les étapes peu nombreuses et les hôtels à forte identité."
+      },
+      "family": {
+        "label": "Voyage en famille",
+        "angle": "Chambres familiales ou communicantes, activités adaptées, logistique simple, piscine et rythme équilibré.",
+        "verdict": "Pour un voyage en famille, privilégier les transferts courts, les chambres communicantes et des activités adaptées à l’âge des enfants."
+      }
+    }
+  },
+  {
+    "destination": "Costa Rica",
+    "continent": "Amérique du Nord",
+    "summary": "Forêts tropicales, volcans et littoraux préservés.",
+    "highlights": [
+      "Arenal|Volcan, sources chaudes et forêt tropicale.",
+      "Monteverde|Forêt de nuages et biodiversité.",
+      "Péninsule d’Osa|Parcs naturels et côte pacifique."
+    ],
+    "practical": {
+      "when": "Décembre à avril",
+      "duration": "10–14 jours",
+      "fromParis": "Vol direct saisonnier ou avec escale vers San José selon programme."
+    },
+    "verdict": "Une destination à construire selon la saison, le rythme et le profil du voyage.",
+    "theme": "Culture et hospitalité",
+    "audience": "Couples • familles",
+    "best_for": "Culture, paysages et hôtellerie de caractère",
+    "budget": "À préciser selon saison",
+    "stay_length": "10–14 jours",
+    "hotel_style": "Luxe de caractère",
+    "why_now": "Destination ajoutée à la couverture de l’Atlas.",
+    "score": 80,
+    "source": "atlas-editorial",
+    "editorial_stays": [],
+    "profiles": {
+      "couple": {
+        "label": "Voyage en couple",
+        "angle": "Intimité, calme, architecture, gastronomie, bien-être et expériences privées.",
+        "verdict": "Une destination à construire selon la saison, le rythme et le profil du voyage. Pour un voyage à deux, privilégier les étapes peu nombreuses et les hôtels à forte identité."
+      },
+      "family": {
+        "label": "Voyage en famille",
+        "angle": "Chambres familiales ou communicantes, activités adaptées, logistique simple, piscine et rythme équilibré.",
+        "verdict": "Pour un voyage en famille, privilégier les transferts courts, les chambres communicantes et des activités adaptées à l’âge des enfants."
+      }
+    }
+  },
+  {
+    "destination": "Brésil",
+    "continent": "Amérique du Sud",
+    "summary": "Rio, architecture moderniste, Amazonie et littoraux.",
+    "highlights": [
+      "Rio de Janeiro|Baie, reliefs et patrimoine urbain.",
+      "Salvador de Bahia|Centre historique et culture afro-brésilienne.",
+      "Iguaçu|Grand ensemble de chutes à la frontière argentine."
+    ],
+    "practical": {
+      "when": "Mai à octobre selon les régions",
+      "duration": "10–16 jours",
+      "fromParis": "Vol direct ou avec escale vers São Paulo ou Rio."
+    },
+    "verdict": "Une destination à construire selon la saison, le rythme et le profil du voyage.",
+    "theme": "Culture et hospitalité",
+    "audience": "Couples • familles",
+    "best_for": "Culture, paysages et hôtellerie de caractère",
+    "budget": "À préciser selon saison",
+    "stay_length": "10–16 jours",
+    "hotel_style": "Luxe de caractère",
+    "why_now": "Destination ajoutée à la couverture de l’Atlas.",
+    "score": 80,
+    "source": "atlas-editorial",
+    "editorial_stays": [],
+    "profiles": {
+      "couple": {
+        "label": "Voyage en couple",
+        "angle": "Intimité, calme, architecture, gastronomie, bien-être et expériences privées.",
+        "verdict": "Une destination à construire selon la saison, le rythme et le profil du voyage. Pour un voyage à deux, privilégier les étapes peu nombreuses et les hôtels à forte identité."
+      },
+      "family": {
+        "label": "Voyage en famille",
+        "angle": "Chambres familiales ou communicantes, activités adaptées, logistique simple, piscine et rythme équilibré.",
+        "verdict": "Pour un voyage en famille, privilégier les transferts courts, les chambres communicantes et des activités adaptées à l’âge des enfants."
+      }
+    }
+  },
+  {
+    "destination": "Norvège",
+    "continent": "Europe",
+    "summary": "Fjords, architecture nordique et routes panoramiques.",
+    "highlights": [
+      "Geirangerfjord|Fjord spectaculaire de l’ouest norvégien.",
+      "Oslo|Musées, opéra et architecture contemporaine.",
+      "Îles Lofoten|Villages côtiers et paysages arctiques."
+    ],
+    "practical": {
+      "when": "Mai à septembre ; hiver pour les aurores",
+      "duration": "7–12 jours",
+      "fromParis": "Vol direct Paris–Oslo selon programme."
+    },
+    "verdict": "Une destination à construire selon la saison, le rythme et le profil du voyage.",
+    "theme": "Culture et hospitalité",
+    "audience": "Couples • familles",
+    "best_for": "Culture, paysages et hôtellerie de caractère",
+    "budget": "À préciser selon saison",
+    "stay_length": "7–12 jours",
+    "hotel_style": "Luxe de caractère",
+    "why_now": "Destination ajoutée à la couverture de l’Atlas.",
+    "score": 80,
+    "source": "atlas-editorial",
+    "editorial_stays": [],
+    "profiles": {
+      "couple": {
+        "label": "Voyage en couple",
+        "angle": "Intimité, calme, architecture, gastronomie, bien-être et expériences privées.",
+        "verdict": "Une destination à construire selon la saison, le rythme et le profil du voyage. Pour un voyage à deux, privilégier les étapes peu nombreuses et les hôtels à forte identité."
+      },
+      "family": {
+        "label": "Voyage en famille",
+        "angle": "Chambres familiales ou communicantes, activités adaptées, logistique simple, piscine et rythme équilibré.",
+        "verdict": "Pour un voyage en famille, privilégier les transferts courts, les chambres communicantes et des activités adaptées à l’âge des enfants."
+      }
     }
   }
 ]
