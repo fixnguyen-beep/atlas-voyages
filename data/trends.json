@@ -1,6 +1,6 @@
 {
   "schema_version": 4,
-  "generated_at": "2026-10-29T14:17:46.367483+00:00",
+  "generated_at": "2026-11-02T03:46:35.899948+00:00",
   "summary": "Atlas enrichi par des recherches indépendantes par pays et par profil.",
   "items": [
     {
@@ -4009,8 +4009,8 @@
           "label": "Voyage en famille",
           "angle": "Chambres familiales ou communicantes, activités adaptées, logistique simple, piscine et rythme équilibré.",
           "verdict": "Pour un voyage en famille, privilégier les transferts courts, les chambres communicantes et des activités adaptées à l’âge des enfants.",
-          "summary": "Voici une sélection de 10 hôtels actuellement ouverts au Cambodge, adaptés aux familles, offrant des chambres familiales ou communicantes, des activités adaptées, une logistique simple, une piscine et un rythme équilibré.",
-          "practical_note": "Ces recommandations vous aideront à organiser un séjour familial équilibré et agréable au Cambodge.",
+          "summary": "Voici une sélection d'hôtels adaptés aux familles au Cambodge, offrant des chambres familiales, des activités adaptées et une logistique simple.",
+          "practical_note": "Conseils pour un séjour en famille au Cambodge : planifiez des visites tôt le matin, privilégiez les transports privés et emportez des articles essentiels pour enfants.",
           "hotels": [
             {
               "name": "Sofitel Angkor Phokeethra Golf & Spa Resort",
@@ -4119,6 +4119,18 @@
               "published_at": null,
               "profile": "family",
               "status": "web_researched"
+            },
+            {
+              "name": "Sofitel Phnom Penh Phokeethra",
+              "country": "Cambodge",
+              "location": "Phnom Penh",
+              "description": "Cet hôtel offre des chambres familiales, un club enfants et des activités adaptées aux familles.",
+              "official_url": "https://sofitel.accor.com",
+              "source_url": "https://sofitel.accor.com/fr/hotels/6526/luxury-family-holidays-in-cambodia---sofitel-phnom-penh-phokeeth.html",
+              "source_publisher": "Sofitel",
+              "published_at": null,
+              "profile": "family",
+              "status": "web_researched"
             }
           ],
           "advice": [
@@ -4150,8 +4162,8 @@
               "published_at": null
             }
           ],
-          "complete": false,
-          "hotel_count": 9
+          "complete": true,
+          "hotel_count": 10
         }
       }
     },
@@ -10499,13 +10511,7 @@
   "quality_report": {
     "target_hotels_per_profile": 10,
     "target_openings": 20,
-    "incomplete_profiles": [
-      {
-        "destination": "Cambodge",
-        "profile": "family",
-        "count": 9
-      }
-    ],
+    "incomplete_profiles": [],
     "opening_count": 20
   },
   "methodology": {
